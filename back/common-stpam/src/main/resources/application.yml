@@ -1,0 +1,27 @@
+server:
+  port: 8911
+#dubbo:
+#  registry:
+#    address: localhost:8848
+#  cloud:
+#    subscribed-services: wpsDubbo-service
+
+spring:
+  main:
+    allow-circular-references: true
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+  application:
+    name: common-service
+
+dubbo:
+  registry:
+    address: nacos://localhost:8848
+  scan:
+    base-packages: com.example.algorithmdubboservice.service.impl # ?????
+  protocols:
+    dubbo:
+      name: dubbo  # ????
+      port: -1   # ????

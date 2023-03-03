@@ -1,0 +1,17 @@
+2022-10-30 09:25:46,460|192.168.137.1|dubbo.properties|dubbo|null|unknown|-1|pull|not-found|-1|127.0.0.1|false
+2022-10-30 09:25:46,477|192.168.137.1|dubbo.properties|algorithm-dubboService|null|unknown|-1|pull|not-found|-1|127.0.0.1|false
+2022-10-30 09:25:46,642|192.168.137.1|algorithm-dubboService.configurators|dubbo|null|unknown|-1|pull|not-found|-1|127.0.0.1|false
+2022-10-30 09:25:46,668|192.168.137.1|com.example.commonstpam.service.IAlgorithmService:1.0.0:.configurators|dubbo|null|unknown|-1|pull|not-found|-1|127.0.0.1|false
+2022-10-30 09:25:48,450|192.168.137.1|algorithm-dubboService.migration|MIGRATION|null|unknown|-1|pull|not-found|-1|127.0.0.1|false
+2022-10-30 09:25:48,456|192.168.137.1|com.example.commonstpam.service.IAlgorithmService:1.0.0:.configurators|dubbo|null|unknown|-1|pull|not-found|-1|127.0.0.1|false
+2022-10-30 09:25:49,751|192.168.137.1|com.example.commonstpam.service.IAlgorithmService:2.0.0:.configurators|dubbo|null|unknown|-1|pull|not-found|-1|127.0.0.1|false
+2022-10-30 09:25:49,806|192.168.137.1|com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService|dubbo|null|unknown|1667093149752|192.168.137.1|persist|pub|-1|d7eb79f50c189b1a8efa6133123ddd5d
+2022-10-30 09:25:49,950|192.168.137.1|com.example.commonstpam.service.IAlgorithmService:2.0.0:.configurators|dubbo|null|unknown|-1|pull|not-found|-1|127.0.0.1|false
+2022-10-30 09:25:51,163|192.168.137.1|com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService|dubbo|null|null|1667093149752|192.168.137.1|dump|ok|1411|2391
+2022-10-30 09:25:51,219|192.168.137.1|com.example.commonstpam.service.IAlgorithmService:2.0.0::provider:algorithm-dubboService|dubbo|null|unknown|1667093151212|192.168.137.1|persist|pub|-1|8f6dcf3898d30906c80150439ba5e170
+2022-10-30 09:25:51,239|192.168.137.1|com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService.configurators|dubbo|null|unknown|-1|pull|not-found|-1|127.0.0.1|false
+2022-10-30 09:25:51,272|192.168.137.1|com.example.commonstpam.service.IAlgorithmService:2.0.0::provider:algorithm-dubboService|dubbo|null|null|1667093151212|192.168.137.1|dump|ok|60|2391
+2022-10-30 09:25:51,441|192.168.137.1|com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService.configurators|dubbo|null|unknown|-1|pull|not-found|-1|127.0.0.1|false
+2022-10-30 09:25:52,619|192.168.137.1|com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService|dubbo|null|unknown|1667093152616|192.168.137.1|persist|pub|-1|efa363912421d13f8b7bfcf79a1cfb09
+2022-10-30 09:25:52,700|192.168.137.1|com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService|dubbo|null|null|1667093152616|192.168.137.1|dump|ok|84|1556
+2022-10-30 09:28:42,433|192.168.137.1|stpam-service|DEFAULT_GROUP|null|unknown|1662639216863|pull|ok|4454105570|127.0.0.1|false

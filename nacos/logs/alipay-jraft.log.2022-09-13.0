@@ -1,0 +1,132 @@
+2022-09-13 10:02:10,109 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2022-09-13 10:02:10,169 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2022-09-13 10:02:10,397 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2022-09-13 10:02:10,422 INFO The number of active nodes increment to 1.
+
+2022-09-13 10:02:10,640 INFO Starts FSMCaller successfully.
+
+2022-09-13 10:02:10,649 INFO Loading snapshot, meta=last_included_index: 4
+last_included_term: 4
+peers: "172.27.29.94:7848"
+.
+
+2022-09-13 10:02:10,722 INFO Node <naming_persistent_service_v2/172.27.29.94:7848> onSnapshotLoadDone, last_included_index: 4
+last_included_term: 4
+peers: "172.27.29.94:7848"
+
+
+2022-09-13 10:02:10,722 INFO Node <naming_persistent_service_v2/172.27.29.94:7848> target priority value has changed from: 0, to: -1.
+
+2022-09-13 10:02:10,739 INFO Node <naming_persistent_service_v2/172.27.29.94:7848> init, term=4, lastLogId=LogId [index=4, term=4], conf=172.27.29.94:7848, oldConf=.
+
+2022-09-13 10:02:10,741 INFO Node <naming_persistent_service_v2/172.27.29.94:7848> start vote and grant vote self, term=4.
+
+2022-09-13 10:02:10,753 WARN Unable to fsync directory C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data on windows.
+
+2022-09-13 10:02:10,754 INFO Save raft meta, path=C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data, term=5, votedFor=172.27.29.94:7848, cost time=11 ms
+
+2022-09-13 10:02:10,754 INFO Node <naming_persistent_service_v2/172.27.29.94:7848> become leader of group, term=5, conf=172.27.29.94:7848, oldConf=.
+
+2022-09-13 10:02:10,756 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2022-09-13 10:02:10,758 WARN RPC server is not started in RaftGroupService.
+
+2022-09-13 10:02:10,758 INFO Start the RaftGroupService successfully.
+
+2022-09-13 10:02:10,767 INFO onLeaderStart: term=5.
+
+2022-09-13 10:02:10,775 INFO The number of active nodes increment to 2.
+
+2022-09-13 10:02:10,810 INFO Starts FSMCaller successfully.
+
+2022-09-13 10:02:10,812 INFO Loading snapshot, meta=last_included_index: 11
+last_included_term: 4
+peers: "172.27.29.94:7848"
+.
+
+2022-09-13 10:02:10,817 INFO Node <naming_instance_metadata/172.27.29.94:7848> onSnapshotLoadDone, last_included_index: 11
+last_included_term: 4
+peers: "172.27.29.94:7848"
+
+
+2022-09-13 10:02:10,818 INFO Node <naming_instance_metadata/172.27.29.94:7848> target priority value has changed from: 0, to: -1.
+
+2022-09-13 10:02:10,819 INFO Node <naming_instance_metadata/172.27.29.94:7848> init, term=4, lastLogId=LogId [index=11, term=4], conf=172.27.29.94:7848, oldConf=.
+
+2022-09-13 10:02:10,819 INFO Node <naming_instance_metadata/172.27.29.94:7848> start vote and grant vote self, term=4.
+
+2022-09-13 10:02:10,822 WARN Unable to fsync directory C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
+
+2022-09-13 10:02:10,822 INFO Save raft meta, path=C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=5, votedFor=172.27.29.94:7848, cost time=2 ms
+
+2022-09-13 10:02:10,822 INFO Node <naming_instance_metadata/172.27.29.94:7848> become leader of group, term=5, conf=172.27.29.94:7848, oldConf=.
+
+2022-09-13 10:02:10,822 WARN RPC server is not started in RaftGroupService.
+
+2022-09-13 10:02:10,822 INFO Start the RaftGroupService successfully.
+
+2022-09-13 10:02:10,823 INFO onLeaderStart: term=5.
+
+2022-09-13 10:02:10,826 INFO The number of active nodes increment to 3.
+
+2022-09-13 10:02:10,838 WARN Channel in TRANSIENT_FAILURE state: 172.27.29.94:7848.
+
+2022-09-13 10:02:10,839 WARN Channel in SHUTDOWN state: 172.27.29.94:7848.
+
+2022-09-13 10:02:10,865 INFO Starts FSMCaller successfully.
+
+2022-09-13 10:02:10,875 INFO Loading snapshot, meta=last_included_index: 4
+last_included_term: 4
+peers: "172.27.29.94:7848"
+.
+
+2022-09-13 10:02:10,879 INFO Node <naming_service_metadata/172.27.29.94:7848> onSnapshotLoadDone, last_included_index: 4
+last_included_term: 4
+peers: "172.27.29.94:7848"
+
+
+2022-09-13 10:02:10,879 INFO Node <naming_service_metadata/172.27.29.94:7848> target priority value has changed from: 0, to: -1.
+
+2022-09-13 10:02:10,880 INFO Node <naming_service_metadata/172.27.29.94:7848> init, term=4, lastLogId=LogId [index=4, term=4], conf=172.27.29.94:7848, oldConf=.
+
+2022-09-13 10:02:10,881 INFO Node <naming_service_metadata/172.27.29.94:7848> start vote and grant vote self, term=4.
+
+2022-09-13 10:02:10,884 WARN Unable to fsync directory C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
+
+2022-09-13 10:02:10,884 INFO Save raft meta, path=C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=5, votedFor=172.27.29.94:7848, cost time=3 ms
+
+2022-09-13 10:02:10,884 INFO Node <naming_service_metadata/172.27.29.94:7848> become leader of group, term=5, conf=172.27.29.94:7848, oldConf=.
+
+2022-09-13 10:02:10,885 WARN RPC server is not started in RaftGroupService.
+
+2022-09-13 10:02:10,886 INFO Start the RaftGroupService successfully.
+
+2022-09-13 10:02:10,886 INFO onLeaderStart: term=5.
+
+2022-09-13 10:17:33,060 WARN Unable to fsync directory C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp on windows.
+
+2022-09-13 10:17:33,060 INFO Deleting snapshot C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_5.
+
+2022-09-13 10:17:33,060 INFO Renaming C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp to C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_5.
+
+2022-09-13 10:17:33,060 INFO Deleting snapshot C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_4.
+
+2022-09-13 10:20:53,980 WARN Unable to fsync directory C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
+
+2022-09-13 10:20:53,981 INFO Deleting snapshot C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_5.
+
+2022-09-13 10:20:53,981 INFO Renaming C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_5.
+
+2022-09-13 10:20:53,981 INFO Deleting snapshot C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_4.
+
+2022-09-13 10:23:52,347 WARN Unable to fsync directory C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp on windows.
+
+2022-09-13 10:23:52,348 INFO Deleting snapshot C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_12.
+
+2022-09-13 10:23:52,348 INFO Renaming C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp to C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_12.
+
+2022-09-13 10:23:52,348 INFO Deleting snapshot C:\Users\Administrator\Desktop\STPam_cloud\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_11.
+

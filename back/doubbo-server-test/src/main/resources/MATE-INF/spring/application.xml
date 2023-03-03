@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <dubbo:application name="dubbo-server"/>
+
+    <dubbo:registry address="nacos://localhost:8848"/>
+
+    <dubbo:protocol name="dubbo" port="208800"/>
+
+    <dubbo:service interface="com.example.IDubboServiceTest" ref="dubboServiceTest"/>
+
+    <bean id="dubboServiceTest" class="com.example.LoginServiceImpl"/>
+
+</beans>

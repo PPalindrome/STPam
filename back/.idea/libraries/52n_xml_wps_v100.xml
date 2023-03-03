@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="52n-xml-wps-v100">
+    <CLASSES>
+      <root url="file://D:/server/maven/repository/org/n52/wps/52n-xml-wps-v100" />
+      <root url="file://D:/server/maven/repository/org/n52/wps/52n-wps-parent" />
+      <root url="file://D:/server/maven/repository/org/n52/wps/52n-wps-client-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

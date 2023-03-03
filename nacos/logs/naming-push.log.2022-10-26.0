@@ -1,0 +1,246 @@
+2022-10-26 08:50:57,148 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-26 08:50:58,080 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service changed, schedule push for: 192.168.137.1:54887, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54887,432342194038800
+
+2022-10-26 08:50:58,083 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-26 08:50:58,083 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service changed, schedule push for: 192.168.137.1:60509, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,60509,432342671039500
+
+2022-10-26 08:50:58,083 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-26 08:50:58,083 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service@@DEFAULT changed, schedule push for: 192.168.137.1:58664, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58664,432342671659000
+
+2022-10-26 08:50:58,083 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-26 08:50:58,084 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service changed, schedule push for: 192.168.137.1:54205, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54205,432342671861200
+
+2022-10-26 08:50:58,084 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-26 08:50:58,084 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service changed, schedule push for: 192.168.137.1:54887, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54887,432342672275400
+
+2022-10-26 08:50:58,084 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-26 08:50:58,084 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service changed, schedule push for: 192.168.137.1:60509, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,60509,432342672334900
+
+2022-10-26 08:50:58,084 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-26 08:50:58,084 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service@@DEFAULT changed, schedule push for: 192.168.137.1:58664, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58664,432342672387700
+
+2022-10-26 08:50:58,084 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-26 08:50:58,206 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service changed, schedule push for: 192.168.137.1:54205, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54205,432342794181200
+
+2022-10-26 08:50:58,084 INFO send udp packet: 192.168.137.1,54887,432342194038800
+
+2022-10-26 08:50:58,226 ERROR [PUSH-FAIL] 1078ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}, reason=No route to host: Datagram send failed, target=192.168.137.1
+
+2022-10-26 08:50:58,257 ERROR Reason detail: 
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:132)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.doSend(UdpConnector.java:104)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.access$300(UdpConnector.java:45)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector$UdpAsyncSender.run(UdpConnector.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2022-10-26 08:50:58,258 INFO send udp packet: 192.168.137.1,60509,432342671039500
+
+2022-10-26 08:50:58,258 ERROR [PUSH-FAIL] 175ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}, reason=No route to host: Datagram send failed, target=192.168.137.1
+
+2022-10-26 08:50:58,258 ERROR Reason detail: 
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:132)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.doSend(UdpConnector.java:104)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.access$300(UdpConnector.java:45)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector$UdpAsyncSender.run(UdpConnector.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2022-10-26 08:50:58,258 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}
+
+2022-10-26 08:50:58,258 INFO send udp packet: 192.168.137.1,58664,432342671659000
+
+2022-10-26 08:50:58,258 ERROR [PUSH-FAIL] 175ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}, reason=No route to host: Datagram send failed, target=192.168.137.1
+
+2022-10-26 08:50:58,258 ERROR Reason detail: 
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:132)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.doSend(UdpConnector.java:104)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.access$300(UdpConnector.java:45)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector$UdpAsyncSender.run(UdpConnector.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2022-10-26 08:50:58,258 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}
+
+2022-10-26 08:50:58,258 INFO send udp packet: 192.168.137.1,54205,432342671861200
+
+2022-10-26 08:50:58,258 ERROR [PUSH-FAIL] 175ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}, reason=No route to host: Datagram send failed, target=192.168.137.1
+
+2022-10-26 08:50:58,258 ERROR Reason detail: 
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:132)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.doSend(UdpConnector.java:104)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.access$300(UdpConnector.java:45)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector$UdpAsyncSender.run(UdpConnector.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2022-10-26 08:50:58,259 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}
+
+2022-10-26 08:50:58,259 INFO send udp packet: 192.168.137.1,54887,432342672275400
+
+2022-10-26 08:50:58,260 ERROR [PUSH-FAIL] 176ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}, reason=No route to host: Datagram send failed, target=192.168.137.1
+
+2022-10-26 08:50:58,260 ERROR Reason detail: 
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:132)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.doSend(UdpConnector.java:104)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.access$300(UdpConnector.java:45)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector$UdpAsyncSender.run(UdpConnector.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2022-10-26 08:50:58,260 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}
+
+2022-10-26 08:50:58,260 INFO send udp packet: 192.168.137.1,60509,432342672334900
+
+2022-10-26 08:50:58,260 ERROR [PUSH-FAIL] 176ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}, reason=No route to host: Datagram send failed, target=192.168.137.1
+
+2022-10-26 08:50:58,260 ERROR Reason detail: 
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:132)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.doSend(UdpConnector.java:104)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.access$300(UdpConnector.java:45)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector$UdpAsyncSender.run(UdpConnector.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2022-10-26 08:50:58,260 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}
+
+2022-10-26 08:50:58,261 INFO send udp packet: 192.168.137.1,58664,432342672387700
+
+2022-10-26 08:50:58,261 ERROR [PUSH-FAIL] 177ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}, reason=No route to host: Datagram send failed, target=192.168.137.1
+
+2022-10-26 08:50:58,261 ERROR Reason detail: 
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:132)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.doSend(UdpConnector.java:104)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.access$300(UdpConnector.java:45)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector$UdpAsyncSender.run(UdpConnector.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2022-10-26 08:50:58,261 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}
+
+2022-10-26 08:50:58,261 INFO send udp packet: 192.168.137.1,54205,432342794181200
+
+2022-10-26 08:50:58,261 ERROR [PUSH-FAIL] 177ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}, reason=No route to host: Datagram send failed, target=192.168.137.1
+
+2022-10-26 08:50:58,261 ERROR Reason detail: 
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:132)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.doSend(UdpConnector.java:104)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.access$300(UdpConnector.java:45)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector$UdpAsyncSender.run(UdpConnector.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2022-10-26 08:50:58,261 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=20}
+
+2022-10-26 08:51:00,058 WARN max re-push times reached, retry times 2, key: 192.168.137.1,54887,392338006358500
+
+2022-10-26 08:51:00,063 ERROR [PUSH-FAIL] 40002633ms, Service{namespace='public', group='DEFAULT_GROUP', name='service-test', ephemeral=true, revision=12}, reason=null, target=192.168.137.1
+
+2022-10-26 08:51:00,064 WARN max re-push times reached, retry times 2, key: 192.168.137.1,60509,392338006486400
+
+2022-10-26 08:51:00,064 ERROR [PUSH-FAIL] 40002634ms, Service{namespace='public', group='DEFAULT_GROUP', name='service-test', ephemeral=true, revision=12}, reason=null, target=192.168.137.1
+
+2022-10-26 08:51:00,064 WARN max re-push times reached, retry times 2, key: 192.168.137.1,58664,392338006537100
+
+2022-10-26 08:51:00,064 ERROR [PUSH-FAIL] 40002634ms, Service{namespace='public', group='DEFAULT_GROUP', name='service-test', ephemeral=true, revision=12}, reason=null, target=192.168.137.1
+
+2022-10-26 08:51:00,066 WARN max re-push times reached, retry times 2, key: 192.168.137.1,54205,392338006850800
+
+2022-10-26 08:51:00,066 ERROR [PUSH-FAIL] 40002636ms, Service{namespace='public', group='DEFAULT_GROUP', name='service-test', ephemeral=true, revision=12}, reason=null, target=192.168.137.1
+
+2022-10-26 19:52:58,948 INFO DEFAULT_GROUP@@common-service is changed, add it to push queue.
+
+2022-10-26 19:52:58,951 INFO serviceName: DEFAULT_GROUP@@common-service@@DEFAULT changed, schedule push for: 192.168.137.1:50306, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,50306,472070829170000
+
+2022-10-26 19:52:58,952 INFO send udp packet: 192.168.137.1,50306,472070829170000
+
+2022-10-26 19:52:58,963 INFO [PUSH-SUCC] 16ms, all delay time 523ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-26 19:53:00,154 INFO DEFAULT_GROUP@@common-service is changed, add it to push queue.
+
+2022-10-26 19:53:00,155 INFO serviceName: DEFAULT_GROUP@@common-service@@DEFAULT changed, schedule push for: 192.168.137.1:50306, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,50306,472072034873400
+
+2022-10-26 19:53:00,155 INFO send udp packet: 192.168.137.1,50306,472072034873400
+
+2022-10-26 19:53:00,166 INFO [PUSH-SUCC] 12ms, all delay time 562ms, SLA 562ms, Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-26 19:53:05,406 INFO DEFAULT_GROUP@@common-service is changed, add it to push queue.
+
+2022-10-26 19:53:05,408 INFO serviceName: DEFAULT_GROUP@@common-service@@DEFAULT changed, schedule push for: 192.168.137.1:50306, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,50306,472077286789400
+
+2022-10-26 19:53:05,408 INFO send udp packet: 192.168.137.1,50306,472077286789400
+
+2022-10-26 19:53:05,411 INFO [PUSH-SUCC] 5ms, all delay time 538ms, SLA 538ms, Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=2}, originalSize=1, DataSize=1, target=192.168.137.1
+

@@ -1,0 +1,76 @@
+2022-10-24 17:23:51,270 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2022-10-24 17:23:51,270 WARN Using naming.distro config to replace core.distro config
+
+2022-10-24 17:23:51,369 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-10-24 17:23:51,369 INFO listen for service meta change
+
+2022-10-24 17:23:55,779 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2022-10-24 17:23:55,779 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2022-10-24 17:23:55,780 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2022-10-24 17:23:55,780 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2022-10-24 17:23:56,660 INFO Load instance extension handler []
+
+2022-10-24 17:24:37,441 INFO Client connection 192.168.137.1:9000#true connect
+
+2022-10-24 17:24:37,452 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=0}, 192.168.137.1:9000#true
+
+2022-10-24 17:34:22,124 INFO Client connection 192.168.137.1:63783#true connect
+
+2022-10-24 17:34:23,293 INFO Client connection 192.168.137.1:8911#true connect
+
+2022-10-24 17:34:23,293 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=0}, 192.168.137.1:8911#true
+
+2022-10-24 17:34:32,538 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=1}, 192.168.137.1:8911#true
+
+2022-10-24 17:35:03,809 INFO Client connection 192.168.137.1:8911#true disconnect, remove instances and subscribers
+
+2022-10-24 17:35:08,818 INFO Client connection 192.168.137.1:63783#true disconnect, remove instances and subscribers
+
+2022-10-24 17:36:26,495 WARN namespace : public, [DEFAULT_GROUP@@common-service] services are automatically cleaned
+
+2022-10-24 17:40:12,117 INFO Client connection 192.168.137.1:57714#true connect
+
+2022-10-24 17:40:13,265 INFO Client connection 192.168.137.1:8911#true connect
+
+2022-10-24 17:40:13,265 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=0}, 192.168.137.1:8911#true
+
+2022-10-24 17:40:19,155 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=1}, 192.168.137.1:8911#true
+
+2022-10-24 17:41:10,750 INFO Client connection 192.168.137.1:59162#true connect
+
+2022-10-24 17:41:11,925 INFO Client connection 192.168.137.1:8989#true connect
+
+2022-10-24 17:41:11,925 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=0}, 192.168.137.1:8989#true
+
+2022-10-24 17:41:19,143 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=1}, 192.168.137.1:8989#true
+
+2022-10-24 17:41:49,506 INFO Client connection 192.168.137.1:8989#true disconnect, remove instances and subscribers
+
+2022-10-24 17:41:54,518 INFO Client connection 192.168.137.1:59162#true disconnect, remove instances and subscribers
+
+2022-10-24 17:42:26,544 WARN namespace : public, [DEFAULT_GROUP@@wpsDubbo-service] services are automatically cleaned
+
+2022-10-24 18:34:30,516 INFO Client connection 192.168.137.1:57714#true disconnect, remove instances and subscribers
+
+2022-10-24 18:34:30,516 INFO Client connection 192.168.137.1:9000#true disconnect, remove instances and subscribers
+
+2022-10-24 18:34:30,516 INFO Client connection 192.168.137.1:8911#true disconnect, remove instances and subscribers
+
+2022-10-24 18:34:31,116 INFO Client connection 192.168.137.1:57714#true connect
+
+2022-10-24 18:34:31,935 INFO Client connection 192.168.137.1:9000#true connect
+
+2022-10-24 18:34:31,935 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=2}, 192.168.137.1:9000#true
+
+2022-10-24 18:34:32,004 INFO Client connection 192.168.137.1:8911#true connect
+
+2022-10-24 18:34:32,004 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=3}, 192.168.137.1:8911#true
+
+2022-10-24 18:34:46,296 ERROR local ip is not in serverlist, ip: 172.27.60.174:8848, serverlist: [Member{ip='172.27.60.174', port=8848, state=UP, extendInfo={lastRefreshTime=1666603436535, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@52c41a8f, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+

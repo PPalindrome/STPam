@@ -1,0 +1,12 @@
+
+nacos：
+startup.cmd -m standalone
+
+sentinel：
+java -Dserver.port=9090 -Dcsp.sentinel.dashboard.server=localhost:9090 -Dproject.name=sentinel-dashboard -jar sentinel-dashboard-1.8.5.jar
+
+zkpkin：
+java -jar zipkin-server-2.23.18-exec.jar --STORAGE_TYPE=elasticsearch --ESHOST=localhost:9200
+
+seata:
+seata-server.bat -p 9000 -m nacos

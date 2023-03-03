@@ -1,0 +1,342 @@
+2022-09-13 10:02:06,453 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2022-09-13 10:02:06,453 WARN Using naming.distro config to replace core.distro config
+
+2022-09-13 10:02:06,609 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-09-13 10:02:06,610 INFO listen for service meta change
+
+2022-09-13 10:02:06,618 INFO upgrade.state file is not exist
+
+2022-09-13 10:02:10,008 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2022-09-13 10:02:10,008 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2022-09-13 10:02:10,008 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2022-09-13 10:02:10,008 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2022-09-13 10:02:11,060 INFO Load instance extension handler []
+
+2022-09-13 10:02:41,015 INFO Client connection 172.27.187.122:57130#true connect
+
+2022-09-13 10:02:42,675 INFO Client connection 172.27.29.94:7000#true connect
+
+2022-09-13 10:02:42,676 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=0}, 172.27.29.94:7000#true
+
+2022-09-13 10:02:45,877 INFO Client connection 172.27.187.122:57131#true connect
+
+2022-09-13 10:02:46,420 INFO Client connection 172.27.29.94:8099#true connect
+
+2022-09-13 10:02:46,420 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='service-test', ephemeral=true, revision=0}, 172.27.29.94:8099#true
+
+2022-09-13 10:02:50,348 INFO Client connection 172.27.187.122:57132#true connect
+
+2022-09-13 10:02:50,871 INFO Client connection 172.27.29.94:8082#true connect
+
+2022-09-13 10:02:50,872 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=0}, 172.27.29.94:8082#true
+
+2022-09-13 10:02:53,677 INFO Client connection 172.27.187.122:57133#true connect
+
+2022-09-13 10:02:54,305 INFO Client connection 172.27.29.94:8089#true connect
+
+2022-09-13 10:02:54,305 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=0}, 172.27.29.94:8089#true
+
+2022-09-13 10:02:54,828 INFO Client connection 172.27.187.122:57134#true connect
+
+2022-09-13 10:02:55,244 INFO Client connection 172.27.29.94:8081#true connect
+
+2022-09-13 10:02:55,244 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}, 172.27.29.94:8081#true
+
+2022-09-13 10:02:57,018 INFO Client connection 172.27.187.122:57135#true connect
+
+2022-09-13 10:02:57,427 INFO Client connection 172.27.29.94:8088#true connect
+
+2022-09-13 10:02:57,427 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}, 172.27.29.94:8088#true
+
+2022-09-13 15:26:17,816 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=2}, 172.27.29.94:8082#true
+
+2022-09-13 15:26:17,829 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}, 172.27.29.94:8081#true
+
+2022-09-13 15:26:38,035 INFO Client connection 172.27.187.122:60604#true connect
+
+2022-09-13 15:26:38,437 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=4}, 172.27.29.94:8081#true
+
+2022-09-13 15:26:38,763 INFO Client connection 172.27.187.122:60605#true connect
+
+2022-09-13 15:26:39,276 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=5}, 172.27.29.94:8082#true
+
+2022-09-13 15:26:44,387 INFO Client connection 172.27.187.122:57134#true disconnect, remove instances and subscribers
+
+2022-09-13 15:26:54,401 INFO Client connection 172.27.187.122:57132#true disconnect, remove instances and subscribers
+
+2022-09-13 15:28:10,739 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=6}, 172.27.29.94:8082#true
+
+2022-09-13 15:28:10,780 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=7}, 172.27.29.94:8081#true
+
+2022-09-13 15:28:30,493 INFO Client connection 172.27.187.122:59384#true connect
+
+2022-09-13 15:28:30,908 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=8}, 172.27.29.94:8081#true
+
+2022-09-13 15:28:31,329 INFO Client connection 172.27.187.122:59385#true connect
+
+2022-09-13 15:28:31,865 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=9}, 172.27.29.94:8082#true
+
+2022-09-13 15:28:39,553 INFO Client connection 172.27.187.122:60604#true disconnect, remove instances and subscribers
+
+2022-09-13 15:28:44,561 INFO Client connection 172.27.187.122:60605#true disconnect, remove instances and subscribers
+
+2022-09-13 15:31:15,945 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=10}, 172.27.29.94:8082#true
+
+2022-09-13 15:31:15,981 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=11}, 172.27.29.94:8081#true
+
+2022-09-13 15:31:34,319 INFO Client connection 172.27.187.122:51988#true connect
+
+2022-09-13 15:31:34,711 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=12}, 172.27.29.94:8081#true
+
+2022-09-13 15:31:34,995 INFO Client connection 172.27.187.122:51989#true connect
+
+2022-09-13 15:31:35,431 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=13}, 172.27.29.94:8082#true
+
+2022-09-13 15:31:44,904 INFO Client connection 172.27.187.122:59385#true disconnect, remove instances and subscribers
+
+2022-09-13 15:31:44,904 INFO Client connection 172.27.187.122:59384#true disconnect, remove instances and subscribers
+
+2022-09-13 16:01:59,542 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=1}, 172.27.29.94:7000#true
+
+2022-09-13 16:02:19,578 INFO Client connection 172.27.187.122:60953#true connect
+
+2022-09-13 16:02:20,875 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=2}, 172.27.29.94:7000#true
+
+2022-09-13 16:02:37,798 INFO Client connection 172.27.187.122:57130#true disconnect, remove instances and subscribers
+
+2022-09-13 16:07:38,247 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=3}, 172.27.29.94:7000#true
+
+2022-09-13 16:07:57,579 INFO Client connection 172.27.187.122:50469#true connect
+
+2022-09-13 16:07:58,793 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=4}, 172.27.29.94:7000#true
+
+2022-09-13 16:08:13,330 INFO Client connection 172.27.187.122:60953#true disconnect, remove instances and subscribers
+
+2022-09-13 16:08:23,874 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=5}, 172.27.29.94:7000#true
+
+2022-09-13 16:08:40,307 INFO Client connection 172.27.187.122:52388#true connect
+
+2022-09-13 16:08:41,510 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=6}, 172.27.29.94:7000#true
+
+2022-09-13 16:09:03,399 INFO Client connection 172.27.187.122:50469#true disconnect, remove instances and subscribers
+
+2022-09-13 16:09:57,571 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=7}, 172.27.29.94:7000#true
+
+2022-09-13 16:10:17,248 INFO Client connection 172.27.187.122:54413#true connect
+
+2022-09-13 16:10:18,453 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=8}, 172.27.29.94:7000#true
+
+2022-09-13 16:10:33,495 INFO Client connection 172.27.187.122:52388#true disconnect, remove instances and subscribers
+
+2022-09-13 16:18:01,049 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=9}, 172.27.29.94:7000#true
+
+2022-09-13 16:18:22,215 INFO Client connection 172.27.187.122:52506#true connect
+
+2022-09-13 16:18:23,442 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=10}, 172.27.29.94:7000#true
+
+2022-09-13 16:18:34,279 INFO Client connection 172.27.187.122:54413#true disconnect, remove instances and subscribers
+
+2022-09-13 16:19:30,865 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=11}, 172.27.29.94:7000#true
+
+2022-09-13 16:19:51,136 INFO Client connection 172.27.187.122:62989#true connect
+
+2022-09-13 16:19:52,364 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=12}, 172.27.29.94:7000#true
+
+2022-09-13 16:20:09,418 INFO Client connection 172.27.187.122:52506#true disconnect, remove instances and subscribers
+
+2022-09-13 16:24:00,118 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=13}, 172.27.29.94:7000#true
+
+2022-09-13 16:24:19,582 INFO Client connection 172.27.187.122:52728#true connect
+
+2022-09-13 16:24:20,832 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=14}, 172.27.29.94:7000#true
+
+2022-09-13 16:24:34,841 INFO Client connection 172.27.187.122:62989#true disconnect, remove instances and subscribers
+
+2022-09-13 16:29:59,993 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=15}, 172.27.29.94:7000#true
+
+2022-09-13 16:30:00,393 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='service-test', ephemeral=true, revision=1}, 172.27.29.94:8099#true
+
+2022-09-13 16:30:00,471 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=14}, 172.27.29.94:8082#true
+
+2022-09-13 16:30:00,490 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=15}, 172.27.29.94:8081#true
+
+2022-09-13 16:30:00,503 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}, 172.27.29.94:8089#true
+
+2022-09-13 16:30:00,511 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=3}, 172.27.29.94:8088#true
+
+2022-09-13 16:30:13,193 INFO Client connection 172.27.187.122:52489#true connect
+
+2022-09-13 16:30:13,824 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=4}, 172.27.29.94:8088#true
+
+2022-09-13 16:30:19,207 INFO Client connection 172.27.187.122:52490#true connect
+
+2022-09-13 16:30:21,512 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=16}, 172.27.29.94:7000#true
+
+2022-09-13 16:30:21,666 INFO Client connection 172.27.187.122:52491#true connect
+
+2022-09-13 16:30:22,385 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=16}, 172.27.29.94:8081#true
+
+2022-09-13 16:30:23,598 INFO Client connection 172.27.187.122:52492#true connect
+
+2022-09-13 16:30:24,185 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='service-test', ephemeral=true, revision=2}, 172.27.29.94:8099#true
+
+2022-09-13 16:30:26,931 INFO Client connection 172.27.187.122:52493#true connect
+
+2022-09-13 16:30:27,440 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=17}, 172.27.29.94:8082#true
+
+2022-09-13 16:30:28,471 INFO Client connection 172.27.187.122:52494#true connect
+
+2022-09-13 16:30:28,893 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=5}, 172.27.29.94:8089#true
+
+2022-09-13 16:30:30,455 INFO Client connection 172.27.187.122:57135#true disconnect, remove instances and subscribers
+
+2022-09-13 16:30:30,455 INFO Client connection 172.27.187.122:57131#true disconnect, remove instances and subscribers
+
+2022-09-13 16:30:30,455 INFO Client connection 172.27.187.122:57133#true disconnect, remove instances and subscribers
+
+2022-09-13 16:30:35,470 INFO Client connection 172.27.187.122:51989#true disconnect, remove instances and subscribers
+
+2022-09-13 16:30:35,470 INFO Client connection 172.27.187.122:52728#true disconnect, remove instances and subscribers
+
+2022-09-13 16:30:35,470 INFO Client connection 172.27.187.122:51988#true disconnect, remove instances and subscribers
+
+2022-09-13 16:32:45,486 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=17}, 172.27.29.94:7000#true
+
+2022-09-13 16:33:03,743 INFO Client connection 172.27.187.122:62637#true connect
+
+2022-09-13 16:33:04,926 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=18}, 172.27.29.94:7000#true
+
+2022-09-13 16:33:20,725 INFO Client connection 172.27.187.122:52490#true disconnect, remove instances and subscribers
+
+2022-09-13 16:47:07,815 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=19}, 172.27.29.94:7000#true
+
+2022-09-13 16:47:27,162 INFO Client connection 172.27.187.122:63635#true connect
+
+2022-09-13 16:47:28,370 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=20}, 172.27.29.94:7000#true
+
+2022-09-13 16:47:42,030 INFO Client connection 172.27.187.122:62637#true disconnect, remove instances and subscribers
+
+2022-09-13 16:48:00,500 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=21}, 172.27.29.94:7000#true
+
+2022-09-13 16:48:19,776 INFO Client connection 172.27.187.122:50238#true connect
+
+2022-09-13 16:48:20,987 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=22}, 172.27.29.94:7000#true
+
+2022-09-13 16:48:32,121 INFO Client connection 172.27.187.122:63635#true disconnect, remove instances and subscribers
+
+2022-09-13 16:49:39,555 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=23}, 172.27.29.94:7000#true
+
+2022-09-13 16:49:58,909 INFO Client connection 172.27.187.122:57742#true connect
+
+2022-09-13 16:50:00,312 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=24}, 172.27.29.94:7000#true
+
+2022-09-13 16:50:17,271 INFO Client connection 172.27.187.122:50238#true disconnect, remove instances and subscribers
+
+2022-09-13 16:52:03,155 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=25}, 172.27.29.94:7000#true
+
+2022-09-13 16:52:23,394 INFO Client connection 172.27.187.122:49547#true connect
+
+2022-09-13 16:52:24,700 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=26}, 172.27.29.94:7000#true
+
+2022-09-13 16:52:32,490 INFO Client connection 172.27.187.122:57742#true disconnect, remove instances and subscribers
+
+2022-09-13 16:54:47,500 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=27}, 172.27.29.94:7000#true
+
+2022-09-13 16:55:06,950 INFO Client connection 172.27.187.122:50538#true connect
+
+2022-09-13 16:55:08,161 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=28}, 172.27.29.94:7000#true
+
+2022-09-13 16:55:17,788 INFO Client connection 172.27.187.122:49547#true disconnect, remove instances and subscribers
+
+2022-09-13 17:12:22,330 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=29}, 172.27.29.94:7000#true
+
+2022-09-13 17:12:42,948 INFO Client connection 172.27.187.122:53000#true connect
+
+2022-09-13 17:12:44,286 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=30}, 172.27.29.94:7000#true
+
+2022-09-13 17:12:54,438 INFO Client connection 172.27.187.122:50538#true disconnect, remove instances and subscribers
+
+2022-09-13 21:43:59,767 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=31}, 172.27.29.94:7000#true
+
+2022-09-13 21:44:00,205 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='service-test', ephemeral=true, revision=3}, 172.27.29.94:8099#true
+
+2022-09-13 21:44:00,300 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=18}, 172.27.29.94:8082#true
+
+2022-09-13 21:44:00,316 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=6}, 172.27.29.94:8089#true
+
+2022-09-13 21:44:00,332 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=7}, 172.27.29.94:8088#true
+
+2022-09-13 21:44:00,381 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=19}, 172.27.29.94:8081#true
+
+2022-09-13 21:44:21,916 INFO Client connection 172.27.187.122:52106#true connect
+
+2022-09-13 21:44:22,834 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=8}, 172.27.29.94:8088#true
+
+2022-09-13 21:44:27,761 INFO Client connection 172.27.187.122:52107#true connect
+
+2022-09-13 21:44:30,109 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=32}, 172.27.29.94:7000#true
+
+2022-09-13 21:44:30,801 INFO Client connection 172.27.187.122:52494#true disconnect, remove instances and subscribers
+
+2022-09-13 21:44:30,801 INFO Client connection 172.27.29.94:8099#true disconnect, remove instances and subscribers
+
+2022-09-13 21:44:30,801 INFO Client connection 172.27.29.94:8082#true disconnect, remove instances and subscribers
+
+2022-09-13 21:44:30,801 INFO Client connection 172.27.29.94:8081#true disconnect, remove instances and subscribers
+
+2022-09-13 21:44:30,801 INFO Client connection 172.27.29.94:8089#true disconnect, remove instances and subscribers
+
+2022-09-13 21:44:34,675 INFO Client connection 172.27.187.122:52108#true connect
+
+2022-09-13 21:44:35,809 INFO Client connection 172.27.187.122:52489#true disconnect, remove instances and subscribers
+
+2022-09-13 21:44:35,809 INFO Client connection 172.27.187.122:52492#true disconnect, remove instances and subscribers
+
+2022-09-13 21:44:35,809 INFO Client connection 172.27.187.122:53000#true disconnect, remove instances and subscribers
+
+2022-09-13 21:44:35,809 INFO Client connection 172.27.187.122:52491#true disconnect, remove instances and subscribers
+
+2022-09-13 21:44:35,809 INFO Client connection 172.27.187.122:52493#true disconnect, remove instances and subscribers
+
+2022-09-13 21:44:35,995 INFO Client connection 172.27.29.94:8099#true connect
+
+2022-09-13 21:44:35,996 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='service-test', ephemeral=true, revision=4}, 172.27.29.94:8099#true
+
+2022-09-13 21:44:49,384 INFO Client connection 172.27.187.122:52109#true connect
+
+2022-09-13 21:44:49,828 INFO Client connection 172.27.29.94:8089#true connect
+
+2022-09-13 21:44:49,828 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=9}, 172.27.29.94:8089#true
+
+2022-09-13 21:45:46,307 WARN namespace : public, [DEFAULT_GROUP@@stpam-service] services are automatically cleaned
+
+2022-09-13 21:46:05,666 INFO Client connection 172.27.187.122:59795#true connect
+
+2022-09-13 21:46:06,048 INFO Client connection 172.27.29.94:8081#true connect
+
+2022-09-13 21:46:06,048 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=0}, 172.27.29.94:8081#true
+
+2022-09-13 21:46:19,392 INFO Client connection 172.27.187.122:59796#true connect
+
+2022-09-13 21:46:19,783 INFO Client connection 172.27.29.94:8082#true connect
+
+2022-09-13 21:46:19,783 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}, 172.27.29.94:8082#true
+
+2022-09-13 21:58:17,506 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=33}, 172.27.29.94:7000#true
+
+2022-09-13 21:58:17,918 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='service-test', ephemeral=true, revision=5}, 172.27.29.94:8099#true
+
+2022-09-13 21:58:17,993 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=2}, 172.27.29.94:8082#true
+
+2022-09-13 21:58:17,997 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}, 172.27.29.94:8081#true
+
+2022-09-13 21:58:18,006 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, 172.27.29.94:8089#true
+
+2022-09-13 21:58:18,017 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=11}, 172.27.29.94:8088#true
+

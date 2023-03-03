@@ -1,0 +1,1882 @@
+2022-09-05 20:05:45,112 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}
+
+2022-09-05 20:05:45,551 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-05 20:05:45,566 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:57657, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,57657,38631869199700
+
+2022-09-05 20:05:45,568 INFO send udp packet: 172.27.187.122,57657,38631869199700
+
+2022-09-05 20:05:45,594 INFO [PUSH-SUCC] 44ms, all delay time 636ms, SLA 482ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 20:05:51,376 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=2}
+
+2022-09-05 20:05:51,759 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-05 20:05:51,762 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:65020, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,65020,38638076429500
+
+2022-09-05 20:05:51,763 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-05 20:05:51,763 INFO send udp packet: 172.27.187.122,65020,38638076429500
+
+2022-09-05 20:05:51,765 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:57657, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,57657,38638079589600
+
+2022-09-05 20:05:51,765 INFO send udp packet: 172.27.187.122,57657,38638079589600
+
+2022-09-05 20:05:51,773 INFO [PUSH-SUCC] 10ms, all delay time 544ms, SLA 398ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=2}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:05:51,776 INFO [PUSH-SUCC] 17ms, all delay time 547ms, SLA 401ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=2}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:05:54,652 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}
+
+2022-09-05 20:05:55,184 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:05:55,185 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60319, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60319,38641501066900
+
+2022-09-05 20:05:55,185 INFO send udp packet: 172.27.187.122,60319,38641501066900
+
+2022-09-05 20:05:55,203 INFO [PUSH-SUCC] 19ms, all delay time 615ms, SLA 551ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 20:05:55,715 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}
+
+2022-09-05 20:05:56,176 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:05:56,180 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60319, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60319,38642493365900
+
+2022-09-05 20:05:56,180 INFO send udp packet: 172.27.187.122,60319,38642493365900
+
+2022-09-05 20:05:56,180 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:05:56,181 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60320, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60320,38642497417800
+
+2022-09-05 20:05:56,182 INFO send udp packet: 172.27.187.122,60320,38642497417800
+
+2022-09-05 20:05:56,185 INFO [PUSH-SUCC] 9ms, all delay time 545ms, SLA 470ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:05:56,190 INFO [PUSH-SUCC] 10ms, all delay time 550ms, SLA 475ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:06:41,079 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=4}
+
+2022-09-05 20:06:41,658 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:06:41,658 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60319, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60319,38687975158200
+
+2022-09-05 20:06:41,658 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:06:41,658 INFO send udp packet: 172.27.187.122,60319,38687975158200
+
+2022-09-05 20:06:41,658 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60320, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60320,38687975458200
+
+2022-09-05 20:06:41,659 INFO send udp packet: 172.27.187.122,60320,38687975458200
+
+2022-09-05 20:06:41,663 INFO [PUSH-SUCC] 5ms, all delay time 608ms, SLA 584ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=4}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:06:41,671 INFO [PUSH-SUCC] 13ms, all delay time 616ms, SLA 592ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=4}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:06:57,011 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=5}
+
+2022-09-05 20:06:57,536 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:06:57,537 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60319, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60319,38703853505300
+
+2022-09-05 20:06:57,537 INFO send udp packet: 172.27.187.122,60319,38703853505300
+
+2022-09-05 20:06:57,537 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:06:57,538 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63570, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63570,38703854551900
+
+2022-09-05 20:06:57,538 INFO send udp packet: 172.27.187.122,63570,38703854551900
+
+2022-09-05 20:06:57,538 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:06:57,538 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60320, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60320,38703855045300
+
+2022-09-05 20:06:57,538 INFO send udp packet: 172.27.187.122,60320,38703855045300
+
+2022-09-05 20:06:57,551 INFO [PUSH-SUCC] 14ms, all delay time 589ms, SLA 540ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=5}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 20:06:58,117 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=6}
+
+2022-09-05 20:06:58,650 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:06:58,650 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60319, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60319,38704967023700
+
+2022-09-05 20:06:58,650 INFO send udp packet: 172.27.187.122,60319,38704967023700
+
+2022-09-05 20:06:58,650 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:06:58,651 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63571, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63571,38704967763400
+
+2022-09-05 20:06:58,651 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:06:58,651 INFO send udp packet: 172.27.187.122,63571,38704967763400
+
+2022-09-05 20:06:58,651 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63570, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63570,38704968001900
+
+2022-09-05 20:06:58,652 INFO send udp packet: 172.27.187.122,63570,38704968001900
+
+2022-09-05 20:06:58,652 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:06:58,652 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60320, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60320,38704969272600
+
+2022-09-05 20:06:58,652 INFO send udp packet: 172.27.187.122,60320,38704969272600
+
+2022-09-05 20:06:58,654 INFO [PUSH-SUCC] 3ms, all delay time 589ms, SLA 537ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=6}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:06:58,656 INFO [PUSH-SUCC] 6ms, all delay time 591ms, SLA 539ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=6}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:07:07,545 INFO retry to push data, key: 172.27.187.122,60319,38703853505300
+
+2022-09-05 20:07:07,545 INFO retry to push data, key: 172.27.187.122,60320,38703855045300
+
+2022-09-05 20:07:08,665 INFO retry to push data, key: 172.27.187.122,60319,38704967023700
+
+2022-09-05 20:07:08,665 INFO retry to push data, key: 172.27.187.122,60320,38704969272600
+
+2022-09-05 20:07:17,549 WARN max re-push times reached, retry times 2, key: 172.27.187.122,60319,38703853505300
+
+2022-09-05 20:07:17,549 ERROR [PUSH-FAIL] 20013ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=6}, reason=null, target=172.27.187.122
+
+2022-09-05 20:07:17,549 WARN max re-push times reached, retry times 2, key: 172.27.187.122,60320,38703855045300
+
+2022-09-05 20:07:17,549 ERROR [PUSH-FAIL] 20011ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=6}, reason=null, target=172.27.187.122
+
+2022-09-05 20:07:18,668 WARN max re-push times reached, retry times 2, key: 172.27.187.122,60319,38704967023700
+
+2022-09-05 20:07:18,668 ERROR [PUSH-FAIL] 20018ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=6}, reason=null, target=172.27.187.122
+
+2022-09-05 20:07:18,668 WARN max re-push times reached, retry times 2, key: 172.27.187.122,60320,38704969272600
+
+2022-09-05 20:07:18,668 ERROR [PUSH-FAIL] 20016ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=6}, reason=null, target=172.27.187.122
+
+2022-09-05 20:12:27,005 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=8}
+
+2022-09-05 20:12:27,516 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:12:27,516 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63571, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63571,39033833333200
+
+2022-09-05 20:12:27,516 INFO send udp packet: 172.27.187.122,63571,39033833333200
+
+2022-09-05 20:12:27,516 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:12:27,517 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63570, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63570,39033833729400
+
+2022-09-05 20:12:27,518 INFO send udp packet: 172.27.187.122,63570,39033833729400
+
+2022-09-05 20:12:27,523 INFO [PUSH-SUCC] 7ms, all delay time 542ms, SLA 518ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=8}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:12:27,523 INFO [PUSH-SUCC] 7ms, all delay time 542ms, SLA 518ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=8}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:12:42,017 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=9}
+
+2022-09-05 20:12:42,463 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:12:42,463 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63587, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63587,39048780268200
+
+2022-09-05 20:12:42,463 INFO send udp packet: 172.27.187.122,63587,39048780268200
+
+2022-09-05 20:12:42,463 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:12:42,464 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63571, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63571,39048781126900
+
+2022-09-05 20:12:42,464 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:12:42,464 INFO send udp packet: 172.27.187.122,63571,39048781126900
+
+2022-09-05 20:12:42,465 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63570, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63570,39048781306400
+
+2022-09-05 20:12:42,465 INFO send udp packet: 172.27.187.122,63570,39048781306400
+
+2022-09-05 20:12:42,478 INFO [PUSH-SUCC] 15ms, all delay time 526ms, SLA 461ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=9}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 20:12:45,066 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}
+
+2022-09-05 20:12:45,572 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:12:45,572 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:52926, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,52926,39051889287400
+
+2022-09-05 20:12:45,572 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:12:45,572 INFO send udp packet: 172.27.187.122,52926,39051889287400
+
+2022-09-05 20:12:45,573 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63587, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63587,39051889594900
+
+2022-09-05 20:12:45,573 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:12:45,573 INFO send udp packet: 172.27.187.122,63587,39051889594900
+
+2022-09-05 20:12:45,574 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63571, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63571,39051890293700
+
+2022-09-05 20:12:45,574 INFO send udp packet: 172.27.187.122,63571,39051890293700
+
+2022-09-05 20:12:45,574 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:12:45,574 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63570, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63570,39051891131300
+
+2022-09-05 20:12:45,574 INFO send udp packet: 172.27.187.122,63570,39051891131300
+
+2022-09-05 20:12:45,576 INFO [PUSH-SUCC] 4ms, all delay time 562ms, SLA 510ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:12:45,578 INFO [PUSH-SUCC] 6ms, all delay time 564ms, SLA 512ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:12:52,474 INFO retry to push data, key: 172.27.187.122,63571,39048781126900
+
+2022-09-05 20:12:52,474 INFO retry to push data, key: 172.27.187.122,63570,39048781306400
+
+2022-09-05 20:12:55,579 INFO retry to push data, key: 172.27.187.122,63571,39051890293700
+
+2022-09-05 20:12:55,579 INFO retry to push data, key: 172.27.187.122,63570,39051891131300
+
+2022-09-05 20:13:02,477 WARN max re-push times reached, retry times 2, key: 172.27.187.122,63571,39048781126900
+
+2022-09-05 20:13:02,477 ERROR [PUSH-FAIL] 20014ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, reason=null, target=172.27.187.122
+
+2022-09-05 20:13:02,477 WARN max re-push times reached, retry times 2, key: 172.27.187.122,63570,39048781306400
+
+2022-09-05 20:13:02,477 ERROR [PUSH-FAIL] 20013ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, reason=null, target=172.27.187.122
+
+2022-09-05 20:13:05,587 WARN max re-push times reached, retry times 2, key: 172.27.187.122,63571,39051890293700
+
+2022-09-05 20:13:05,587 ERROR [PUSH-FAIL] 20014ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, reason=null, target=172.27.187.122
+
+2022-09-05 20:13:05,587 WARN max re-push times reached, retry times 2, key: 172.27.187.122,63570,39051891131300
+
+2022-09-05 20:13:05,587 ERROR [PUSH-FAIL] 20013ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, reason=null, target=172.27.187.122
+
+2022-09-05 20:14:45,415 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=12}
+
+2022-09-05 20:14:45,925 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:14:45,925 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:52926, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,52926,39172241884900
+
+2022-09-05 20:14:45,925 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:14:45,925 INFO send udp packet: 172.27.187.122,52926,39172241884900
+
+2022-09-05 20:14:45,925 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63587, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63587,39172242073400
+
+2022-09-05 20:14:45,926 INFO send udp packet: 172.27.187.122,63587,39172242073400
+
+2022-09-05 20:14:45,928 INFO [PUSH-SUCC] 3ms, all delay time 563ms, SLA 513ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=12}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:14:45,930 INFO [PUSH-SUCC] 5ms, all delay time 565ms, SLA 515ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=12}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:15:02,657 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=13}
+
+2022-09-05 20:15:03,184 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:03,184 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62793, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62793,39189500585600
+
+2022-09-05 20:15:03,184 INFO send udp packet: 172.27.187.122,62793,39189500585600
+
+2022-09-05 20:15:03,184 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:03,185 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:52926, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,52926,39189501371200
+
+2022-09-05 20:15:03,185 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:03,185 INFO send udp packet: 172.27.187.122,52926,39189501371200
+
+2022-09-05 20:15:03,185 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63587, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63587,39189501672500
+
+2022-09-05 20:15:03,186 INFO send udp packet: 172.27.187.122,63587,39189501672500
+
+2022-09-05 20:15:03,196 INFO [PUSH-SUCC] 12ms, all delay time 589ms, SLA 539ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=13}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 20:15:03,556 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}
+
+2022-09-05 20:15:04,073 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:04,073 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62793, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62793,39190389896100
+
+2022-09-05 20:15:04,074 INFO send udp packet: 172.27.187.122,62793,39190389896100
+
+2022-09-05 20:15:04,074 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:04,075 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:52926, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,52926,39190390323900
+
+2022-09-05 20:15:04,075 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:04,075 INFO send udp packet: 172.27.187.122,52926,39190390323900
+
+2022-09-05 20:15:04,076 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63587, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63587,39190391722100
+
+2022-09-05 20:15:04,076 INFO send udp packet: 172.27.187.122,63587,39190391722100
+
+2022-09-05 20:15:04,076 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:04,077 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62794, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62794,39190393242300
+
+2022-09-05 20:15:04,077 INFO send udp packet: 172.27.187.122,62794,39190393242300
+
+2022-09-05 20:15:04,078 INFO [PUSH-SUCC] 5ms, all delay time 593ms, SLA 522ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:15:04,083 INFO [PUSH-SUCC] 7ms, all delay time 598ms, SLA 527ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:15:13,199 INFO retry to push data, key: 172.27.187.122,52926,39189501371200
+
+2022-09-05 20:15:13,199 INFO retry to push data, key: 172.27.187.122,63587,39189501672500
+
+2022-09-05 20:15:14,086 INFO retry to push data, key: 172.27.187.122,52926,39190390323900
+
+2022-09-05 20:15:14,086 INFO retry to push data, key: 172.27.187.122,63587,39190391722100
+
+2022-09-05 20:15:23,203 WARN max re-push times reached, retry times 2, key: 172.27.187.122,52926,39189501371200
+
+2022-09-05 20:15:23,203 ERROR [PUSH-FAIL] 20019ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, reason=null, target=172.27.187.122
+
+2022-09-05 20:15:23,203 WARN max re-push times reached, retry times 2, key: 172.27.187.122,63587,39189501672500
+
+2022-09-05 20:15:23,203 ERROR [PUSH-FAIL] 20018ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, reason=null, target=172.27.187.122
+
+2022-09-05 20:15:24,092 WARN max re-push times reached, retry times 2, key: 172.27.187.122,52926,39190390323900
+
+2022-09-05 20:15:24,092 ERROR [PUSH-FAIL] 20018ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, reason=null, target=172.27.187.122
+
+2022-09-05 20:15:24,092 WARN max re-push times reached, retry times 2, key: 172.27.187.122,63587,39190391722100
+
+2022-09-05 20:15:24,092 ERROR [PUSH-FAIL] 20017ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, reason=null, target=172.27.187.122
+
+2022-09-05 20:15:35,474 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=16}
+
+2022-09-05 20:15:35,967 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:35,967 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62793, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62793,39222284413900
+
+2022-09-05 20:15:35,967 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:35,967 INFO send udp packet: 172.27.187.122,62793,39222284413900
+
+2022-09-05 20:15:35,968 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62794, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62794,39222284736400
+
+2022-09-05 20:15:35,968 INFO send udp packet: 172.27.187.122,62794,39222284736400
+
+2022-09-05 20:15:35,971 INFO [PUSH-SUCC] 4ms, all delay time 533ms, SLA 497ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=16}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:15:35,971 INFO [PUSH-SUCC] 4ms, all delay time 533ms, SLA 497ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=16}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:15:53,853 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=17}
+
+2022-09-05 20:15:54,403 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:54,403 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62793, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62793,39240720093000
+
+2022-09-05 20:15:54,404 INFO send udp packet: 172.27.187.122,62793,39240720093000
+
+2022-09-05 20:15:54,404 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:54,405 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62794, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62794,39240721305500
+
+2022-09-05 20:15:54,405 INFO send udp packet: 172.27.187.122,62794,39240721305500
+
+2022-09-05 20:15:54,405 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:54,406 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61302, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61302,39240722970900
+
+2022-09-05 20:15:54,407 INFO send udp packet: 172.27.187.122,61302,39240722970900
+
+2022-09-05 20:15:54,421 INFO [PUSH-SUCC] 16ms, all delay time 619ms, SLA 568ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=17}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 20:15:54,750 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}
+
+2022-09-05 20:15:55,284 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:55,284 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62793, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62793,39241601025600
+
+2022-09-05 20:15:55,284 INFO send udp packet: 172.27.187.122,62793,39241601025600
+
+2022-09-05 20:15:55,284 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:55,285 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61303, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61303,39241601997300
+
+2022-09-05 20:15:55,285 INFO send udp packet: 172.27.187.122,61303,39241601997300
+
+2022-09-05 20:15:55,285 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:55,286 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62794, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62794,39241602526700
+
+2022-09-05 20:15:55,286 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:15:55,286 INFO send udp packet: 172.27.187.122,62794,39241602526700
+
+2022-09-05 20:15:55,286 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61302, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61302,39241602697900
+
+2022-09-05 20:15:55,287 INFO send udp packet: 172.27.187.122,61302,39241602697900
+
+2022-09-05 20:15:55,290 INFO [PUSH-SUCC] 4ms, all delay time 608ms, SLA 540ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:15:55,294 INFO [PUSH-SUCC] 10ms, all delay time 612ms, SLA 544ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:16:04,407 INFO retry to push data, key: 172.27.187.122,62793,39240720093000
+
+2022-09-05 20:16:04,407 INFO retry to push data, key: 172.27.187.122,62794,39240721305500
+
+2022-09-05 20:16:05,293 INFO retry to push data, key: 172.27.187.122,62793,39241601025600
+
+2022-09-05 20:16:05,293 INFO retry to push data, key: 172.27.187.122,62794,39241602526700
+
+2022-09-05 20:16:14,420 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62793,39240720093000
+
+2022-09-05 20:16:14,420 ERROR [PUSH-FAIL] 20017ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, reason=null, target=172.27.187.122
+
+2022-09-05 20:16:14,420 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62794,39240721305500
+
+2022-09-05 20:16:14,420 ERROR [PUSH-FAIL] 20016ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, reason=null, target=172.27.187.122
+
+2022-09-05 20:16:15,300 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62793,39241601025600
+
+2022-09-05 20:16:15,300 ERROR [PUSH-FAIL] 20016ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, reason=null, target=172.27.187.122
+
+2022-09-05 20:16:15,300 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62794,39241602526700
+
+2022-09-05 20:16:15,300 ERROR [PUSH-FAIL] 20015ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, reason=null, target=172.27.187.122
+
+2022-09-05 20:32:02,156 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=20}
+
+2022-09-05 20:32:02,710 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:32:02,710 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61303, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61303,40209027418300
+
+2022-09-05 20:32:02,710 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:32:02,710 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61302, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61302,40209027552100
+
+2022-09-05 20:32:02,711 INFO send udp packet: 172.27.187.122,61303,40209027418300
+
+2022-09-05 20:32:02,711 INFO send udp packet: 172.27.187.122,61302,40209027552100
+
+2022-09-05 20:32:02,714 INFO [PUSH-SUCC] 4ms, all delay time 595ms, SLA 558ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=20}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:32:02,714 INFO [PUSH-SUCC] 4ms, all delay time 595ms, SLA 558ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=20}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:32:18,997 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=21}
+
+2022-09-05 20:32:19,460 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:32:19,460 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61303, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61303,40225776542600
+
+2022-09-05 20:32:19,460 INFO send udp packet: 172.27.187.122,61303,40225776542600
+
+2022-09-05 20:32:19,460 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:32:19,461 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61302, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61302,40225777344600
+
+2022-09-05 20:32:19,461 INFO send udp packet: 172.27.187.122,61302,40225777344600
+
+2022-09-05 20:32:19,461 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:32:19,461 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62574, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62574,40225777797400
+
+2022-09-05 20:32:19,461 INFO send udp packet: 172.27.187.122,62574,40225777797400
+
+2022-09-05 20:32:19,474 INFO [PUSH-SUCC] 13ms, all delay time 540ms, SLA 477ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=21}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 20:32:22,369 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}
+
+2022-09-05 20:32:22,902 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:32:22,902 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62575, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62575,40229218669500
+
+2022-09-05 20:32:22,902 INFO send udp packet: 172.27.187.122,62575,40229218669500
+
+2022-09-05 20:32:22,902 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:32:22,903 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61303, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61303,40229219543000
+
+2022-09-05 20:32:22,903 INFO send udp packet: 172.27.187.122,61303,40229219543000
+
+2022-09-05 20:32:22,903 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:32:22,903 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61302, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61302,40229219762600
+
+2022-09-05 20:32:22,904 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:32:22,904 INFO send udp packet: 172.27.187.122,61302,40229219762600
+
+2022-09-05 20:32:22,904 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62574, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62574,40229220260700
+
+2022-09-05 20:32:22,904 INFO send udp packet: 172.27.187.122,62574,40229220260700
+
+2022-09-05 20:32:22,907 INFO [PUSH-SUCC] 3ms, all delay time 589ms, SLA 538ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:32:22,907 INFO [PUSH-SUCC] 5ms, all delay time 589ms, SLA 538ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:32:29,467 INFO retry to push data, key: 172.27.187.122,61303,40225776542600
+
+2022-09-05 20:32:29,467 INFO retry to push data, key: 172.27.187.122,61302,40225777344600
+
+2022-09-05 20:32:32,907 INFO retry to push data, key: 172.27.187.122,61303,40229219543000
+
+2022-09-05 20:32:32,907 INFO retry to push data, key: 172.27.187.122,61302,40229219762600
+
+2022-09-05 20:32:39,477 WARN max re-push times reached, retry times 2, key: 172.27.187.122,61303,40225776542600
+
+2022-09-05 20:32:39,477 ERROR [PUSH-FAIL] 20017ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, reason=null, target=172.27.187.122
+
+2022-09-05 20:32:39,477 WARN max re-push times reached, retry times 2, key: 172.27.187.122,61302,40225777344600
+
+2022-09-05 20:32:39,477 ERROR [PUSH-FAIL] 20017ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, reason=null, target=172.27.187.122
+
+2022-09-05 20:32:42,917 WARN max re-push times reached, retry times 2, key: 172.27.187.122,61303,40229219543000
+
+2022-09-05 20:32:42,917 ERROR [PUSH-FAIL] 20015ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, reason=null, target=172.27.187.122
+
+2022-09-05 20:32:42,917 WARN max re-push times reached, retry times 2, key: 172.27.187.122,61302,40229219762600
+
+2022-09-05 20:32:42,917 ERROR [PUSH-FAIL] 20014ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, reason=null, target=172.27.187.122
+
+2022-09-05 20:37:57,677 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:37:57,677 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62575, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62575,40563994256400
+
+2022-09-05 20:37:57,677 INFO send udp packet: 172.27.187.122,62575,40563994256400
+
+2022-09-05 20:37:57,677 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:37:57,678 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62574, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62574,40563994524800
+
+2022-09-05 20:37:57,678 INFO send udp packet: 172.27.187.122,62574,40563994524800
+
+2022-09-05 20:37:57,682 INFO [PUSH-SUCC] 5ms, all delay time 534ms, SLA 534ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=23}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 20:37:57,682 INFO [PUSH-SUCC] 5ms, all delay time 534ms, SLA 534ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=23}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 20:38:12,915 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=24}
+
+2022-09-05 20:38:13,077 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:38:13,077 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62575, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62575,40579393561500
+
+2022-09-05 20:38:13,077 INFO send udp packet: 172.27.187.122,62575,40579393561500
+
+2022-09-05 20:38:13,077 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:38:13,078 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:64598, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,64598,40579393955400
+
+2022-09-05 20:38:13,078 INFO send udp packet: 172.27.187.122,64598,40579393955400
+
+2022-09-05 20:38:13,078 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:38:13,079 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62574, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62574,40579394959000
+
+2022-09-05 20:38:13,079 INFO send udp packet: 172.27.187.122,62574,40579394959000
+
+2022-09-05 20:38:13,082 INFO [PUSH-SUCC] 4ms, all delay time 581ms, SLA 167ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=24}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:38:13,084 INFO [PUSH-SUCC] 7ms, all delay time 583ms, SLA 169ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=24}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:38:23,089 INFO retry to push data, key: 172.27.187.122,62575,40579393561500
+
+2022-09-05 20:38:33,105 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62575,40579393561500
+
+2022-09-05 20:38:33,105 ERROR [PUSH-FAIL] 20028ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=24}, reason=null, target=172.27.187.122
+
+2022-09-05 20:54:58,249 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=4}
+
+2022-09-05 20:54:58,330 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=26}
+
+2022-09-05 20:54:58,715 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-05 20:54:58,715 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:65020, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,65020,41585032547800
+
+2022-09-05 20:54:58,715 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-05 20:54:58,715 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:57657, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,57657,41585032753800
+
+2022-09-05 20:54:58,715 INFO send udp packet: 172.27.187.122,65020,41585032547800
+
+2022-09-05 20:54:58,716 INFO send udp packet: 172.27.187.122,57657,41585032753800
+
+2022-09-05 20:54:58,718 INFO [PUSH-SUCC] 3ms, all delay time 523ms, SLA 469ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=4}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:54:58,719 INFO [PUSH-SUCC] 4ms, all delay time 524ms, SLA 470ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=4}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:54:58,824 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:54:58,824 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:64598, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,64598,41585141647300
+
+2022-09-05 20:54:58,824 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:54:58,824 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62574, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62574,41585141759400
+
+2022-09-05 20:54:58,824 INFO send udp packet: 172.27.187.122,64598,41585141647300
+
+2022-09-05 20:54:58,825 INFO send udp packet: 172.27.187.122,62574,41585141759400
+
+2022-09-05 20:54:58,827 INFO [PUSH-SUCC] 3ms, all delay time 559ms, SLA 497ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=26}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:54:58,827 INFO [PUSH-SUCC] 3ms, all delay time 559ms, SLA 497ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=26}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 20:59:03,489 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}
+
+2022-09-05 20:59:03,619 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:59:03,619 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61480, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61480,41829935538600
+
+2022-09-05 20:59:03,619 INFO send udp packet: 172.27.187.122,61480,41829935538600
+
+2022-09-05 20:59:03,633 INFO [PUSH-SUCC] 14ms, all delay time 586ms, SLA 144ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 20:59:06,132 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}
+
+2022-09-05 20:59:06,283 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:59:06,284 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61481, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61481,41832600567800
+
+2022-09-05 20:59:06,284 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 20:59:06,284 INFO send udp packet: 172.27.187.122,61481,41832600567800
+
+2022-09-05 20:59:06,285 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61480, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61480,41832601084800
+
+2022-09-05 20:59:06,285 INFO send udp packet: 172.27.187.122,61480,41832601084800
+
+2022-09-05 20:59:06,287 INFO [PUSH-SUCC] 3ms, all delay time 571ms, SLA 155ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 20:59:06,288 INFO [PUSH-SUCC] 5ms, all delay time 572ms, SLA 156ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:25:34,082 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=4}
+
+2022-09-05 21:25:34,581 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:25:34,581 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61481, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61481,43420897774900
+
+2022-09-05 21:25:34,581 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:25:34,581 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:61480, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61480,43420898132500
+
+2022-09-05 21:25:34,582 INFO send udp packet: 172.27.187.122,61481,43420897774900
+
+2022-09-05 21:25:34,582 INFO send udp packet: 172.27.187.122,61480,43420898132500
+
+2022-09-05 21:25:34,585 INFO [PUSH-SUCC] 4ms, all delay time 516ms, SLA 503ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=4}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:25:34,585 INFO [PUSH-SUCC] 4ms, all delay time 516ms, SLA 503ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=4}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:27:00,442 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:27:00,442 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53109, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53109,43506759437800
+
+2022-09-05 21:27:00,442 INFO send udp packet: 172.27.187.122,53109,43506759437800
+
+2022-09-05 21:27:00,447 INFO [PUSH-SUCC] 5ms, all delay time 568ms for subscriber 172.27.187.122, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=4}, originalSize=0, DataSize=0
+
+2022-09-05 21:27:01,329 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:27:01,329 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53109, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53109,43507646392700
+
+2022-09-05 21:27:01,329 INFO send udp packet: 172.27.187.122,53109,43507646392700
+
+2022-09-05 21:27:01,346 INFO [PUSH-SUCC] 17ms, all delay time 579ms, SLA 579ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=5}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 21:27:01,994 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:27:01,995 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53110, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53110,43508311711600
+
+2022-09-05 21:27:01,995 INFO send udp packet: 172.27.187.122,53110,43508311711600
+
+2022-09-05 21:27:02,002 INFO [PUSH-SUCC] 8ms, all delay time 566ms for subscriber 172.27.187.122, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=5}, originalSize=1, DataSize=1
+
+2022-09-05 21:27:02,660 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:27:02,660 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53109, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53109,43508977574900
+
+2022-09-05 21:27:02,661 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:27:02,661 INFO send udp packet: 172.27.187.122,53109,43508977574900
+
+2022-09-05 21:27:02,661 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53110, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53110,43508978150000
+
+2022-09-05 21:27:02,661 INFO send udp packet: 172.27.187.122,53110,43508978150000
+
+2022-09-05 21:27:02,665 INFO [PUSH-SUCC] 4ms, all delay time 610ms, SLA 610ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=6}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:27:02,666 INFO [PUSH-SUCC] 6ms, all delay time 611ms, SLA 611ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=6}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:38:49,580 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}
+
+2022-09-05 21:38:49,989 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-05 21:38:49,989 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 127.0.1.1:36651, agent: Nacos-Java-Client:v1.4.2, key: 127.0.1.1,36651,44216306267400
+
+2022-09-05 21:38:49,989 INFO send udp packet: 127.0.1.1,36651,44216306267400
+
+2022-09-05 21:38:59,996 INFO retry to push data, key: 127.0.1.1,36651,44216306267400
+
+2022-09-05 21:39:10,000 WARN max re-push times reached, retry times 2, key: 127.0.1.1,36651,44216306267400
+
+2022-09-05 21:39:10,000 ERROR [PUSH-FAIL] 20011ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}, reason=null, target=127.0.1.1
+
+2022-09-05 21:39:44,076 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-05 21:39:44,076 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 127.0.1.1:36651, agent: Nacos-Java-Client:v1.4.2, key: 127.0.1.1,36651,44270392895800
+
+2022-09-05 21:39:44,076 INFO send udp packet: 127.0.1.1,36651,44270392895800
+
+2022-09-05 21:39:54,090 INFO retry to push data, key: 127.0.1.1,36651,44270392895800
+
+2022-09-05 21:39:58,239 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}
+
+2022-09-05 21:39:58,655 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-05 21:39:58,655 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 127.0.1.1:53572, agent: Nacos-Java-Client:v1.4.2, key: 127.0.1.1,53572,44284971907800
+
+2022-09-05 21:39:58,655 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-05 21:39:58,655 INFO send udp packet: 127.0.1.1,53572,44284971907800
+
+2022-09-05 21:39:58,655 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 127.0.1.1:36651, agent: Nacos-Java-Client:v1.4.2, key: 127.0.1.1,36651,44284972170300
+
+2022-09-05 21:39:58,656 INFO send udp packet: 127.0.1.1,36651,44284972170300
+
+2022-09-05 21:40:04,095 WARN max re-push times reached, retry times 2, key: 127.0.1.1,36651,44270392895800
+
+2022-09-05 21:40:04,095 ERROR [PUSH-FAIL] 20019ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}, reason=null, target=127.0.1.1
+
+2022-09-05 21:40:08,669 INFO retry to push data, key: 127.0.1.1,53572,44284971907800
+
+2022-09-05 21:40:08,669 INFO retry to push data, key: 127.0.1.1,36651,44284972170300
+
+2022-09-05 21:40:18,671 WARN max re-push times reached, retry times 2, key: 127.0.1.1,53572,44284971907800
+
+2022-09-05 21:40:18,672 ERROR [PUSH-FAIL] 20016ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}, reason=null, target=127.0.1.1
+
+2022-09-05 21:40:18,672 WARN max re-push times reached, retry times 2, key: 127.0.1.1,36651,44284972170300
+
+2022-09-05 21:40:18,672 ERROR [PUSH-FAIL] 20017ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}, reason=null, target=127.0.1.1
+
+2022-09-05 21:41:52,097 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=8}
+
+2022-09-05 21:41:52,624 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:41:52,624 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53109, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53109,44398940921300
+
+2022-09-05 21:41:52,624 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:41:52,624 INFO send udp packet: 172.27.187.122,53109,44398940921300
+
+2022-09-05 21:41:52,625 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:53110, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53110,44398941574000
+
+2022-09-05 21:41:52,626 INFO send udp packet: 172.27.187.122,53110,44398941574000
+
+2022-09-05 21:41:52,628 INFO [PUSH-SUCC] 4ms, all delay time 552ms, SLA 531ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=8}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:41:52,628 INFO [PUSH-SUCC] 4ms, all delay time 552ms, SLA 531ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=8}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:42:06,823 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:42:06,823 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62237, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62237,44413140250900
+
+2022-09-05 21:42:06,823 INFO send udp packet: 172.27.187.122,62237,44413140250900
+
+2022-09-05 21:42:06,826 INFO [PUSH-SUCC] 3ms, all delay time 534ms for subscriber 172.27.187.122, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=8}, originalSize=0, DataSize=0
+
+2022-09-05 21:42:07,236 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=9}
+
+2022-09-05 21:42:07,379 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:42:07,379 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62237, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62237,44413696233000
+
+2022-09-05 21:42:07,379 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:42:07,379 INFO send udp packet: 172.27.187.122,62237,44413696233000
+
+2022-09-05 21:42:07,380 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53109, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53109,44413696525000
+
+2022-09-05 21:42:07,380 INFO send udp packet: 172.27.187.122,53109,44413696525000
+
+2022-09-05 21:42:07,380 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:42:07,380 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53110, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53110,44413697707400
+
+2022-09-05 21:42:07,380 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:42:07,380 INFO send udp packet: 172.27.187.122,53110,44413697707400
+
+2022-09-05 21:42:07,381 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62238, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62238,44413697785900
+
+2022-09-05 21:42:07,381 INFO send udp packet: 172.27.187.122,62238,44413697785900
+
+2022-09-05 21:42:07,393 INFO [PUSH-SUCC] 14ms, all delay time 563ms, SLA 563ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=9}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 21:42:07,398 INFO [PUSH-SUCC] 18ms, all delay time 568ms, SLA 568ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=9}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 21:42:08,375 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:42:08,375 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62237, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62237,44414692188000
+
+2022-09-05 21:42:08,375 INFO send udp packet: 172.27.187.122,62237,44414692188000
+
+2022-09-05 21:42:08,375 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:42:08,376 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53109, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53109,44414692861400
+
+2022-09-05 21:42:08,376 INFO send udp packet: 172.27.187.122,53109,44414692861400
+
+2022-09-05 21:42:08,376 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:42:08,376 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53110, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53110,44414693436000
+
+2022-09-05 21:42:08,376 INFO send udp packet: 172.27.187.122,53110,44414693436000
+
+2022-09-05 21:42:08,376 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:42:08,377 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62238, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62238,44414693732400
+
+2022-09-05 21:42:08,377 INFO send udp packet: 172.27.187.122,62238,44414693732400
+
+2022-09-05 21:42:08,378 INFO [PUSH-SUCC] 3ms, all delay time 597ms, SLA 597ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:42:08,380 INFO [PUSH-SUCC] 4ms, all delay time 599ms, SLA 599ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:42:17,392 INFO retry to push data, key: 172.27.187.122,53109,44413696525000
+
+2022-09-05 21:42:17,392 INFO retry to push data, key: 172.27.187.122,53110,44413697707400
+
+2022-09-05 21:42:18,389 INFO retry to push data, key: 172.27.187.122,53109,44414692861400
+
+2022-09-05 21:42:18,389 INFO retry to push data, key: 172.27.187.122,53110,44414693436000
+
+2022-09-05 21:42:27,399 WARN max re-push times reached, retry times 2, key: 172.27.187.122,53109,44413696525000
+
+2022-09-05 21:42:27,399 ERROR [PUSH-FAIL] 20020ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, reason=null, target=172.27.187.122
+
+2022-09-05 21:42:27,399 WARN max re-push times reached, retry times 2, key: 172.27.187.122,53110,44413697707400
+
+2022-09-05 21:42:27,399 ERROR [PUSH-FAIL] 20019ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, reason=null, target=172.27.187.122
+
+2022-09-05 21:42:28,402 WARN max re-push times reached, retry times 2, key: 172.27.187.122,53109,44414692861400
+
+2022-09-05 21:42:28,402 ERROR [PUSH-FAIL] 20027ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, reason=null, target=172.27.187.122
+
+2022-09-05 21:42:28,402 WARN max re-push times reached, retry times 2, key: 172.27.187.122,53110,44414693436000
+
+2022-09-05 21:42:28,402 ERROR [PUSH-FAIL] 20026ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, reason=null, target=172.27.187.122
+
+2022-09-05 21:42:57,357 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=12}
+
+2022-09-05 21:42:57,930 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:42:57,930 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62237, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62237,44464247279000
+
+2022-09-05 21:42:57,930 INFO send udp packet: 172.27.187.122,62237,44464247279000
+
+2022-09-05 21:42:57,930 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:42:57,931 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:62238, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62238,44464247536100
+
+2022-09-05 21:42:57,931 INFO send udp packet: 172.27.187.122,62238,44464247536100
+
+2022-09-05 21:42:57,936 INFO [PUSH-SUCC] 6ms, all delay time 596ms, SLA 579ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=12}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:42:57,944 INFO [PUSH-SUCC] 14ms, all delay time 604ms, SLA 587ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=12}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:43:13,644 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:43:13,644 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:56567, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,56567,44479961104900
+
+2022-09-05 21:43:13,644 INFO send udp packet: 172.27.187.122,56567,44479961104900
+
+2022-09-05 21:43:13,647 INFO [PUSH-SUCC] 3ms, all delay time 521ms for subscriber 172.27.187.122, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=12}, originalSize=0, DataSize=0
+
+2022-09-05 21:43:13,946 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=13}
+
+2022-09-05 21:43:14,200 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:43:14,200 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62237, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62237,44480516980700
+
+2022-09-05 21:43:14,200 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:43:14,200 INFO send udp packet: 172.27.187.122,62237,44480516980700
+
+2022-09-05 21:43:14,200 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:56568, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,56568,44480517152100
+
+2022-09-05 21:43:14,200 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:43:14,201 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62238, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62238,44480517760600
+
+2022-09-05 21:43:14,201 INFO send udp packet: 172.27.187.122,56568,44480517152100
+
+2022-09-05 21:43:14,201 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:43:14,201 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:56567, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,56567,44480518275400
+
+2022-09-05 21:43:14,201 INFO send udp packet: 172.27.187.122,62238,44480517760600
+
+2022-09-05 21:43:14,203 INFO send udp packet: 172.27.187.122,56567,44480518275400
+
+2022-09-05 21:43:14,213 INFO [PUSH-SUCC] 12ms, all delay time 537ms, SLA 537ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=13}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 21:43:14,213 INFO [PUSH-SUCC] 13ms, all delay time 537ms, SLA 537ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=13}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 21:43:15,088 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:43:15,088 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62237, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62237,44481405272600
+
+2022-09-05 21:43:15,088 INFO send udp packet: 172.27.187.122,62237,44481405272600
+
+2022-09-05 21:43:15,088 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:43:15,089 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:56568, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,56568,44481405961400
+
+2022-09-05 21:43:15,089 INFO send udp packet: 172.27.187.122,56568,44481405961400
+
+2022-09-05 21:43:15,089 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:43:15,089 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62238, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62238,44481406568300
+
+2022-09-05 21:43:15,089 INFO send udp packet: 172.27.187.122,62238,44481406568300
+
+2022-09-05 21:43:15,089 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:43:15,090 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:56567, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,56567,44481407016300
+
+2022-09-05 21:43:15,090 INFO send udp packet: 172.27.187.122,56567,44481407016300
+
+2022-09-05 21:43:15,091 INFO [PUSH-SUCC] 3ms, all delay time 564ms, SLA 564ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:43:15,092 INFO [PUSH-SUCC] 3ms, all delay time 565ms, SLA 565ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:43:24,207 INFO retry to push data, key: 172.27.187.122,62237,44480516980700
+
+2022-09-05 21:43:24,207 INFO retry to push data, key: 172.27.187.122,62238,44480517760600
+
+2022-09-05 21:43:25,091 INFO retry to push data, key: 172.27.187.122,62237,44481405272600
+
+2022-09-05 21:43:25,091 INFO retry to push data, key: 172.27.187.122,62238,44481406568300
+
+2022-09-05 21:43:34,221 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62237,44480516980700
+
+2022-09-05 21:43:34,221 ERROR [PUSH-FAIL] 20021ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, reason=null, target=172.27.187.122
+
+2022-09-05 21:43:34,221 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62238,44480517760600
+
+2022-09-05 21:43:34,221 ERROR [PUSH-FAIL] 20021ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, reason=null, target=172.27.187.122
+
+2022-09-05 21:43:35,103 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62237,44481405272600
+
+2022-09-05 21:43:35,103 ERROR [PUSH-FAIL] 20015ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, reason=null, target=172.27.187.122
+
+2022-09-05 21:43:35,103 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62238,44481406568300
+
+2022-09-05 21:43:35,103 ERROR [PUSH-FAIL] 20014ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, reason=null, target=172.27.187.122
+
+2022-09-05 21:47:19,909 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=16}
+
+2022-09-05 21:47:20,397 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:47:20,397 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:56568, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,56568,44726714326700
+
+2022-09-05 21:47:20,397 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:47:20,397 INFO send udp packet: 172.27.187.122,56568,44726714326700
+
+2022-09-05 21:47:20,397 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:56567, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,56567,44726714584800
+
+2022-09-05 21:47:20,398 INFO send udp packet: 172.27.187.122,56567,44726714584800
+
+2022-09-05 21:47:20,400 INFO [PUSH-SUCC] 3ms, all delay time 520ms, SLA 491ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=16}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:47:20,400 INFO [PUSH-SUCC] 3ms, all delay time 520ms, SLA 491ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=16}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:47:36,498 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=17}
+
+2022-09-05 21:47:36,548 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:47:36,548 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:56568, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,56568,44742864747400
+
+2022-09-05 21:47:36,548 INFO send udp packet: 172.27.187.122,56568,44742864747400
+
+2022-09-05 21:47:36,548 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:47:36,549 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60043, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60043,44742865024300
+
+2022-09-05 21:47:36,549 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:47:36,549 INFO send udp packet: 172.27.187.122,60043,44742865024300
+
+2022-09-05 21:47:36,549 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:56567, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,56567,44742865705100
+
+2022-09-05 21:47:36,549 INFO send udp packet: 172.27.187.122,56567,44742865705100
+
+2022-09-05 21:47:36,562 INFO [PUSH-SUCC] 14ms, all delay time 603ms, SLA 64ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=17}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 21:47:37,471 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}
+
+2022-09-05 21:47:37,545 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:47:37,545 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:56568, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,56568,44743861960100
+
+2022-09-05 21:47:37,545 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:47:37,545 INFO send udp packet: 172.27.187.122,56568,44743861960100
+
+2022-09-05 21:47:37,546 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60043, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60043,44743862287400
+
+2022-09-05 21:47:37,546 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:47:37,546 INFO send udp packet: 172.27.187.122,60043,44743862287400
+
+2022-09-05 21:47:37,547 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60044, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60044,44743863035000
+
+2022-09-05 21:47:37,547 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:47:37,547 INFO send udp packet: 172.27.187.122,60044,44743863035000
+
+2022-09-05 21:47:37,547 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:56567, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,56567,44743863559500
+
+2022-09-05 21:47:37,547 INFO send udp packet: 172.27.187.122,56567,44743863559500
+
+2022-09-05 21:47:37,549 INFO [PUSH-SUCC] 4ms, all delay time 552ms, SLA 78ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:47:37,552 INFO [PUSH-SUCC] 6ms, all delay time 555ms, SLA 81ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:47:46,555 INFO retry to push data, key: 172.27.187.122,56568,44742864747400
+
+2022-09-05 21:47:46,555 INFO retry to push data, key: 172.27.187.122,56567,44742865705100
+
+2022-09-05 21:47:47,548 INFO retry to push data, key: 172.27.187.122,56568,44743861960100
+
+2022-09-05 21:47:47,548 INFO retry to push data, key: 172.27.187.122,56567,44743863559500
+
+2022-09-05 21:47:56,563 WARN max re-push times reached, retry times 2, key: 172.27.187.122,56568,44742864747400
+
+2022-09-05 21:47:56,563 ERROR [PUSH-FAIL] 20015ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, reason=null, target=172.27.187.122
+
+2022-09-05 21:47:56,563 WARN max re-push times reached, retry times 2, key: 172.27.187.122,56567,44742865705100
+
+2022-09-05 21:47:56,563 ERROR [PUSH-FAIL] 20014ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, reason=null, target=172.27.187.122
+
+2022-09-05 21:47:57,562 WARN max re-push times reached, retry times 2, key: 172.27.187.122,56568,44743861960100
+
+2022-09-05 21:47:57,562 ERROR [PUSH-FAIL] 20017ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, reason=null, target=172.27.187.122
+
+2022-09-05 21:47:57,562 WARN max re-push times reached, retry times 2, key: 172.27.187.122,56567,44743863559500
+
+2022-09-05 21:47:57,562 ERROR [PUSH-FAIL] 20015ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, reason=null, target=172.27.187.122
+
+2022-09-05 21:48:19,129 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=20}
+
+2022-09-05 21:48:19,670 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:48:19,671 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60043, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60043,44785987510500
+
+2022-09-05 21:48:19,671 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:48:19,671 INFO send udp packet: 172.27.187.122,60043,44785987510500
+
+2022-09-05 21:48:19,671 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:60044, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60044,44785988113900
+
+2022-09-05 21:48:19,672 INFO send udp packet: 172.27.187.122,60044,44785988113900
+
+2022-09-05 21:48:19,675 INFO [PUSH-SUCC] 5ms, all delay time 565ms, SLA 546ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=20}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:48:19,676 INFO [PUSH-SUCC] 5ms, all delay time 566ms, SLA 547ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=20}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:48:37,664 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:48:37,664 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63824, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63824,44803981017000
+
+2022-09-05 21:48:37,664 INFO send udp packet: 172.27.187.122,63824,44803981017000
+
+2022-09-05 21:48:37,667 INFO [PUSH-SUCC] 3ms, all delay time 508ms for subscriber 172.27.187.122, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=20}, originalSize=0, DataSize=0
+
+2022-09-05 21:48:38,025 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=21}
+
+2022-09-05 21:48:38,222 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:48:38,222 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63825, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63825,44804538980800
+
+2022-09-05 21:48:38,222 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:48:38,222 INFO send udp packet: 172.27.187.122,63825,44804538980800
+
+2022-09-05 21:48:38,223 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60043, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60043,44804539347200
+
+2022-09-05 21:48:38,223 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:48:38,223 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:60044, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60044,44804540317200
+
+2022-09-05 21:48:38,223 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:48:38,223 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63824, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63824,44804540386000
+
+2022-09-05 21:48:38,223 INFO send udp packet: 172.27.187.122,60043,44804539347200
+
+2022-09-05 21:48:38,224 INFO send udp packet: 172.27.187.122,60044,44804540317200
+
+2022-09-05 21:48:38,225 INFO send udp packet: 172.27.187.122,63824,44804540386000
+
+2022-09-05 21:48:38,238 INFO [PUSH-SUCC] 16ms, all delay time 532ms, SLA 532ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=21}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 21:48:38,240 INFO [PUSH-SUCC] 17ms, all delay time 534ms, SLA 534ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=21}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 21:48:39,003 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:48:39,003 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63825, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63825,44805320150900
+
+2022-09-05 21:48:39,003 INFO send udp packet: 172.27.187.122,63825,44805320150900
+
+2022-09-05 21:48:39,003 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:48:39,004 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60043, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60043,44805320811100
+
+2022-09-05 21:48:39,004 INFO send udp packet: 172.27.187.122,60043,44805320811100
+
+2022-09-05 21:48:39,004 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:48:39,005 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:60044, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60044,44805321309300
+
+2022-09-05 21:48:39,005 INFO send udp packet: 172.27.187.122,60044,44805321309300
+
+2022-09-05 21:48:39,005 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:48:39,005 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63824, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63824,44805322574600
+
+2022-09-05 21:48:39,005 INFO send udp packet: 172.27.187.122,63824,44805322574600
+
+2022-09-05 21:48:39,007 INFO [PUSH-SUCC] 4ms, all delay time 516ms, SLA 517ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:48:39,009 INFO [PUSH-SUCC] 4ms, all delay time 518ms, SLA 519ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:48:48,231 INFO retry to push data, key: 172.27.187.122,60043,44804539347200
+
+2022-09-05 21:48:48,231 INFO retry to push data, key: 172.27.187.122,60044,44804540317200
+
+2022-09-05 21:48:49,014 INFO retry to push data, key: 172.27.187.122,60043,44805320811100
+
+2022-09-05 21:48:49,014 INFO retry to push data, key: 172.27.187.122,60044,44805321309300
+
+2022-09-05 21:48:58,233 WARN max re-push times reached, retry times 2, key: 172.27.187.122,60043,44804539347200
+
+2022-09-05 21:48:58,233 ERROR [PUSH-FAIL] 20011ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, reason=null, target=172.27.187.122
+
+2022-09-05 21:48:58,233 WARN max re-push times reached, retry times 2, key: 172.27.187.122,60044,44804540317200
+
+2022-09-05 21:48:58,233 ERROR [PUSH-FAIL] 20010ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, reason=null, target=172.27.187.122
+
+2022-09-05 21:48:59,015 WARN max re-push times reached, retry times 2, key: 172.27.187.122,60043,44805320811100
+
+2022-09-05 21:48:59,015 ERROR [PUSH-FAIL] 20012ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, reason=null, target=172.27.187.122
+
+2022-09-05 21:48:59,015 WARN max re-push times reached, retry times 2, key: 172.27.187.122,60044,44805321309300
+
+2022-09-05 21:48:59,015 ERROR [PUSH-FAIL] 20011ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, reason=null, target=172.27.187.122
+
+2022-09-05 21:49:09,020 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=24}
+
+2022-09-05 21:49:09,522 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:49:09,522 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63825, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63825,44835839340500
+
+2022-09-05 21:49:09,522 INFO send udp packet: 172.27.187.122,63825,44835839340500
+
+2022-09-05 21:49:09,522 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:49:09,522 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63824, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63824,44835839517200
+
+2022-09-05 21:49:09,523 INFO send udp packet: 172.27.187.122,63824,44835839517200
+
+2022-09-05 21:49:09,525 INFO [PUSH-SUCC] 3ms, all delay time 533ms, SLA 505ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=24}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:49:09,525 INFO [PUSH-SUCC] 3ms, all delay time 533ms, SLA 505ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=24}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:49:24,966 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=25}
+
+2022-09-05 21:49:25,027 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:49:25,027 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63825, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63825,44851343747600
+
+2022-09-05 21:49:25,027 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:49:25,027 INFO send udp packet: 172.27.187.122,63825,44851343747600
+
+2022-09-05 21:49:25,027 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:55045, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55045,44851343898300
+
+2022-09-05 21:49:25,028 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:49:25,028 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63824, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63824,44851344429500
+
+2022-09-05 21:49:25,028 INFO send udp packet: 172.27.187.122,55045,44851343898300
+
+2022-09-05 21:49:25,028 INFO send udp packet: 172.27.187.122,63824,44851344429500
+
+2022-09-05 21:49:25,039 INFO [PUSH-SUCC] 12ms, all delay time 614ms, SLA 73ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=25}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 21:49:25,893 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=26}
+
+2022-09-05 21:49:26,020 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:49:26,020 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63825, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63825,44852337297800
+
+2022-09-05 21:49:26,020 INFO send udp packet: 172.27.187.122,63825,44852337297800
+
+2022-09-05 21:49:26,020 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:49:26,021 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:55046, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55046,44852337682200
+
+2022-09-05 21:49:26,021 INFO send udp packet: 172.27.187.122,55046,44852337682200
+
+2022-09-05 21:49:26,021 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:49:26,021 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:55045, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55045,44852338792700
+
+2022-09-05 21:49:26,022 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:49:26,022 INFO send udp packet: 172.27.187.122,55045,44852338792700
+
+2022-09-05 21:49:26,022 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:63824, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,63824,44852338956600
+
+2022-09-05 21:49:26,022 INFO send udp packet: 172.27.187.122,63824,44852338956600
+
+2022-09-05 21:49:26,024 INFO [PUSH-SUCC] 3ms, all delay time 581ms, SLA 131ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=26}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:49:26,025 INFO [PUSH-SUCC] 5ms, all delay time 582ms, SLA 132ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=26}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:49:35,030 INFO retry to push data, key: 172.27.187.122,63825,44851343747600
+
+2022-09-05 21:49:35,030 INFO retry to push data, key: 172.27.187.122,63824,44851344429500
+
+2022-09-05 21:49:36,025 INFO retry to push data, key: 172.27.187.122,63825,44852337297800
+
+2022-09-05 21:49:36,025 INFO retry to push data, key: 172.27.187.122,63824,44852338956600
+
+2022-09-05 21:49:45,046 WARN max re-push times reached, retry times 2, key: 172.27.187.122,63825,44851343747600
+
+2022-09-05 21:49:45,046 ERROR [PUSH-FAIL] 20019ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=26}, reason=null, target=172.27.187.122
+
+2022-09-05 21:49:45,046 WARN max re-push times reached, retry times 2, key: 172.27.187.122,63824,44851344429500
+
+2022-09-05 21:49:45,046 ERROR [PUSH-FAIL] 20019ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=26}, reason=null, target=172.27.187.122
+
+2022-09-05 21:49:46,026 WARN max re-push times reached, retry times 2, key: 172.27.187.122,63825,44852337297800
+
+2022-09-05 21:49:46,026 ERROR [PUSH-FAIL] 20006ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=26}, reason=null, target=172.27.187.122
+
+2022-09-05 21:49:46,026 WARN max re-push times reached, retry times 2, key: 172.27.187.122,63824,44852338956600
+
+2022-09-05 21:49:46,026 ERROR [PUSH-FAIL] 20004ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=26}, reason=null, target=172.27.187.122
+
+2022-09-05 21:52:28,604 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=28}
+
+2022-09-05 21:52:29,105 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:52:29,105 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:55046, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55046,45035421880700
+
+2022-09-05 21:52:29,105 INFO send udp packet: 172.27.187.122,55046,45035421880700
+
+2022-09-05 21:52:29,105 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:52:29,106 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:55045, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55045,45035422254300
+
+2022-09-05 21:52:29,106 INFO send udp packet: 172.27.187.122,55045,45035422254300
+
+2022-09-05 21:52:29,109 INFO [PUSH-SUCC] 4ms, all delay time 530ms, SLA 505ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=28}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:52:29,109 INFO [PUSH-SUCC] 4ms, all delay time 530ms, SLA 505ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=28}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 21:52:47,032 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:52:47,032 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62523, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62523,45053348572200
+
+2022-09-05 21:52:47,032 INFO send udp packet: 172.27.187.122,62523,45053348572200
+
+2022-09-05 21:52:47,036 INFO [PUSH-SUCC] 4ms, all delay time 519ms for subscriber 172.27.187.122, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=28}, originalSize=0, DataSize=0
+
+2022-09-05 21:52:47,400 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=29}
+
+2022-09-05 21:52:47,590 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:52:47,590 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62524, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62524,45053906355800
+
+2022-09-05 21:52:47,590 INFO send udp packet: 172.27.187.122,62524,45053906355800
+
+2022-09-05 21:52:47,590 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:52:47,591 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:55046, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55046,45053907075500
+
+2022-09-05 21:52:47,591 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:52:47,591 INFO send udp packet: 172.27.187.122,55046,45053907075500
+
+2022-09-05 21:52:47,591 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62523, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62523,45053907241800
+
+2022-09-05 21:52:47,591 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:52:47,591 INFO send udp packet: 172.27.187.122,62523,45053907241800
+
+2022-09-05 21:52:47,591 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:55045, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55045,45053907684900
+
+2022-09-05 21:52:47,592 INFO send udp packet: 172.27.187.122,55045,45053907684900
+
+2022-09-05 21:52:47,603 INFO [PUSH-SUCC] 13ms, all delay time 532ms, SLA 532ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=29}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 21:52:47,604 INFO [PUSH-SUCC] 13ms, all delay time 533ms, SLA 533ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=29}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 21:52:48,472 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:52:48,472 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62524, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62524,45054788780200
+
+2022-09-05 21:52:48,472 INFO send udp packet: 172.27.187.122,62524,45054788780200
+
+2022-09-05 21:52:48,472 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:52:48,473 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:55046, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55046,45054789244100
+
+2022-09-05 21:52:48,473 INFO send udp packet: 172.27.187.122,55046,45054789244100
+
+2022-09-05 21:52:48,473 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:52:48,474 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62523, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62523,45054790162500
+
+2022-09-05 21:52:48,474 INFO send udp packet: 172.27.187.122,62523,45054790162500
+
+2022-09-05 21:52:48,474 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 21:52:48,475 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:55045, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55045,45054791093400
+
+2022-09-05 21:52:48,475 INFO send udp packet: 172.27.187.122,55045,45054791093400
+
+2022-09-05 21:52:48,478 INFO [PUSH-SUCC] 6ms, all delay time 576ms, SLA 576ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=30}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:52:48,479 INFO [PUSH-SUCC] 6ms, all delay time 577ms, SLA 577ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=30}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 21:52:57,606 INFO retry to push data, key: 172.27.187.122,55046,45053907075500
+
+2022-09-05 21:52:57,606 INFO retry to push data, key: 172.27.187.122,55045,45053907684900
+
+2022-09-05 21:52:58,477 INFO retry to push data, key: 172.27.187.122,55046,45054789244100
+
+2022-09-05 21:52:58,493 INFO retry to push data, key: 172.27.187.122,55045,45054791093400
+
+2022-09-05 21:53:07,619 WARN max re-push times reached, retry times 2, key: 172.27.187.122,55046,45053907075500
+
+2022-09-05 21:53:07,619 ERROR [PUSH-FAIL] 20029ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=30}, reason=null, target=172.27.187.122
+
+2022-09-05 21:53:07,619 WARN max re-push times reached, retry times 2, key: 172.27.187.122,55045,45053907684900
+
+2022-09-05 21:53:07,619 ERROR [PUSH-FAIL] 20028ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=30}, reason=null, target=172.27.187.122
+
+2022-09-05 21:53:08,487 WARN max re-push times reached, retry times 2, key: 172.27.187.122,55046,45054789244100
+
+2022-09-05 21:53:08,487 ERROR [PUSH-FAIL] 20015ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=30}, reason=null, target=172.27.187.122
+
+2022-09-05 21:53:08,503 WARN max re-push times reached, retry times 2, key: 172.27.187.122,55045,45054791093400
+
+2022-09-05 21:53:08,503 ERROR [PUSH-FAIL] 20029ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=30}, reason=null, target=172.27.187.122
+
+2022-09-05 22:03:53,484 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=32}
+
+2022-09-05 22:03:54,009 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:03:54,009 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:62524, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62524,45720325723000
+
+2022-09-05 22:03:54,009 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:03:54,009 INFO send udp packet: 172.27.187.122,62524,45720325723000
+
+2022-09-05 22:03:54,010 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62523, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62523,45720325951900
+
+2022-09-05 22:03:54,010 INFO send udp packet: 172.27.187.122,62523,45720325951900
+
+2022-09-05 22:03:54,011 INFO [PUSH-SUCC] 2ms, all delay time 553ms, SLA 527ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=32}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 22:03:54,012 INFO [PUSH-SUCC] 3ms, all delay time 554ms, SLA 528ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=32}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 22:04:10,462 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=33}
+
+2022-09-05 22:04:10,499 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:04:10,499 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:62524, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62524,45736815893600
+
+2022-09-05 22:04:10,499 INFO send udp packet: 172.27.187.122,62524,45736815893600
+
+2022-09-05 22:04:10,499 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:04:10,500 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62523, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62523,45736816671400
+
+2022-09-05 22:04:10,500 INFO send udp packet: 172.27.187.122,62523,45736816671400
+
+2022-09-05 22:04:10,500 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:04:10,500 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53805, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53805,45736816937400
+
+2022-09-05 22:04:10,500 INFO send udp packet: 172.27.187.122,53805,45736816937400
+
+2022-09-05 22:04:10,513 INFO [PUSH-SUCC] 13ms, all delay time 604ms, SLA 51ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=33}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 22:04:11,230 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=34}
+
+2022-09-05 22:04:11,274 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:04:11,274 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:62524, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62524,45737591177600
+
+2022-09-05 22:04:11,274 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:04:11,274 INFO send udp packet: 172.27.187.122,62524,45737591177600
+
+2022-09-05 22:04:11,274 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:62523, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,62523,45737591432400
+
+2022-09-05 22:04:11,275 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:04:11,275 INFO send udp packet: 172.27.187.122,62523,45737591432400
+
+2022-09-05 22:04:11,275 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53805, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53805,45737592081300
+
+2022-09-05 22:04:11,275 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:04:11,276 INFO send udp packet: 172.27.187.122,53805,45737592081300
+
+2022-09-05 22:04:11,276 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53806, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53806,45737592500000
+
+2022-09-05 22:04:11,276 INFO send udp packet: 172.27.187.122,53806,45737592500000
+
+2022-09-05 22:04:11,278 INFO [PUSH-SUCC] 3ms, all delay time 510ms, SLA 48ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=34}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:04:11,280 INFO [PUSH-SUCC] 5ms, all delay time 512ms, SLA 50ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=34}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:04:20,511 INFO retry to push data, key: 172.27.187.122,62524,45736815893600
+
+2022-09-05 22:04:20,511 INFO retry to push data, key: 172.27.187.122,62523,45736816671400
+
+2022-09-05 22:04:21,276 INFO retry to push data, key: 172.27.187.122,62524,45737591177600
+
+2022-09-05 22:04:21,276 INFO retry to push data, key: 172.27.187.122,62523,45737591432400
+
+2022-09-05 22:04:30,522 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62524,45736815893600
+
+2022-09-05 22:04:30,522 ERROR [PUSH-FAIL] 20023ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=34}, reason=null, target=172.27.187.122
+
+2022-09-05 22:04:30,522 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62523,45736816671400
+
+2022-09-05 22:04:30,522 ERROR [PUSH-FAIL] 20023ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=34}, reason=null, target=172.27.187.122
+
+2022-09-05 22:04:31,281 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62524,45737591177600
+
+2022-09-05 22:04:31,281 ERROR [PUSH-FAIL] 20007ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=34}, reason=null, target=172.27.187.122
+
+2022-09-05 22:04:31,281 WARN max re-push times reached, retry times 2, key: 172.27.187.122,62523,45737591432400
+
+2022-09-05 22:04:31,281 ERROR [PUSH-FAIL] 20007ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=34}, reason=null, target=172.27.187.122
+
+2022-09-05 22:06:22,704 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=36}
+
+2022-09-05 22:06:23,208 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:06:23,208 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53805, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53805,45869525316700
+
+2022-09-05 22:06:23,208 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:06:23,208 INFO send udp packet: 172.27.187.122,53805,45869525316700
+
+2022-09-05 22:06:23,208 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53806, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53806,45869525498200
+
+2022-09-05 22:06:23,209 INFO send udp packet: 172.27.187.122,53806,45869525498200
+
+2022-09-05 22:06:23,211 INFO [PUSH-SUCC] 3ms, all delay time 536ms, SLA 507ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=36}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 22:06:23,211 INFO [PUSH-SUCC] 3ms, all delay time 536ms, SLA 507ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=36}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 22:06:42,366 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:06:42,366 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:51069, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,51069,45888683152000
+
+2022-09-05 22:06:42,366 INFO send udp packet: 172.27.187.122,51069,45888683152000
+
+2022-09-05 22:06:42,369 INFO [PUSH-SUCC] 3ms, all delay time 508ms for subscriber 172.27.187.122, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=36}, originalSize=0, DataSize=0
+
+2022-09-05 22:06:42,913 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=37}
+
+2022-09-05 22:06:43,030 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:06:43,031 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:51069, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,51069,45889347522300
+
+2022-09-05 22:06:43,031 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:06:43,031 INFO send udp packet: 172.27.187.122,51069,45889347522300
+
+2022-09-05 22:06:43,031 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:53805, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53805,45889347811800
+
+2022-09-05 22:06:43,033 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:06:43,033 INFO send udp packet: 172.27.187.122,53805,45889347811800
+
+2022-09-05 22:06:43,035 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53806, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53806,45889350470100
+
+2022-09-05 22:06:43,035 INFO send udp packet: 172.27.187.122,53806,45889350470100
+
+2022-09-05 22:06:43,036 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:06:43,038 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:51070, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,51070,45889354919200
+
+2022-09-05 22:06:43,038 INFO send udp packet: 172.27.187.122,51070,45889354919200
+
+2022-09-05 22:06:43,069 INFO [PUSH-SUCC] 39ms, all delay time 540ms, SLA 541ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=37}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 22:06:43,077 INFO [PUSH-SUCC] 42ms, all delay time 548ms, SLA 549ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=37}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 22:06:43,920 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:06:43,920 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:51069, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,51069,45890236869700
+
+2022-09-05 22:06:43,920 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:06:43,920 INFO send udp packet: 172.27.187.122,51069,45890236869700
+
+2022-09-05 22:06:43,920 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:53805, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53805,45890237135700
+
+2022-09-05 22:06:43,920 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:06:43,921 INFO send udp packet: 172.27.187.122,53805,45890237135700
+
+2022-09-05 22:06:43,921 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:53806, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,53806,45890237718100
+
+2022-09-05 22:06:43,921 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:06:43,921 INFO send udp packet: 172.27.187.122,53806,45890237718100
+
+2022-09-05 22:06:43,921 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:51070, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,51070,45890238192200
+
+2022-09-05 22:06:43,922 INFO send udp packet: 172.27.187.122,51070,45890238192200
+
+2022-09-05 22:06:43,924 INFO [PUSH-SUCC] 4ms, all delay time 511ms, SLA 511ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=38}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:06:43,926 INFO [PUSH-SUCC] 5ms, all delay time 513ms, SLA 513ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=38}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:06:53,044 INFO retry to push data, key: 172.27.187.122,53805,45889347811800
+
+2022-09-05 22:06:53,044 INFO retry to push data, key: 172.27.187.122,53806,45889350470100
+
+2022-09-05 22:06:53,922 INFO retry to push data, key: 172.27.187.122,53805,45890237135700
+
+2022-09-05 22:06:53,922 INFO retry to push data, key: 172.27.187.122,53806,45890237718100
+
+2022-09-05 22:07:03,059 WARN max re-push times reached, retry times 2, key: 172.27.187.122,53805,45889347811800
+
+2022-09-05 22:07:03,059 ERROR [PUSH-FAIL] 20028ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=38}, reason=null, target=172.27.187.122
+
+2022-09-05 22:07:03,059 WARN max re-push times reached, retry times 2, key: 172.27.187.122,53806,45889350470100
+
+2022-09-05 22:07:03,059 ERROR [PUSH-FAIL] 20026ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=38}, reason=null, target=172.27.187.122
+
+2022-09-05 22:07:03,937 WARN max re-push times reached, retry times 2, key: 172.27.187.122,53805,45890237135700
+
+2022-09-05 22:07:03,937 ERROR [PUSH-FAIL] 20017ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=38}, reason=null, target=172.27.187.122
+
+2022-09-05 22:07:03,937 WARN max re-push times reached, retry times 2, key: 172.27.187.122,53806,45890237718100
+
+2022-09-05 22:07:03,937 ERROR [PUSH-FAIL] 20017ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=38}, reason=null, target=172.27.187.122
+
+2022-09-05 22:13:09,797 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=40}
+
+2022-09-05 22:13:10,355 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:13:10,355 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:51069, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,51069,46276672031400
+
+2022-09-05 22:13:10,355 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:13:10,355 INFO send udp packet: 172.27.187.122,51069,46276672031400
+
+2022-09-05 22:13:10,355 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:51070, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,51070,46276672198300
+
+2022-09-05 22:13:10,356 INFO send udp packet: 172.27.187.122,51070,46276672198300
+
+2022-09-05 22:13:10,358 INFO [PUSH-SUCC] 3ms, all delay time 591ms, SLA 562ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=40}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 22:13:10,359 INFO [PUSH-SUCC] 4ms, all delay time 592ms, SLA 563ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=40}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 22:13:24,329 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=41}
+
+2022-09-05 22:13:24,404 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:13:24,404 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60348, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60348,46290721301000
+
+2022-09-05 22:13:24,404 INFO send udp packet: 172.27.187.122,60348,46290721301000
+
+2022-09-05 22:13:24,404 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:13:24,404 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:51069, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,51069,46290721548800
+
+2022-09-05 22:13:24,405 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:13:24,405 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:51070, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,51070,46290722003500
+
+2022-09-05 22:13:24,405 INFO send udp packet: 172.27.187.122,51069,46290721548800
+
+2022-09-05 22:13:24,405 INFO send udp packet: 172.27.187.122,51070,46290722003500
+
+2022-09-05 22:13:24,415 INFO [PUSH-SUCC] 11ms, all delay time 529ms, SLA 86ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=41}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 22:13:28,223 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=42}
+
+2022-09-05 22:13:28,404 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:13:28,404 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60348, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60348,46294721329300
+
+2022-09-05 22:13:28,404 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:13:28,404 INFO send udp packet: 172.27.187.122,60348,46294721329300
+
+2022-09-05 22:13:28,404 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:51069, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,51069,46294721606400
+
+2022-09-05 22:13:28,405 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:13:28,405 INFO send udp packet: 172.27.187.122,51069,46294721606400
+
+2022-09-05 22:13:28,406 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60349, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60349,46294722517200
+
+2022-09-05 22:13:28,406 INFO send udp packet: 172.27.187.122,60349,46294722517200
+
+2022-09-05 22:13:28,406 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:13:28,406 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:51070, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,51070,46294723672700
+
+2022-09-05 22:13:28,406 INFO send udp packet: 172.27.187.122,51070,46294723672700
+
+2022-09-05 22:13:28,407 INFO [PUSH-SUCC] 3ms, all delay time 605ms, SLA 184ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=42}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:13:28,410 INFO [PUSH-SUCC] 5ms, all delay time 608ms, SLA 187ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=42}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:13:34,408 INFO retry to push data, key: 172.27.187.122,51069,46290721548800
+
+2022-09-05 22:13:34,408 INFO retry to push data, key: 172.27.187.122,51070,46290722003500
+
+2022-09-05 22:13:38,407 INFO retry to push data, key: 172.27.187.122,51069,46294721606400
+
+2022-09-05 22:13:38,422 INFO retry to push data, key: 172.27.187.122,51070,46294723672700
+
+2022-09-05 22:13:44,420 WARN max re-push times reached, retry times 2, key: 172.27.187.122,51069,46290721548800
+
+2022-09-05 22:13:44,420 ERROR [PUSH-FAIL] 20016ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=42}, reason=null, target=172.27.187.122
+
+2022-09-05 22:13:44,420 WARN max re-push times reached, retry times 2, key: 172.27.187.122,51070,46290722003500
+
+2022-09-05 22:13:44,420 ERROR [PUSH-FAIL] 20016ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=42}, reason=null, target=172.27.187.122
+
+2022-09-05 22:13:48,412 WARN max re-push times reached, retry times 2, key: 172.27.187.122,51069,46294721606400
+
+2022-09-05 22:13:48,413 ERROR [PUSH-FAIL] 20009ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=42}, reason=null, target=172.27.187.122
+
+2022-09-05 22:13:48,428 WARN max re-push times reached, retry times 2, key: 172.27.187.122,51070,46294723672700
+
+2022-09-05 22:13:48,428 ERROR [PUSH-FAIL] 20022ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=42}, reason=null, target=172.27.187.122
+
+2022-09-05 22:16:25,562 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=44}
+
+2022-09-05 22:16:26,035 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:16:26,035 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60348, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60348,46472352127400
+
+2022-09-05 22:16:26,035 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:16:26,035 INFO send udp packet: 172.27.187.122,60348,46472352127400
+
+2022-09-05 22:16:26,035 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:60349, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60349,46472352293800
+
+2022-09-05 22:16:26,036 INFO send udp packet: 172.27.187.122,60349,46472352293800
+
+2022-09-05 22:16:26,038 INFO [PUSH-SUCC] 3ms, all delay time 506ms, SLA 476ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=44}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 22:16:26,039 INFO [PUSH-SUCC] 4ms, all delay time 507ms, SLA 477ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=44}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-05 22:16:45,607 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:16:45,607 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54635, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54635,46491923978700
+
+2022-09-05 22:16:45,607 INFO send udp packet: 172.27.187.122,54635,46491923978700
+
+2022-09-05 22:16:45,611 INFO [PUSH-SUCC] 4ms, all delay time 534ms for subscriber 172.27.187.122, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=44}, originalSize=0, DataSize=0
+
+2022-09-05 22:16:45,990 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=45}
+
+2022-09-05 22:16:46,156 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:16:46,156 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54636, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54636,46492473118500
+
+2022-09-05 22:16:46,156 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:16:46,156 INFO send udp packet: 172.27.187.122,54636,46492473118500
+
+2022-09-05 22:16:46,156 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54635, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54635,46492473224600
+
+2022-09-05 22:16:46,157 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:16:46,157 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60348, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60348,46492473758100
+
+2022-09-05 22:16:46,157 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:16:46,157 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60349, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60349,46492473830200
+
+2022-09-05 22:16:46,157 INFO send udp packet: 172.27.187.122,54635,46492473224600
+
+2022-09-05 22:16:46,157 INFO send udp packet: 172.27.187.122,60348,46492473758100
+
+2022-09-05 22:16:46,158 INFO send udp packet: 172.27.187.122,60349,46492473830200
+
+2022-09-05 22:16:46,169 INFO [PUSH-SUCC] 13ms, all delay time 533ms, SLA 533ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=45}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 22:16:46,172 INFO [PUSH-SUCC] 16ms, all delay time 536ms, SLA 536ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=45}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-05 22:16:46,929 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:16:46,929 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54636, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54636,46493246383800
+
+2022-09-05 22:16:46,929 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:16:46,929 INFO send udp packet: 172.27.187.122,54636,46493246383800
+
+2022-09-05 22:16:46,930 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54635, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54635,46493247381800
+
+2022-09-05 22:16:46,930 INFO send udp packet: 172.27.187.122,54635,46493247381800
+
+2022-09-05 22:16:46,930 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:16:46,931 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60348, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60348,46493247946300
+
+2022-09-05 22:16:46,931 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:16:46,931 INFO send udp packet: 172.27.187.122,60348,46493247946300
+
+2022-09-05 22:16:46,932 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:60349, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,60349,46493248620400
+
+2022-09-05 22:16:46,932 INFO send udp packet: 172.27.187.122,60349,46493248620400
+
+2022-09-05 22:16:46,934 INFO [PUSH-SUCC] 5ms, all delay time 516ms, SLA 516ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=46}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:16:46,934 INFO [PUSH-SUCC] 5ms, all delay time 516ms, SLA 516ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=46}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:16:56,164 INFO retry to push data, key: 172.27.187.122,60348,46492473758100
+
+2022-09-05 22:16:56,164 INFO retry to push data, key: 172.27.187.122,60349,46492473830200
+
+2022-09-05 22:16:56,939 INFO retry to push data, key: 172.27.187.122,60348,46493247946300
+
+2022-09-05 22:16:56,939 INFO retry to push data, key: 172.27.187.122,60349,46493248620400
+
+2022-09-05 22:17:06,177 WARN max re-push times reached, retry times 2, key: 172.27.187.122,60348,46492473758100
+
+2022-09-05 22:17:06,177 ERROR [PUSH-FAIL] 20021ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=46}, reason=null, target=172.27.187.122
+
+2022-09-05 22:17:06,177 WARN max re-push times reached, retry times 2, key: 172.27.187.122,60349,46492473830200
+
+2022-09-05 22:17:06,177 ERROR [PUSH-FAIL] 20020ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=46}, reason=null, target=172.27.187.122
+
+2022-09-05 22:17:06,952 WARN max re-push times reached, retry times 2, key: 172.27.187.122,60348,46493247946300
+
+2022-09-05 22:17:06,952 ERROR [PUSH-FAIL] 20022ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=46}, reason=null, target=172.27.187.122
+
+2022-09-05 22:17:06,952 WARN max re-push times reached, retry times 2, key: 172.27.187.122,60349,46493248620400
+
+2022-09-05 22:17:06,952 ERROR [PUSH-FAIL] 20021ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=46}, reason=null, target=172.27.187.122
+
+2022-09-05 22:18:37,393 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:18:37,393 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54636, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54636,46603710142200
+
+2022-09-05 22:18:37,393 INFO send udp packet: 172.27.187.122,54636,46603710142200
+
+2022-09-05 22:18:37,393 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:18:37,394 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:54635, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54635,46603710589500
+
+2022-09-05 22:18:37,394 INFO send udp packet: 172.27.187.122,54635,46603710589500
+
+2022-09-05 22:18:37,397 INFO [PUSH-SUCC] 4ms, all delay time 561ms, SLA 561ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=47}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:18:37,398 INFO [PUSH-SUCC] 5ms, all delay time 562ms, SLA 562ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=47}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:19:08,054 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:19:08,054 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54636, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54636,46634371405500
+
+2022-09-05 22:19:08,054 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:19:08,054 INFO send udp packet: 172.27.187.122,54636,46634371405500
+
+2022-09-05 22:19:08,054 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:54635, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54635,46634371540500
+
+2022-09-05 22:19:08,055 INFO send udp packet: 172.27.187.122,54635,46634371540500
+
+2022-09-05 22:19:08,057 INFO [PUSH-SUCC] 3ms, all delay time 585ms, SLA 585ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=48}, originalSize=2, DataSize=1, target=172.27.187.122
+
+2022-09-05 22:19:08,058 INFO [PUSH-SUCC] 4ms, all delay time 586ms, SLA 586ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=48}, originalSize=2, DataSize=1, target=172.27.187.122
+
+2022-09-05 22:20:00,994 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:20:00,994 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54636, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54636,46687311340500
+
+2022-09-05 22:20:00,994 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:20:00,994 INFO send udp packet: 172.27.187.122,54636,46687311340500
+
+2022-09-05 22:20:00,994 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:54635, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54635,46687311646100
+
+2022-09-05 22:20:00,995 INFO send udp packet: 172.27.187.122,54635,46687311646100
+
+2022-09-05 22:20:00,998 INFO [PUSH-SUCC] 4ms, all delay time 510ms, SLA 510ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=49}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:20:00,998 INFO [PUSH-SUCC] 4ms, all delay time 510ms, SLA 510ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=49}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:20:18,904 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:20:18,904 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54636, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54636,46705220566200
+
+2022-09-05 22:20:18,904 INFO send udp packet: 172.27.187.122,54636,46705220566200
+
+2022-09-05 22:20:18,904 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:20:18,905 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54635, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54635,46705221139100
+
+2022-09-05 22:20:18,905 INFO send udp packet: 172.27.187.122,54635,46705221139100
+
+2022-09-05 22:20:18,906 INFO [PUSH-SUCC] 2ms, all delay time 607ms, SLA 607ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=50}, originalSize=2, DataSize=1, target=172.27.187.122
+
+2022-09-05 22:20:18,907 INFO [PUSH-SUCC] 3ms, all delay time 608ms, SLA 608ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=50}, originalSize=2, DataSize=1, target=172.27.187.122
+
+2022-09-05 22:20:20,444 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:20:20,444 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54636, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54636,46706760824400
+
+2022-09-05 22:20:20,444 INFO send udp packet: 172.27.187.122,54636,46706760824400
+
+2022-09-05 22:20:20,444 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:20:20,445 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:54635, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54635,46706760986800
+
+2022-09-05 22:20:20,445 INFO send udp packet: 172.27.187.122,54635,46706760986800
+
+2022-09-05 22:20:20,446 INFO [PUSH-SUCC] 2ms, all delay time 573ms, SLA 573ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=51}, originalSize=2, DataSize=0, target=172.27.187.122
+
+2022-09-05 22:20:20,448 INFO [PUSH-SUCC] 4ms, all delay time 575ms, SLA 575ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=51}, originalSize=2, DataSize=0, target=172.27.187.122
+
+2022-09-05 22:20:30,188 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:20:30,188 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54636, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54636,46716505322700
+
+2022-09-05 22:20:30,188 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:20:30,188 INFO serviceName: DEFAULT_GROUP@@wps-service changed, schedule push for: 172.27.187.122:54635, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54635,46716505509000
+
+2022-09-05 22:20:30,188 INFO send udp packet: 172.27.187.122,54636,46716505322700
+
+2022-09-05 22:20:30,189 INFO send udp packet: 172.27.187.122,54635,46716505509000
+
+2022-09-05 22:20:30,191 INFO [PUSH-SUCC] 3ms, all delay time 564ms, SLA 564ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=52}, originalSize=2, DataSize=1, target=172.27.187.122
+
+2022-09-05 22:20:30,191 INFO [PUSH-SUCC] 3ms, all delay time 564ms, SLA 564ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=52}, originalSize=2, DataSize=1, target=172.27.187.122
+
+2022-09-05 22:20:50,889 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:20:50,889 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54636, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54636,46737205930000
+
+2022-09-05 22:20:50,889 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-05 22:20:50,889 INFO send udp packet: 172.27.187.122,54636,46737205930000
+
+2022-09-05 22:20:50,889 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:54635, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,54635,46737206173600
+
+2022-09-05 22:20:50,890 INFO send udp packet: 172.27.187.122,54635,46737206173600
+
+2022-09-05 22:20:50,892 INFO [PUSH-SUCC] 3ms, all delay time 506ms, SLA 506ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=53}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-05 22:20:50,892 INFO [PUSH-SUCC] 3ms, all delay time 506ms, SLA 506ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=53}, originalSize=2, DataSize=2, target=172.27.187.122
+

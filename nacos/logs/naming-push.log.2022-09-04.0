@@ -1,0 +1,196 @@
+2022-09-04 11:06:36,321 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}
+
+2022-09-04 11:06:36,753 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 11:06:36,765 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:61864, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61864,845434771045000
+
+2022-09-04 11:06:36,766 INFO send udp packet: 172.27.187.122,61864,845434771045000
+
+2022-09-04 11:06:36,807 INFO [PUSH-SUCC] 55ms, all delay time 622ms, SLA 486ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-04 11:24:05,353 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 11:24:05,353 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:61864, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61864,846483371184800
+
+2022-09-04 11:24:05,354 INFO send udp packet: 172.27.187.122,61864,846483371184800
+
+2022-09-04 11:24:05,357 INFO [PUSH-SUCC] 4ms, all delay time 595ms, SLA 596ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=2}, originalSize=0, DataSize=0, target=172.27.187.122
+
+2022-09-04 11:24:23,554 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}
+
+2022-09-04 11:24:23,955 INFO DEFAULT_GROUP@@wps-service is changed, add it to push queue.
+
+2022-09-04 11:24:23,955 INFO serviceName: DEFAULT_GROUP@@wps-service@@DEFAULT changed, schedule push for: 172.27.187.122:55651, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55651,846501972457400
+
+2022-09-04 11:24:23,955 INFO send udp packet: 172.27.187.122,55651,846501972457400
+
+2022-09-04 11:24:23,991 INFO [PUSH-SUCC] 36ms, all delay time 566ms, SLA 437ms, Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-04 11:24:28,433 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}
+
+2022-09-04 11:24:28,890 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 11:24:28,891 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:61864, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61864,846506908484900
+
+2022-09-04 11:24:28,891 INFO send udp packet: 172.27.187.122,61864,846506908484900
+
+2022-09-04 11:24:28,891 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 11:24:28,892 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:55652, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55652,846506909501500
+
+2022-09-04 11:24:28,892 INFO send udp packet: 172.27.187.122,55652,846506909501500
+
+2022-09-04 11:24:28,911 INFO [PUSH-SUCC] 20ms, all delay time 557ms, SLA 478ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}, originalSize=1, DataSize=1, target=172.27.187.122
+
+2022-09-04 11:24:38,897 INFO retry to push data, key: 172.27.187.122,61864,846506908484900
+
+2022-09-04 11:24:48,902 WARN max re-push times reached, retry times 2, key: 172.27.187.122,61864,846506908484900
+
+2022-09-04 11:24:48,902 ERROR [PUSH-FAIL] 20012ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}, reason=null, target=172.27.187.122
+
+2022-09-04 16:11:30,981 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=4}
+
+2022-09-04 16:11:31,516 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 16:11:31,517 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:61834, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61834,863729534118800
+
+2022-09-04 16:11:31,517 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 16:11:31,517 INFO send udp packet: 172.27.187.122,61834,863729534118800
+
+2022-09-04 16:11:31,518 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:55652, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55652,863729534840000
+
+2022-09-04 16:11:31,518 INFO send udp packet: 172.27.187.122,55652,863729534840000
+
+2022-09-04 16:11:31,521 INFO [PUSH-SUCC] 4ms, all delay time 599ms, SLA 540ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=4}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-04 16:11:31,523 INFO [PUSH-SUCC] 7ms, all delay time 601ms, SLA 542ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=4}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-04 17:10:50,441 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=5}
+
+2022-09-04 17:10:50,754 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 17:10:50,759 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 127.0.1.1:57056, agent: Nacos-Java-Client:v1.4.2, key: 127.0.1.1,57056,867288771533000
+
+2022-09-04 17:10:50,759 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 17:10:50,759 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:61834, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61834,867288776685000
+
+2022-09-04 17:10:50,760 INFO send udp packet: 127.0.1.1,57056,867288771533000
+
+2022-09-04 17:10:50,760 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 17:10:50,761 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:55652, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55652,867288777227500
+
+2022-09-04 17:10:50,761 INFO send udp packet: 172.27.187.122,61834,867288776685000
+
+2022-09-04 17:10:50,761 INFO send udp packet: 172.27.187.122,55652,867288777227500
+
+2022-09-04 17:10:50,779 INFO [PUSH-SUCC] 20ms, all delay time 552ms, SLA 339ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=5}, originalSize=3, DataSize=3, target=172.27.187.122
+
+2022-09-04 17:10:50,801 INFO [PUSH-SUCC] 41ms, all delay time 574ms, SLA 361ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=5}, originalSize=3, DataSize=3, target=172.27.187.122
+
+2022-09-04 17:11:00,771 INFO retry to push data, key: 127.0.1.1,57056,867288771533000
+
+2022-09-04 17:11:10,776 WARN max re-push times reached, retry times 2, key: 127.0.1.1,57056,867288771533000
+
+2022-09-04 17:11:10,778 ERROR [PUSH-FAIL] 20024ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=5}, reason=null, target=127.0.1.1
+
+2022-09-04 21:36:11,247 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 21:36:11,248 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 127.0.1.1:57056, agent: Nacos-Java-Client:v1.4.2, key: 127.0.1.1,57056,883209265219900
+
+2022-09-04 21:36:11,248 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 21:36:11,248 INFO send udp packet: 127.0.1.1,57056,883209265219900
+
+2022-09-04 21:36:11,248 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:61834, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61834,883209265616200
+
+2022-09-04 21:36:11,248 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 21:36:11,248 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:55652, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55652,883209266157300
+
+2022-09-04 21:36:11,249 INFO send udp packet: 172.27.187.122,61834,883209265616200
+
+2022-09-04 21:36:11,249 INFO send udp packet: 172.27.187.122,55652,883209266157300
+
+2022-09-04 21:36:11,260 INFO [PUSH-SUCC] 12ms, all delay time 607ms, SLA 607ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=6}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-04 21:36:11,260 INFO [PUSH-SUCC] 12ms, all delay time 607ms, SLA 607ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=6}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-04 21:36:21,254 INFO retry to push data, key: 127.0.1.1,57056,883209265219900
+
+2022-09-04 21:36:23,619 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=7}
+
+2022-09-04 21:36:23,954 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 21:36:23,954 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 127.0.1.1:57056, agent: Nacos-Java-Client:v1.4.2, key: 127.0.1.1,57056,883221971354400
+
+2022-09-04 21:36:23,954 INFO send udp packet: 127.0.1.1,57056,883221971354400
+
+2022-09-04 21:36:23,954 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 21:36:23,956 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 127.0.1.1:33837, agent: Nacos-Java-Client:v1.4.2, key: 127.0.1.1,33837,883221973622300
+
+2022-09-04 21:36:23,956 INFO send udp packet: 127.0.1.1,33837,883221973622300
+
+2022-09-04 21:36:23,956 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 21:36:23,957 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:61834, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61834,883221974429300
+
+2022-09-04 21:36:23,957 INFO send udp packet: 172.27.187.122,61834,883221974429300
+
+2022-09-04 21:36:23,957 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 21:36:23,958 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:55652, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55652,883221975000200
+
+2022-09-04 21:36:23,958 INFO send udp packet: 172.27.187.122,55652,883221975000200
+
+2022-09-04 21:36:23,977 INFO [PUSH-SUCC] 21ms, all delay time 528ms, SLA 358ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=7}, originalSize=3, DataSize=3, target=172.27.187.122
+
+2022-09-04 21:36:23,977 INFO [PUSH-SUCC] 20ms, all delay time 528ms, SLA 358ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=7}, originalSize=3, DataSize=3, target=172.27.187.122
+
+2022-09-04 21:36:31,259 WARN max re-push times reached, retry times 2, key: 127.0.1.1,57056,883209265219900
+
+2022-09-04 21:36:31,259 ERROR [PUSH-FAIL] 20012ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=7}, reason=null, target=127.0.1.1
+
+2022-09-04 21:36:33,959 INFO retry to push data, key: 127.0.1.1,57056,883221971354400
+
+2022-09-04 21:36:33,959 INFO retry to push data, key: 127.0.1.1,33837,883221973622300
+
+2022-09-04 21:36:43,964 WARN max re-push times reached, retry times 2, key: 127.0.1.1,57056,883221971354400
+
+2022-09-04 21:36:43,964 ERROR [PUSH-FAIL] 20010ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=7}, reason=null, target=127.0.1.1
+
+2022-09-04 21:36:43,965 WARN max re-push times reached, retry times 2, key: 127.0.1.1,33837,883221973622300
+
+2022-09-04 21:36:43,965 ERROR [PUSH-FAIL] 20011ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=7}, reason=null, target=127.0.1.1
+
+2022-09-04 21:36:48,944 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 21:36:48,944 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 127.0.1.1:33837, agent: Nacos-Java-Client:v1.4.2, key: 127.0.1.1,33837,883246961412700
+
+2022-09-04 21:36:48,944 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 21:36:48,944 INFO send udp packet: 127.0.1.1,33837,883246961412700
+
+2022-09-04 21:36:48,944 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:61834, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,61834,883246961774600
+
+2022-09-04 21:36:48,945 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-09-04 21:36:48,945 INFO send udp packet: 172.27.187.122,61834,883246961774600
+
+2022-09-04 21:36:48,945 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 172.27.187.122:55652, agent: Nacos-Java-Client:v1.4.2, key: 172.27.187.122,55652,883246962431300
+
+2022-09-04 21:36:48,945 INFO send udp packet: 172.27.187.122,55652,883246962431300
+
+2022-09-04 21:36:48,949 INFO [PUSH-SUCC] 5ms, all delay time 580ms, SLA 580ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=8}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-04 21:36:48,951 INFO [PUSH-SUCC] 6ms, all delay time 581ms, SLA 581ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=8}, originalSize=2, DataSize=2, target=172.27.187.122
+
+2022-09-04 21:36:58,949 INFO retry to push data, key: 127.0.1.1,33837,883246961412700
+
+2022-09-04 21:37:08,955 WARN max re-push times reached, retry times 2, key: 127.0.1.1,33837,883246961412700
+
+2022-09-04 21:37:08,955 ERROR [PUSH-FAIL] 20011ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=8}, reason=null, target=127.0.1.1
+

@@ -1,0 +1,6 @@
+2022-09-19 15:05:32,184 INFO {POS} {IP-DISABLED} valid: 172.27.37.49:8091@default@seata-server, region: unknown, msg: client last beat: 1663571112508
+
+2022-09-19 15:31:52,155 INFO {POS} {IP-DISABLED} valid: 172.27.37.49:8091@default@seata-server, region: unknown, msg: client last beat: 1663572692160
+
+2022-09-19 16:58:59,360 INFO {POS} {IP-DISABLED} valid: 172.27.37.49:8091@default@seata-server, region: unknown, msg: client last beat: 1663577921253
+

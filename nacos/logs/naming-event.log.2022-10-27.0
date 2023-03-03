@@ -1,0 +1,14 @@
+2022-10-27 08:44:18,100 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:9000@default@seata-server, region: unknown, msg: client last beat: 1666794292324
+
+2022-10-27 09:15:54,192 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:9000@default@seata-server, region: unknown, msg: client last beat: 1666832920464
+
+2022-10-27 14:38:32,278 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:9000@default@seata-server, region: unknown, msg: client last beat: 1666852712278
+
+2022-10-27 14:38:35,939 INFO service: SEATA_GROUP@@seata-server {POS} {IP-ENABLED} valid: 192.168.137.1:9000@default, region: unknown, msg: client beat ok
+
+2022-10-27 14:39:39,398 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:9000@default@seata-server, region: unknown, msg: client last beat: 1666852779398
+
+2022-10-27 14:39:39,398 INFO service: SEATA_GROUP@@seata-server {POS} {IP-ENABLED} valid: 192.168.137.1:9000@default, region: unknown, msg: client beat ok
+
+2022-10-27 19:31:13,783 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:9000@default@seata-server, region: unknown, msg: client last beat: 1666862931835
+

@@ -1,0 +1,55 @@
+server:
+  port: 7000
+spring:
+  zipkin:
+    base-url: http://127.0.0.1:9411/ #zipkin server的请求地址
+    discoveryClientEnabled: false #让nacos把它当成一个URL， 而不要当做服务名
+  sleuth:
+    sampler:
+      probability: 1.0 #采样的百分比
+  application:
+    name: api-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    gateway:
+      discovery:
+        locator:
+          enabled: true # 让gateway可以发现nacos中的微服务
+      globalcors:
+        cors-configurations:
+          '[/**]': # 匹配所有请求
+            # allowedOrigins: "*" #跨域处理 允许所有的域
+            allowedOriginPatterns: "*"
+            allowed-headers: "*" # 允许的请求头
+            allowed-methods: "*" # 允许的方法
+            allow-credentials: true # 是否携带cookie
+      routes: # 路由数组[路由 就是指当前请求满足什么样的条件的时候转发到哪个微服务上，在转发的过程中还可以动一些手脚]
+        - id: stpam_route # 当前路由发的标识，要求唯一
+          uri: lb://stpam-service # lb指的是从nacos中按照名称获取微服务,并遵循负载均衡策略
+          order: 2 # 路由的优先级，数字越小代表路由的优先级越高
+          predicates: # 断言(条件判断，返回值是boolean 转发请求要满足的条件)
+            - Path=/** # 当请求路径满足Path指定的规则时，此路由信息才会正常转发
+          # - Num=0,20  # 仅仅让标号在0-20之间的模型通过
+          # - Method=get # 发送的必须是get请求才可以转发
+          filters: # 过滤器(在请求传递过程中 对请求做一些手脚)
+            - StripPrefix=1 # 在请求转发之前去掉第一层路径
+            - Log=true,false # 控制日志是否开启
+
+        - id: edit_route # 当前路由发的标识，要求唯一
+          uri: lb://edit-service # lb指的是从nacos中按照名称获取微服务,并遵循负载均衡策略
+          order: 1 # 路由的优先级，数字越小代表路由的优先级越高
+          predicates:
+            - Path=/service-edit/**
+          filters: # 过滤器(在请求传递过程中 对请求做一些手脚)
+            - StripPrefix=1 # 在请求转发之前去掉第一层路径
+
+
+        - id: algorithm_route # 当前路由发的标识，要求唯一
+          uri: lb://algorithm-service   # lb指的是从nacos中按照名称获取微服务,并遵循负载均衡策略
+          order: 1 # 路由的优先级，数字越小代表路由的优先级越高
+          predicates: # 断言(条件判断，返回值是boolean 转发请求要满足的条件)
+            - Path=/service-algorithm/** # 当请求路径满足Path指定的规则时，此路由信息才会正常转发
+          filters: # 过滤器(在请求传递过程中 对请求做一些手脚)
+            - StripPrefix=1 # 在请求转发之前去掉第一层路径

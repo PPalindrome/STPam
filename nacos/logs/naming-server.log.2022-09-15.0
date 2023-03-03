@@ -1,0 +1,136 @@
+2022-09-15 10:31:29,084 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2022-09-15 10:31:29,084 WARN Using naming.distro config to replace core.distro config
+
+2022-09-15 10:31:29,246 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-09-15 10:31:29,247 INFO listen for service meta change
+
+2022-09-15 10:31:29,254 INFO upgrade.state file is not exist
+
+2022-09-15 10:31:32,522 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2022-09-15 10:31:32,522 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2022-09-15 10:31:32,522 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2022-09-15 10:31:32,522 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2022-09-15 10:31:34,183 INFO Load instance extension handler []
+
+2022-09-15 10:34:23,332 INFO Client connection 172.27.37.49:57870#true connect
+
+2022-09-15 10:34:25,633 INFO Client connection 172.27.29.94:7000#true connect
+
+2022-09-15 10:34:25,634 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=0}, 172.27.29.94:7000#true
+
+2022-09-15 10:34:28,673 INFO Client connection 172.27.37.49:57871#true connect
+
+2022-09-15 10:34:29,373 INFO Client connection 172.27.29.94:8099#true connect
+
+2022-09-15 10:34:29,373 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='service-test', ephemeral=true, revision=0}, 172.27.29.94:8099#true
+
+2022-09-15 10:34:36,496 INFO Client connection 172.27.37.49:61918#true connect
+
+2022-09-15 10:34:37,287 INFO Client connection 172.27.29.94:8082#true connect
+
+2022-09-15 10:34:37,287 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=0}, 172.27.29.94:8082#true
+
+2022-09-15 10:34:40,534 INFO Client connection 172.27.37.49:58817#true connect
+
+2022-09-15 10:34:40,610 INFO Client connection 172.27.37.49:58816#true connect
+
+2022-09-15 10:34:41,235 INFO Client connection 172.27.29.94:8089#true connect
+
+2022-09-15 10:34:41,235 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=0}, 172.27.29.94:8089#true
+
+2022-09-15 10:34:43,301 INFO Client connection 172.27.37.49:58818#true connect
+
+2022-09-15 10:34:43,767 INFO Client connection 172.27.29.94:8088#true connect
+
+2022-09-15 10:34:43,768 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}, 172.27.29.94:8088#true
+
+2022-09-15 10:35:16,104 INFO Client connection 172.27.37.49:58817#true disconnect, remove instances and subscribers
+
+2022-09-15 10:40:20,676 INFO Client connection 172.27.37.49:56189#true connect
+
+2022-09-15 10:40:56,604 INFO Client connection 172.27.37.49:56189#true disconnect, remove instances and subscribers
+
+2022-09-15 10:44:51,861 INFO Client connection 172.27.37.49:56406#true connect
+
+2022-09-15 10:44:52,254 INFO Client connection 172.27.29.94:8081#true connect
+
+2022-09-15 10:44:52,254 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}, 172.27.29.94:8081#true
+
+2022-09-15 10:45:42,884 INFO Client connection 172.27.29.94:8091#true connect
+
+2022-09-15 10:45:42,885 INFO Client change for service Service{namespace='seata', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=0}, 172.27.29.94:8091#true
+
+2022-09-15 10:46:09,097 INFO Client remove for service Service{namespace='seata', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=1}, 172.27.29.94:8091#true
+
+2022-09-15 10:46:42,232 INFO Client connection 172.27.29.94:8091#true disconnect, remove instances and subscribers
+
+2022-09-15 10:46:50,685 INFO Client connection 172.27.29.94:9000#true connect
+
+2022-09-15 10:46:50,685 INFO Client change for service Service{namespace='seata', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=2}, 172.27.29.94:9000#true
+
+2022-09-15 10:59:47,371 INFO Client remove for service Service{namespace='seata', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=3}, 172.27.29.94:9000#true
+
+2022-09-15 11:00:18,469 INFO Client connection 172.27.29.94:9000#true disconnect, remove instances and subscribers
+
+2022-09-15 11:00:28,018 INFO Client connection 172.27.29.94:9000#true connect
+
+2022-09-15 11:00:28,018 INFO Client change for service Service{namespace='seata', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=4}, 172.27.29.94:9000#true
+
+2022-09-15 11:02:10,697 INFO Client remove for service Service{namespace='seata', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=5}, 172.27.29.94:9000#true
+
+2022-09-15 11:02:28,120 INFO Client connection 172.27.29.94:8091#true connect
+
+2022-09-15 11:02:28,120 INFO Client change for service Service{namespace='seata', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=6}, 172.27.29.94:8091#true
+
+2022-09-15 11:02:43,753 INFO Client connection 172.27.29.94:9000#true disconnect, remove instances and subscribers
+
+2022-09-15 11:09:33,785 INFO [AUTO-DELETE-IP] service: Service{namespace='seata', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=7}, ip: {"ip":"172.27.29.94","port":8091,"healthy":false,"cluster":"default","extendDatum":{"customInstanceId":"172.27.29.94#8091#default#SEATA_GROUP@@seata-server"},"lastHeartBeatTime":1663211339000,"metadataId":"172.27.29.94:8091:default"}
+
+2022-09-15 11:09:33,786 INFO Client remove for service Service{namespace='seata', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=7}, 172.27.29.94:8091#true
+
+2022-09-15 11:09:34,364 INFO Client connection 172.27.29.94:8091#true disconnect, remove instances and subscribers
+
+2022-09-15 11:11:03,716 WARN namespace : seata, [SEATA_GROUP@@seata-server] services are automatically cleaned
+
+2022-09-15 20:50:23,452 INFO Client connection 172.27.29.94:8091#true connect
+
+2022-09-15 20:50:23,452 INFO Client change for service Service{namespace='seata', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=0}, 172.27.29.94:8091#true
+
+2022-09-15 20:51:52,031 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=0}, 172.27.29.94:8091#true
+
+2022-09-15 20:52:03,628 INFO [AUTO-DELETE-IP] service: Service{namespace='seata', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=1}, ip: {"ip":"172.27.29.94","port":8091,"healthy":false,"cluster":"default","extendDatum":{"customInstanceId":"172.27.29.94#8091#default#SEATA_GROUP@@seata-server"},"lastHeartBeatTime":1663246293624,"metadataId":"172.27.29.94:8091:default"}
+
+2022-09-15 20:52:03,628 INFO Client remove for service Service{namespace='seata', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=1}, 172.27.29.94:8091#true
+
+2022-09-15 20:53:08,487 WARN namespace : seata, [SEATA_GROUP@@seata-server] services are automatically cleaned
+
+2022-09-15 21:10:51,142 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=1}, ip: {"ip":"172.27.29.94","port":8091,"healthy":false,"cluster":"default","extendDatum":{"customInstanceId":"172.27.29.94#8091#default#SEATA_GROUP@@seata-server"},"lastHeartBeatTime":1663247419990,"metadataId":"172.27.29.94:8091:default"}
+
+2022-09-15 21:10:51,142 INFO Client remove for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=1}, 172.27.29.94:8091#true
+
+2022-09-15 21:10:53,585 INFO Client connection 172.27.29.94:8091#true disconnect, remove instances and subscribers
+
+2022-09-15 21:12:09,318 WARN namespace : public, [SEATA_GROUP@@seata-server] services are automatically cleaned
+
+2022-09-15 21:12:19,910 INFO Client connection 172.27.29.94:8091#true connect
+
+2022-09-15 21:12:19,910 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=0}, 172.27.29.94:8091#true
+
+2022-09-15 22:32:12,908 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='api-gateway', ephemeral=true, revision=1}, 172.27.29.94:7000#true
+
+2022-09-15 22:32:13,318 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='service-test', ephemeral=true, revision=1}, 172.27.29.94:8099#true
+
+2022-09-15 22:32:13,441 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=2}, 172.27.29.94:8082#true
+
+2022-09-15 22:32:13,547 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}, 172.27.29.94:8089#true
+
+2022-09-15 22:32:13,549 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=3}, 172.27.29.94:8088#true
+
+2022-09-15 22:32:13,571 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}, 172.27.29.94:8081#true
+

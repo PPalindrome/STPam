@@ -1,0 +1,432 @@
+2022-10-30 09:25:45,681 INFO DEFAULT_GROUP@@algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 09:25:45,700 INFO serviceName: DEFAULT_GROUP@@algorithm-dubboService@@DEFAULT changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,780064905457800
+
+2022-10-30 09:25:45,701 INFO send udp packet: 192.168.137.1,58613,780064905457800
+
+2022-10-30 09:25:45,714 INFO [PUSH-SUCC] 34ms, all delay time 576ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-30 09:25:46,886 INFO DEFAULT_GROUP@@algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 09:25:46,888 INFO serviceName: DEFAULT_GROUP@@algorithm-dubboService@@DEFAULT changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,780066107766500
+
+2022-10-30 09:25:46,888 INFO send udp packet: 192.168.137.1,58613,780066107766500
+
+2022-10-30 09:25:46,902 INFO [PUSH-SUCC] 16ms, all delay time 579ms, SLA 580ms, Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-30 09:25:48,434 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}
+
+2022-10-30 09:25:48,982 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0 is changed, add it to push queue.
+
+2022-10-30 09:25:48,982 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: is changed, add it to push queue.
+
+2022-10-30 09:25:48,982 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0 changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,780068203241200
+
+2022-10-30 09:25:48,982 INFO send udp packet: 192.168.137.1,54803,780068203241200
+
+2022-10-30 09:25:48,983 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,780068203292700
+
+2022-10-30 09:25:48,983 INFO send udp packet: 192.168.137.1,54803,780068203292700
+
+2022-10-30 09:25:48,985 INFO [PUSH-SUCC] 3ms, all delay time 545ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-30 09:25:48,986 INFO [PUSH-SUCC] 4ms, all delay time 561ms, SLA 561ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-30 09:25:49,761 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=1}
+
+2022-10-30 09:25:50,304 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0 is changed, add it to push queue.
+
+2022-10-30 09:25:50,304 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: is changed, add it to push queue.
+
+2022-10-30 09:25:50,304 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0 changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,780069525829000
+
+2022-10-30 09:25:50,305 INFO send udp packet: 192.168.137.1,54803,780069525829000
+
+2022-10-30 09:25:50,305 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,780069525852300
+
+2022-10-30 09:25:50,306 INFO send udp packet: 192.168.137.1,54803,780069525852300
+
+2022-10-30 09:25:50,307 INFO [PUSH-SUCC] 3ms, all delay time 540ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-30 09:25:50,308 INFO [PUSH-SUCC] 4ms, all delay time 551ms, SLA 551ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-30 09:25:51,247 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}
+
+2022-10-30 09:25:51,848 INFO DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 09:25:51,848 INFO serviceName: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,780071069317200
+
+2022-10-30 09:25:51,849 INFO send udp packet: 192.168.137.1,54803,780071069317200
+
+2022-10-30 09:25:51,852 INFO [PUSH-SUCC] 4ms, all delay time 608ms, SLA 608ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-30 09:25:53,175 INFO DEFAULT_GROUP@@algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 09:25:53,176 INFO serviceName: DEFAULT_GROUP@@algorithm-dubboService@@DEFAULT changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,780072396677100
+
+2022-10-30 09:25:53,176 INFO send udp packet: 192.168.137.1,58613,780072396677100
+
+2022-10-30 09:25:53,180 INFO [PUSH-SUCC] 5ms, all delay time 559ms, SLA 559ms, Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=2}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-30 09:26:15,762 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: is changed, add it to push queue.
+
+2022-10-30 09:26:15,762 INFO DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 09:26:15,762 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: is changed, add it to push queue.
+
+2022-10-30 09:26:15,763 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,780094984222100
+
+2022-10-30 09:26:15,764 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,780094984613500
+
+2022-10-30 09:26:15,763 INFO serviceName: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,780094984589400
+
+2022-10-30 09:26:15,764 INFO send udp packet: 192.168.137.1,58613,780094984222100
+
+2022-10-30 09:26:15,765 INFO send udp packet: 192.168.137.1,58613,780094984613500
+
+2022-10-30 09:26:15,765 INFO send udp packet: 192.168.137.1,58613,780094984589400
+
+2022-10-30 09:26:15,766 INFO [PUSH-SUCC] 4ms, all delay time 578ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 09:26:15,767 INFO [PUSH-SUCC] 5ms, all delay time 575ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 09:26:15,768 INFO [PUSH-SUCC] 6ms, all delay time 571ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 09:28:43,085 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-10-30 09:28:43,085 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 192.168.137.1:52318, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,52318,780242307159800
+
+2022-10-30 09:28:43,086 INFO send udp packet: 192.168.137.1,52318,780242307159800
+
+2022-10-30 09:28:43,091 INFO [PUSH-SUCC] 6ms, all delay time 529ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-30 09:28:44,396 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-10-30 09:28:44,397 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 192.168.137.1:52318, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,52318,780243617744300
+
+2022-10-30 09:28:44,397 INFO send udp packet: 192.168.137.1,52318,780243617744300
+
+2022-10-30 09:28:44,408 INFO [PUSH-SUCC] 12ms, all delay time 572ms, SLA 572ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-30 09:28:45,820 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-10-30 09:28:45,821 INFO serviceName: DEFAULT_GROUP@@stpam-service changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,780245041996600
+
+2022-10-30 09:28:45,821 INFO send udp packet: 192.168.137.1,58613,780245041996600
+
+2022-10-30 09:28:45,823 INFO [PUSH-SUCC] 3ms, all delay time 565ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 10:49:38,352 INFO DEFAULT_GROUP@@algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 10:49:38,356 INFO serviceName: DEFAULT_GROUP@@algorithm-dubboService@@DEFAULT changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,785097575853800
+
+2022-10-30 10:49:38,357 INFO send udp packet: 192.168.137.1,58613,785097575853800
+
+2022-10-30 10:49:39,281 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0 is changed, add it to push queue.
+
+2022-10-30 10:49:39,282 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0 changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,785098502788700
+
+2022-10-30 10:49:39,282 INFO send udp packet: 192.168.137.1,54803,785098502788700
+
+2022-10-30 10:49:39,282 INFO DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 10:49:39,283 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: is changed, add it to push queue.
+
+2022-10-30 10:49:39,283 INFO serviceName: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,785098503944400
+
+2022-10-30 10:49:39,283 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,785098504148300
+
+2022-10-30 10:49:39,283 INFO send udp packet: 192.168.137.1,54803,785098503944400
+
+2022-10-30 10:49:39,284 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0 is changed, add it to push queue.
+
+2022-10-30 10:49:39,284 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0 changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,785098505550100
+
+2022-10-30 10:49:39,284 INFO send udp packet: 192.168.137.1,54803,785098504148300
+
+2022-10-30 10:49:39,284 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: is changed, add it to push queue.
+
+2022-10-30 10:49:39,286 INFO send udp packet: 192.168.137.1,54803,785098505550100
+
+2022-10-30 10:49:39,286 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,785098506411600
+
+2022-10-30 10:49:39,286 INFO send udp packet: 192.168.137.1,54803,785098506411600
+
+2022-10-30 10:49:39,531 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}
+
+2022-10-30 10:49:39,618 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-10-30 10:49:39,618 INFO serviceName: DEFAULT_GROUP@@stpam-service changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,785098839701700
+
+2022-10-30 10:49:39,618 INFO send udp packet: 192.168.137.1,58613,785098839701700
+
+2022-10-30 10:49:39,723 INFO DEFAULT_GROUP@@algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 10:49:39,724 INFO serviceName: DEFAULT_GROUP@@algorithm-dubboService@@DEFAULT changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,785098944820100
+
+2022-10-30 10:49:39,724 INFO send udp packet: 192.168.137.1,58613,785098944820100
+
+2022-10-30 10:49:45,144 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-10-30 10:49:45,144 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 192.168.137.1:52318, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,52318,785104365585800
+
+2022-10-30 10:49:45,144 INFO send udp packet: 192.168.137.1,52318,785104365585800
+
+2022-10-30 10:49:55,101 INFO retry to push data, key: 192.168.137.1,58613,785097575853800
+
+2022-10-30 10:49:55,101 INFO retry to push data, key: 192.168.137.1,54803,785098502788700
+
+2022-10-30 10:49:55,102 INFO retry to push data, key: 192.168.137.1,54803,785098503944400
+
+2022-10-30 10:49:55,102 INFO retry to push data, key: 192.168.137.1,54803,785098504148300
+
+2022-10-30 10:49:55,102 INFO retry to push data, key: 192.168.137.1,54803,785098505550100
+
+2022-10-30 10:49:55,102 INFO retry to push data, key: 192.168.137.1,54803,785098506411600
+
+2022-10-30 10:49:55,103 INFO retry to push data, key: 192.168.137.1,58613,785098839701700
+
+2022-10-30 10:49:55,103 WARN ack takes too long from /192.168.137.1:54803 ack json: {"type": "push-ack", "lastRefTime":"785098502788700", "data":""}
+
+2022-10-30 10:49:55,103 INFO [PUSH-SUCC] 15822ms, all delay time 16399ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-30 10:49:55,103 INFO retry to push data, key: 192.168.137.1,58613,785098944820100
+
+2022-10-30 10:49:55,104 WARN ack takes too long from /192.168.137.1:54803 ack json: {"type": "push-ack", "lastRefTime":"785098503944400", "data":""}
+
+2022-10-30 10:49:55,104 INFO [PUSH-SUCC] 15822ms, all delay time 16401ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 10:49:55,105 WARN ack takes too long from /192.168.137.1:54803 ack json: {"type": "push-ack", "lastRefTime":"785098504148300", "data":""}
+
+2022-10-30 10:49:55,105 INFO [PUSH-SUCC] 15822ms, all delay time 16401ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 10:49:55,105 WARN ack takes too long from /192.168.137.1:54803 ack json: {"type": "push-ack", "lastRefTime":"785098505550100", "data":""}
+
+2022-10-30 10:49:55,105 INFO [PUSH-SUCC] 15822ms, all delay time 16403ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-30 10:49:55,106 WARN ack takes too long from /192.168.137.1:58613 ack json: {"type": "push-ack", "lastRefTime":"785097575853800", "data":""}
+
+2022-10-30 10:49:55,106 INFO [PUSH-SUCC] 16754ms, all delay time 17339ms, SLA 15960ms, Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=4}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2022-10-30 10:49:55,106 WARN ack takes too long from /192.168.137.1:54803 ack json: {"type": "push-ack", "lastRefTime":"785098506411600", "data":""}
+
+2022-10-30 10:49:55,106 INFO [PUSH-SUCC] 15822ms, all delay time 16404ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 10:49:55,107 WARN ack takes too long from /192.168.137.1:58613 ack json: {"type": "push-ack", "lastRefTime":"785098839701700", "data":""}
+
+2022-10-30 10:49:55,107 INFO [PUSH-SUCC] 15489ms, all delay time 16102ms, SLA 15576ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-30 10:49:55,107 WARN ack takes too long from /192.168.137.1:58613 ack json: {"type": "push-ack", "lastRefTime":"785098944820100", "data":""}
+
+2022-10-30 10:49:55,107 INFO [PUSH-SUCC] 15384ms, all delay time 15960ms, SLA 15961ms, Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=4}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-30 10:49:55,149 INFO retry to push data, key: 192.168.137.1,52318,785104365585800
+
+2022-10-30 10:49:55,150 WARN ack takes too long from /192.168.137.1:52318 ack json: {"type": "push-ack", "lastRefTime":"785104365585800", "data":""}
+
+2022-10-30 10:49:55,150 INFO [PUSH-SUCC] 10006ms, all delay time 10568ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}, originalSize=1, DataSize=1
+
+2022-10-30 14:43:00,697 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-10-30 14:43:00,698 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 192.168.137.1:52318, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,52318,799104308845400
+
+2022-10-30 14:43:00,699 INFO send udp packet: 192.168.137.1,52318,799104308845400
+
+2022-10-30 14:43:03,462 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: is changed, add it to push queue.
+
+2022-10-30 14:43:03,463 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: is changed, add it to push queue.
+
+2022-10-30 14:43:03,462 INFO DEFAULT_GROUP@@algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 14:43:03,462 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-10-30 14:43:03,464 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,799107073726000
+
+2022-10-30 14:43:03,464 INFO serviceName: DEFAULT_GROUP@@algorithm-dubboService@@DEFAULT changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,799107073814500
+
+2022-10-30 14:43:03,464 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,799107073339400
+
+2022-10-30 14:43:03,464 INFO send udp packet: 192.168.137.1,58613,799107073726000
+
+2022-10-30 14:43:03,464 INFO serviceName: DEFAULT_GROUP@@stpam-service changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,799107074225300
+
+2022-10-30 14:43:03,465 INFO DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 14:43:03,465 INFO send udp packet: 192.168.137.1,58613,799107073814500
+
+2022-10-30 14:43:03,466 INFO send udp packet: 192.168.137.1,58613,799107073339400
+
+2022-10-30 14:43:03,467 INFO serviceName: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,799107075579900
+
+2022-10-30 14:43:03,468 INFO send udp packet: 192.168.137.1,58613,799107074225300
+
+2022-10-30 14:43:03,469 INFO send udp packet: 192.168.137.1,58613,799107075579900
+
+2022-10-30 14:43:04,875 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0 is changed, add it to push queue.
+
+2022-10-30 14:43:04,876 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0 changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,799108485943500
+
+2022-10-30 14:43:04,876 INFO send udp packet: 192.168.137.1,54803,799108485943500
+
+2022-10-30 14:43:04,877 INFO DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 14:43:04,877 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: is changed, add it to push queue.
+
+2022-10-30 14:43:04,878 INFO serviceName: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,799108487762000
+
+2022-10-30 14:43:04,879 INFO send udp packet: 192.168.137.1,54803,799108487762000
+
+2022-10-30 14:43:04,879 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: is changed, add it to push queue.
+
+2022-10-30 14:43:04,881 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,799108488445800
+
+2022-10-30 14:43:04,881 INFO send udp packet: 192.168.137.1,54803,799108488445800
+
+2022-10-30 14:43:04,883 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0 is changed, add it to push queue.
+
+2022-10-30 14:43:04,884 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0 changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,799108493693400
+
+2022-10-30 14:43:04,884 INFO send udp packet: 192.168.137.1,54803,799108493693400
+
+2022-10-30 14:43:04,884 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,799108492060700
+
+2022-10-30 14:43:04,887 INFO send udp packet: 192.168.137.1,54803,799108492060700
+
+2022-10-30 14:43:10,713 INFO retry to push data, key: 192.168.137.1,52318,799104308845400
+
+2022-10-30 14:43:10,714 WARN ack takes too long from /192.168.137.1:52318 ack json: {"type": "push-ack", "lastRefTime":"799104308845400", "data":""}
+
+2022-10-30 14:43:10,714 INFO [PUSH-SUCC] 10017ms, all delay time 10629ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=5}, originalSize=1, DataSize=1
+
+2022-10-30 14:43:13,475 INFO retry to push data, key: 192.168.137.1,58613,799107073726000
+
+2022-10-30 14:43:13,475 INFO retry to push data, key: 192.168.137.1,58613,799107073814500
+
+2022-10-30 14:43:13,475 INFO retry to push data, key: 192.168.137.1,58613,799107073339400
+
+2022-10-30 14:43:13,476 INFO retry to push data, key: 192.168.137.1,58613,799107074225300
+
+2022-10-30 14:43:13,476 INFO retry to push data, key: 192.168.137.1,58613,799107075579900
+
+2022-10-30 14:43:13,476 WARN ack takes too long from /192.168.137.1:58613 ack json: {"type": "push-ack", "lastRefTime":"799107073726000", "data":""}
+
+2022-10-30 14:43:13,476 INFO [PUSH-SUCC] 10013ms, all delay time 10586ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 14:43:13,477 WARN ack takes too long from /192.168.137.1:58613 ack json: {"type": "push-ack", "lastRefTime":"799107073814500", "data":""}
+
+2022-10-30 14:43:13,477 INFO [PUSH-SUCC] 10015ms, all delay time 10588ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=6}, originalSize=1, DataSize=1
+
+2022-10-30 14:43:13,478 WARN ack takes too long from /192.168.137.1:58613 ack json: {"type": "push-ack", "lastRefTime":"799107073339400", "data":""}
+
+2022-10-30 14:43:13,478 INFO [PUSH-SUCC] 10016ms, all delay time 10589ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 14:43:13,478 WARN ack takes too long from /192.168.137.1:58613 ack json: {"type": "push-ack", "lastRefTime":"799107074225300", "data":""}
+
+2022-10-30 14:43:13,478 INFO [PUSH-SUCC] 10016ms, all delay time 10589ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=5}, originalSize=1, DataSize=1
+
+2022-10-30 14:43:13,479 WARN ack takes too long from /192.168.137.1:58613 ack json: {"type": "push-ack", "lastRefTime":"799107075579900", "data":""}
+
+2022-10-30 14:43:13,479 INFO [PUSH-SUCC] 10014ms, all delay time 10589ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 14:43:14,878 INFO retry to push data, key: 192.168.137.1,54803,799108485943500
+
+2022-10-30 14:43:14,879 WARN ack takes too long from /192.168.137.1:54803 ack json: {"type": "push-ack", "lastRefTime":"799108485943500", "data":""}
+
+2022-10-30 14:43:14,879 INFO [PUSH-SUCC] 10004ms, all delay time 10580ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-30 14:43:14,893 INFO retry to push data, key: 192.168.137.1,54803,799108487762000
+
+2022-10-30 14:43:14,893 INFO retry to push data, key: 192.168.137.1,54803,799108488445800
+
+2022-10-30 14:43:14,893 INFO retry to push data, key: 192.168.137.1,54803,799108493693400
+
+2022-10-30 14:43:14,893 INFO retry to push data, key: 192.168.137.1,54803,799108492060700
+
+2022-10-30 14:43:14,894 WARN ack takes too long from /192.168.137.1:54803 ack json: {"type": "push-ack", "lastRefTime":"799108487762000", "data":""}
+
+2022-10-30 14:43:14,894 INFO [PUSH-SUCC] 10017ms, all delay time 10593ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 14:43:14,895 WARN ack takes too long from /192.168.137.1:54803 ack json: {"type": "push-ack", "lastRefTime":"799108488445800", "data":""}
+
+2022-10-30 14:43:14,895 INFO [PUSH-SUCC] 10018ms, all delay time 10596ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 14:43:14,895 WARN ack takes too long from /192.168.137.1:54803 ack json: {"type": "push-ack", "lastRefTime":"799108493693400", "data":""}
+
+2022-10-30 14:43:14,895 INFO [PUSH-SUCC] 10016ms, all delay time 10595ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-30 14:43:14,896 WARN ack takes too long from /192.168.137.1:54803 ack json: {"type": "push-ack", "lastRefTime":"799108492060700", "data":""}
+
+2022-10-30 14:43:14,896 INFO [PUSH-SUCC] 10017ms, all delay time 10597ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2022-10-30 15:05:15,935 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: is changed, add it to push queue.
+
+2022-10-30 15:05:15,935 INFO DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 15:05:15,935 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: is changed, add it to push queue.
+
+2022-10-30 15:05:15,935 INFO serviceName: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,800439546000000
+
+2022-10-30 15:05:15,935 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,800439545974500
+
+2022-10-30 15:05:15,935 INFO send udp packet: 192.168.137.1,58613,800439546000000
+
+2022-10-30 15:05:15,936 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: is changed, add it to push queue.
+
+2022-10-30 15:05:15,935 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,800439546078800
+
+2022-10-30 15:05:15,935 INFO DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 15:05:15,936 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0: changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,800439546424200
+
+2022-10-30 15:05:15,936 INFO DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: is changed, add it to push queue.
+
+2022-10-30 15:05:15,936 INFO serviceName: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,800439547042600
+
+2022-10-30 15:05:15,936 INFO send udp packet: 192.168.137.1,58613,800439545974500
+
+2022-10-30 15:05:15,936 INFO serviceName: DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0: changed, schedule push for: 192.168.137.1:54803, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,54803,800439547086400
+
+2022-10-30 15:05:15,937 INFO send udp packet: 192.168.137.1,58613,800439546078800
+
+2022-10-30 15:05:15,938 INFO send udp packet: 192.168.137.1,54803,800439546424200
+
+2022-10-30 15:05:15,938 INFO send udp packet: 192.168.137.1,54803,800439547042600
+
+2022-10-30 15:05:15,939 INFO send udp packet: 192.168.137.1,54803,800439547086400
+
+2022-10-30 15:05:15,939 INFO [PUSH-SUCC] 4ms, all delay time 545ms, SLA 545ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=2}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2022-10-30 15:05:15,941 INFO [PUSH-SUCC] 5ms, all delay time 558ms, SLA 558ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=2}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2022-10-30 15:05:15,941 INFO [PUSH-SUCC] 6ms, all delay time 558ms, SLA 558ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=2}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2022-10-30 15:05:15,943 INFO [PUSH-SUCC] 8ms, all delay time 549ms, SLA 549ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=2}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2022-10-30 15:05:15,943 INFO [PUSH-SUCC] 8ms, all delay time 556ms, SLA 556ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=2}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2022-10-30 15:05:15,945 INFO [PUSH-SUCC] 9ms, all delay time 558ms, SLA 558ms, Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=2}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2022-10-30 15:05:16,808 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-10-30 15:05:16,808 INFO serviceName: DEFAULT_GROUP@@stpam-service changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,800440418740400
+
+2022-10-30 15:05:16,808 INFO send udp packet: 192.168.137.1,58613,800440418740400
+
+2022-10-30 15:05:16,808 INFO DEFAULT_GROUP@@stpam-service is changed, add it to push queue.
+
+2022-10-30 15:05:16,809 INFO serviceName: DEFAULT_GROUP@@stpam-service@@DEFAULT changed, schedule push for: 192.168.137.1:52318, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,52318,800440419666200
+
+2022-10-30 15:05:16,810 INFO send udp packet: 192.168.137.1,52318,800440419666200
+
+2022-10-30 15:05:16,812 INFO [PUSH-SUCC] 4ms, all delay time 591ms, SLA 591ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=6}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2022-10-30 15:05:16,814 INFO [PUSH-SUCC] 6ms, all delay time 593ms, SLA 593ms, Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=6}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2022-10-30 15:05:20,948 INFO DEFAULT_GROUP@@algorithm-dubboService is changed, add it to push queue.
+
+2022-10-30 15:05:20,948 INFO serviceName: DEFAULT_GROUP@@algorithm-dubboService@@DEFAULT changed, schedule push for: 192.168.137.1:58613, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,58613,800444559232900
+
+2022-10-30 15:05:20,949 INFO send udp packet: 192.168.137.1,58613,800444559232900
+
+2022-10-30 15:05:20,953 INFO [PUSH-SUCC] 5ms, all delay time 574ms, SLA 574ms, Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=7}, originalSize=0, DataSize=0, target=192.168.137.1
+

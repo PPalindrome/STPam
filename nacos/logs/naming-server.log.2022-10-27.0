@@ -1,0 +1,368 @@
+2022-10-27 08:44:17,921 INFO Client connection 192.168.137.1:9000#true disconnect, remove instances and subscribers
+
+2022-10-27 08:44:18,106 INFO Client connection 192.168.137.1:50306#true disconnect, remove instances and subscribers
+
+2022-10-27 08:44:18,106 INFO Client connection 192.168.137.1:8911#true disconnect, remove instances and subscribers
+
+2022-10-27 08:44:18,438 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=15}, ip: {"ip":"192.168.137.1","port":9000,"healthy":false,"cluster":"default","extendDatum":{"customInstanceId":"192.168.137.1#9000#default#SEATA_GROUP@@seata-server"},"lastHeartBeatTime":1666794292324,"metadataId":"192.168.137.1:9000:default"}
+
+2022-10-27 08:44:18,438 INFO Client remove for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=15}, 192.168.137.1:9000#true
+
+2022-10-27 08:44:18,555 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=2}, ip: {"ip":"192.168.137.1","port":8911,"healthy":true,"cluster":"DEFAULT","extendDatum":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.137.1:20880/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=common-service&bind.ip=192.168.137.1&bind.port=20880&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=common-service&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=33816&qos.enable=false&release=2.7.15&revision=2021.0.1.0&service.name=ServiceBean:common-service/com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0&side=provider&timestamp=1666785181847&version=1.0.0\" ]","dubbo.metadata.revision":"0","preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.137.1#8911#DEFAULT#DEFAULT_GROUP@@common-service"},"lastHeartBeatTime":1666794291947,"metadataId":"192.168.137.1:8911:DEFAULT"}
+
+2022-10-27 08:44:18,555 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=2}, 192.168.137.1:8911#true
+
+2022-10-27 08:44:19,157 INFO Client connection 192.168.137.1:8911#true connect
+
+2022-10-27 08:44:19,158 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=3}, 192.168.137.1:8911#true
+
+2022-10-27 08:44:21,206 INFO Client connection 192.168.137.1:9000#true connect
+
+2022-10-27 08:44:21,209 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=16}, 192.168.137.1:9000#true
+
+2022-10-27 08:44:22,340 INFO Client connection 192.168.137.1:50306#true connect
+
+2022-10-27 08:44:36,201 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-27 08:44:38,206 ERROR local ip is not in serverlist, ip: 172.27.60.174:8848, serverlist: [Member{ip='172.27.60.174', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-27 08:54:16,308 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=4}, 192.168.137.1:8911#true
+
+2022-10-27 08:54:45,410 INFO Client connection 192.168.137.1:50306#true disconnect, remove instances and subscribers
+
+2022-10-27 08:54:50,418 INFO Client connection 192.168.137.1:8911#true disconnect, remove instances and subscribers
+
+2022-10-27 08:55:19,432 WARN namespace : public, [DEFAULT_GROUP@@common-service] services are automatically cleaned
+
+2022-10-27 09:15:54,194 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=17}, ip: {"ip":"192.168.137.1","port":9000,"healthy":false,"cluster":"default","extendDatum":{"customInstanceId":"192.168.137.1#9000#default#SEATA_GROUP@@seata-server"},"lastHeartBeatTime":1666832920464,"metadataId":"192.168.137.1:9000:default"}
+
+2022-10-27 09:15:54,194 INFO Client remove for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=17}, 192.168.137.1:9000#true
+
+2022-10-27 09:15:54,976 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=18}, 192.168.137.1:9000#true
+
+2022-10-27 09:16:15,163 ERROR local ip is not in serverlist, ip: 172.27.60.174:8848, serverlist: [Member{ip='172.27.60.174', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-27 09:16:17,177 ERROR local ip is not in serverlist, ip: 172.27.60.174:8848, serverlist: [Member{ip='172.27.60.174', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-27 16:40:17,207 INFO Client connection 192.168.137.1:65145#true connect
+
+2022-10-27 16:40:19,719 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 16:40:19,719 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 16:40:19,733 INFO Client connection 192.168.137.1:65146#true connect
+
+2022-10-27 16:40:21,966 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 16:40:56,893 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 16:40:56,893 INFO Client connection 192.168.137.1:65145#true disconnect, remove instances and subscribers
+
+2022-10-27 16:41:01,897 INFO Client connection 192.168.137.1:65146#true disconnect, remove instances and subscribers
+
+2022-10-27 16:41:36,205 INFO Client connection 192.168.137.1:58166#true connect
+
+2022-10-27 16:41:38,600 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 16:41:38,600 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=2}, 192.168.137.1:20880#true
+
+2022-10-27 16:41:38,612 INFO Client connection 192.168.137.1:58167#true connect
+
+2022-10-27 16:41:40,653 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=3}, 192.168.137.1:20880#true
+
+2022-10-27 16:42:12,012 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 16:42:17,015 INFO Client connection 192.168.137.1:58166#true disconnect, remove instances and subscribers
+
+2022-10-27 16:42:22,019 INFO Client connection 192.168.137.1:58167#true disconnect, remove instances and subscribers
+
+2022-10-27 16:42:41,274 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService::] services are automatically cleaned
+
+2022-10-27 16:43:25,030 INFO Client connection 192.168.137.1:50331#true connect
+
+2022-10-27 16:43:27,429 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 16:43:27,429 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 16:43:27,440 INFO Client connection 192.168.137.1:50332#true connect
+
+2022-10-27 16:43:29,490 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 16:44:02,180 INFO Client connection 192.168.137.1:50331#true disconnect, remove instances and subscribers
+
+2022-10-27 16:44:02,180 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 16:44:12,197 INFO Client connection 192.168.137.1:50332#true disconnect, remove instances and subscribers
+
+2022-10-27 16:44:41,305 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService::] services are automatically cleaned
+
+2022-10-27 16:44:47,859 INFO Client connection 192.168.137.1:63251#true connect
+
+2022-10-27 16:44:50,258 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 16:44:50,259 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 16:44:50,269 INFO Client connection 192.168.137.1:63807#true connect
+
+2022-10-27 16:44:52,251 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 16:45:22,290 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 16:45:27,301 INFO Client connection 192.168.137.1:63251#true disconnect, remove instances and subscribers
+
+2022-10-27 16:45:32,302 INFO Client connection 192.168.137.1:63807#true disconnect, remove instances and subscribers
+
+2022-10-27 16:46:41,322 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService::] services are automatically cleaned
+
+2022-10-27 16:48:34,378 INFO Client connection 192.168.137.1:53576#true connect
+
+2022-10-27 16:48:36,971 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 16:48:36,971 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 16:48:36,986 INFO Client connection 192.168.137.1:53577#true connect
+
+2022-10-27 16:48:39,143 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 16:49:06,835 INFO Client connection 192.168.137.1:50140#true connect
+
+2022-10-27 16:49:09,153 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=2}, 192.168.137.1:20880#true
+
+2022-10-27 16:49:09,163 INFO Client connection 192.168.137.1:64649#true connect
+
+2022-10-27 16:49:11,309 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=3}, 192.168.137.1:20880#true
+
+2022-10-27 16:49:12,638 INFO Client connection 192.168.137.1:53576#true disconnect, remove instances and subscribers
+
+2022-10-27 16:49:22,662 INFO Client connection 192.168.137.1:53577#true disconnect, remove instances and subscribers
+
+2022-10-27 16:49:42,699 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 16:49:47,705 INFO Client connection 192.168.137.1:50140#true disconnect, remove instances and subscribers
+
+2022-10-27 16:49:52,717 INFO Client connection 192.168.137.1:64649#true disconnect, remove instances and subscribers
+
+2022-10-27 16:50:41,363 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService::] services are automatically cleaned
+
+2022-10-27 16:51:22,949 INFO Client connection 192.168.137.1:53819#true connect
+
+2022-10-27 16:51:25,385 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 16:51:25,385 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 16:51:25,396 INFO Client connection 192.168.137.1:53820#true connect
+
+2022-10-27 16:51:27,446 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 16:51:57,893 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 16:52:02,898 INFO Client connection 192.168.137.1:53819#true disconnect, remove instances and subscribers
+
+2022-10-27 16:52:07,902 INFO Client connection 192.168.137.1:53820#true disconnect, remove instances and subscribers
+
+2022-10-27 16:52:41,372 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService::] services are automatically cleaned
+
+2022-10-27 16:59:34,365 INFO Client connection 192.168.137.1:59022#true connect
+
+2022-10-27 16:59:36,854 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 16:59:36,854 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 16:59:36,866 INFO Client connection 192.168.137.1:59023#true connect
+
+2022-10-27 16:59:38,926 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 17:00:13,745 INFO Client connection 192.168.137.1:59022#true disconnect, remove instances and subscribers
+
+2022-10-27 17:00:13,745 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 17:00:18,756 INFO Client connection 192.168.137.1:59023#true disconnect, remove instances and subscribers
+
+2022-10-27 17:00:41,424 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService::] services are automatically cleaned
+
+2022-10-27 17:10:53,433 INFO Client connection 192.168.137.1:54972#true connect
+
+2022-10-27 17:10:55,763 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 17:10:55,763 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 17:10:55,774 INFO Client connection 192.168.137.1:54973#true connect
+
+2022-10-27 17:10:57,908 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 17:11:29,852 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 17:11:34,862 INFO Client connection 192.168.137.1:54972#true disconnect, remove instances and subscribers
+
+2022-10-27 17:11:39,864 INFO Client connection 192.168.137.1:54973#true disconnect, remove instances and subscribers
+
+2022-10-27 17:12:41,510 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService::] services are automatically cleaned
+
+2022-10-27 17:16:43,772 INFO Client connection 192.168.137.1:64141#true connect
+
+2022-10-27 17:16:46,203 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 17:16:46,203 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 17:16:46,219 INFO Client connection 192.168.137.1:64142#true connect
+
+2022-10-27 17:16:48,338 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 17:17:20,358 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 17:17:25,373 INFO Client connection 192.168.137.1:64141#true disconnect, remove instances and subscribers
+
+2022-10-27 17:17:30,379 INFO Client connection 192.168.137.1:64142#true disconnect, remove instances and subscribers
+
+2022-10-27 17:18:41,555 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService::] services are automatically cleaned
+
+2022-10-27 17:20:52,827 INFO Client connection 192.168.137.1:61700#true connect
+
+2022-10-27 17:20:55,245 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 17:20:55,245 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 17:20:55,258 INFO Client connection 192.168.137.1:52094#true connect
+
+2022-10-27 17:20:57,389 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 17:21:30,777 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 17:21:30,777 INFO Client connection 192.168.137.1:61700#true disconnect, remove instances and subscribers
+
+2022-10-27 17:21:40,787 INFO Client connection 192.168.137.1:52094#true disconnect, remove instances and subscribers
+
+2022-10-27 17:22:29,922 INFO Client connection 192.168.137.1:53347#true connect
+
+2022-10-27 17:22:32,444 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 17:22:32,444 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=2}, 192.168.137.1:20880#true
+
+2022-10-27 17:22:32,456 INFO Client connection 192.168.137.1:64705#true connect
+
+2022-10-27 17:22:34,517 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=3}, 192.168.137.1:20880#true
+
+2022-10-27 17:23:05,889 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 17:23:10,889 INFO Client connection 192.168.137.1:53347#true disconnect, remove instances and subscribers
+
+2022-10-27 17:23:15,891 INFO Client connection 192.168.137.1:64705#true disconnect, remove instances and subscribers
+
+2022-10-27 17:23:41,596 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService::] services are automatically cleaned
+
+2022-10-27 17:23:51,191 INFO Client connection 192.168.137.1:63614#true connect
+
+2022-10-27 17:23:53,771 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 17:23:53,771 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 17:23:53,785 INFO Client connection 192.168.137.1:63615#true connect
+
+2022-10-27 17:23:55,954 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 17:24:25,984 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 17:24:30,996 INFO Client connection 192.168.137.1:63614#true disconnect, remove instances and subscribers
+
+2022-10-27 17:24:36,001 INFO Client connection 192.168.137.1:63615#true disconnect, remove instances and subscribers
+
+2022-10-27 17:25:41,614 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService::] services are automatically cleaned
+
+2022-10-27 17:25:58,423 INFO Client connection 192.168.137.1:51656#true connect
+
+2022-10-27 17:26:00,862 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 17:26:00,862 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 17:26:00,873 INFO Client connection 192.168.137.1:51657#true connect
+
+2022-10-27 17:26:03,056 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 17:26:36,212 INFO Client connection 192.168.137.1:51656#true disconnect, remove instances and subscribers
+
+2022-10-27 17:26:36,212 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 17:26:36,932 INFO Client connection 192.168.137.1:56434#true connect
+
+2022-10-27 17:26:39,404 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 17:26:39,404 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=2}, 192.168.137.1:20880#true
+
+2022-10-27 17:26:39,415 INFO Client connection 192.168.137.1:54186#true connect
+
+2022-10-27 17:26:41,574 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=3}, 192.168.137.1:20880#true
+
+2022-10-27 17:26:46,227 INFO Client connection 192.168.137.1:51657#true disconnect, remove instances and subscribers
+
+2022-10-27 17:27:16,277 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 17:27:16,277 INFO Client connection 192.168.137.1:56434#true disconnect, remove instances and subscribers
+
+2022-10-27 17:27:21,286 INFO Client connection 192.168.137.1:54186#true disconnect, remove instances and subscribers
+
+2022-10-27 17:27:41,632 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService::] services are automatically cleaned
+
+2022-10-27 19:31:13,784 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=19}, ip: {"ip":"192.168.137.1","port":9000,"healthy":false,"cluster":"default","extendDatum":{"customInstanceId":"192.168.137.1#9000#default#SEATA_GROUP@@seata-server"},"lastHeartBeatTime":1666862931835,"metadataId":"192.168.137.1:9000:default"}
+
+2022-10-27 19:31:13,784 INFO Client remove for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=19}, 192.168.137.1:9000#true
+
+2022-10-27 19:31:14,921 INFO Client connection 192.168.137.1:9000#true disconnect, remove instances and subscribers
+
+2022-10-27 19:31:15,356 INFO Client connection 192.168.137.1:9000#true connect
+
+2022-10-27 19:31:15,356 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=20}, 192.168.137.1:9000#true
+
+2022-10-27 19:31:24,908 ERROR local ip is not in serverlist, ip: 172.27.60.174:8848, serverlist: [Member{ip='172.27.60.174', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-27 19:31:26,919 ERROR local ip is not in serverlist, ip: 172.27.60.174:8848, serverlist: [Member{ip='172.27.60.174', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-27 19:31:28,930 ERROR local ip is not in serverlist, ip: 172.27.60.174:8848, serverlist: [Member{ip='172.27.60.174', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-27 22:11:57,986 INFO Client connection 192.168.137.1:59603#true connect
+
+2022-10-27 22:11:59,326 INFO Client connection 192.168.137.1:9989#true connect
+
+2022-10-27 22:11:59,327 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:9989#true
+
+2022-10-27 22:12:01,577 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 22:12:01,577 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 22:12:01,583 INFO Client connection 192.168.137.1:59604#true connect
+
+2022-10-27 22:12:02,831 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-27 22:12:04,135 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:9989#true
+
+2022-10-27 22:15:40,803 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 22:15:40,810 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-27 22:15:45,902 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=2}, 192.168.137.1:9989#true
+
+2022-10-27 22:16:15,239 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-27 22:16:17,812 INFO Client connection 192.168.137.1:51423#true connect
+
+2022-10-27 22:16:18,941 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=3}, 192.168.137.1:9989#true
+
+2022-10-27 22:16:20,251 INFO Client connection 192.168.137.1:59604#true disconnect, remove instances and subscribers
+
+2022-10-27 22:16:20,922 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-27 22:16:20,922 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=2}, 192.168.137.1:20880#true
+
+2022-10-27 22:16:20,927 INFO Client connection 192.168.137.1:51424#true connect
+
+2022-10-27 22:16:22,177 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=2}, 192.168.137.1:20880#true
+
+2022-10-27 22:16:23,469 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=4}, 192.168.137.1:9989#true
+
+2022-10-27 22:16:25,259 INFO Client connection 192.168.137.1:59603#true disconnect, remove instances and subscribers
+
+2022-10-27 22:17:32,246 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.ProductService::', ephemeral=true, revision=3}, 192.168.137.1:20880#true
+
+2022-10-27 22:17:32,253 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=3}, 192.168.137.1:20880#true
+
+2022-10-27 22:17:37,168 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=5}, 192.168.137.1:9989#true
+

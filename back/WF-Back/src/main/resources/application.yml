@@ -1,0 +1,73 @@
+
+## 数据库用户名密码
+server:
+  port: 8088
+spring:
+  main:
+    allow-circular-references: true
+  zipkin:
+    base-url: http://127.0.0.1:9411/ #zipkin server的请求地址
+    discoveryClientEnabled: false #让nacos把它当成一个URL， 而不要当做服务名
+  sleuth:
+    sampler:
+      probability: 1.0 #采样的百分比
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+
+    # sentinel持久化
+    sentinel:
+      transport:
+        port: 9999 #跟控制台交流的端口,随意指定一个未使用的端口即可
+        dashboard: localhost:9090 # 指定控制台服务的地址
+      datasource:
+        dsl:
+          nacos:
+            server-addr: localhost:8848
+            dataId: wps-service
+            groupId: DEFAULT_GROUP
+            dataType: json
+            ruleType: flow
+            username: nacos
+            password: nacos
+
+
+    loadbalancer:
+      enabled: true # 默认开启loadbalancer
+      nacos:
+        enabled: true # 手动开启nacos负载均衡
+
+  application:
+    name: wps-service
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    name: defaultDataSource
+    url: jdbc:mysql://localhost:3306/wps_stpam?serverTimezone=GMT%2b8
+    username: root
+    password: root
+
+dubbo:
+  registry:
+    address: nacos://localhost:8848
+  scan:
+    base-packages: com.example.algorithmdubboservice.service.impl # ?????
+  protocols:
+    dubbo:
+      name: dubbo  # ????
+      port: -1   # ????
+
+mybatis:
+  #mapper映射文件
+  mapper-locations: classpath*:/mapper/*.xml
+  #数据返回类型别名
+  type-aliases-package: com.wfback.pojo
+  global-config:
+    refresh-mapper: true
+    #驼峰下划线转换
+    column-underline: false
+  configuration:
+    #关闭自动驼峰命名，默认打开，但是数据库里有驼峰就会报错
+    map-underscore-to-camel-case: false

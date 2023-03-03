@@ -1,0 +1,78 @@
+2022-10-25 14:35:04,611 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8911@DEFAULT@common-service, region: unknown, msg: client last beat: 1666668165006
+
+2022-10-25 14:35:04,611 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:9000@default@seata-server, region: unknown, msg: client last beat: 1666668162525
+
+2022-10-25 14:35:04,611 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wpsDubbo-service, region: unknown, msg: client last beat: 1666668163877
+
+2022-10-25 14:35:04,611 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:20882@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:service-test, region: unknown, msg: client last beat: 1666668162684
+
+2022-10-25 14:35:04,611 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:20881@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wpsDubbo-service, region: unknown, msg: client last beat: 1666679704611
+
+2022-10-25 14:35:04,611 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8989@DEFAULT@wpsDubbo-service, region: unknown, msg: client last beat: 1666668164002
+
+2022-10-25 14:35:04,611 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8099@DEFAULT@service-test, region: unknown, msg: client last beat: 1666668164667
+
+2022-10-25 14:35:06,053 INFO service: DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wpsDubbo-service {POS} {IP-ENABLED} valid: 192.168.137.1:0@DEFAULT, region: unknown, msg: client beat ok
+
+2022-10-25 14:35:09,593 INFO service: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wpsDubbo-service {POS} {IP-ENABLED} valid: 192.168.137.1:20881@DEFAULT, region: unknown, msg: client beat ok
+
+2022-10-25 14:37:21,374 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:20882@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:service-test, region: unknown, msg: client last beat: 1666679821541
+
+2022-10-25 19:36:27,389 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8188@DEFAULT@edit-service, region: unknown, msg: client last beat: 1666691528821
+
+2022-10-25 19:36:27,389 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8099@DEFAULT@service-test, region: unknown, msg: client last beat: 1666691530325
+
+2022-10-25 19:36:27,392 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8081@DEFAULT@stpam-service, region: unknown, msg: client last beat: 1666691526734
+
+2022-10-25 19:36:27,389 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8088@DEFAULT@wps-service, region: unknown, msg: client last beat: 1666691529580
+
+2022-10-25 19:36:27,389 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:20882@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:service-test, region: unknown, msg: client last beat: 1666691528366
+
+2022-10-25 19:36:27,389 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8989@DEFAULT@wpsDubbo-service, region: unknown, msg: client last beat: 1666691530325
+
+2022-10-25 19:36:27,394 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8911@DEFAULT@common-service, region: unknown, msg: client last beat: 1666691530707
+
+2022-10-25 19:36:27,410 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:20881@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wpsDubbo-service, region: unknown, msg: client last beat: 1666691526625
+
+2022-10-25 19:36:28,593 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wpsDubbo-service, region: unknown, msg: client last beat: 1666691527409
+
+2022-10-25 19:36:28,633 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:9000@default@seata-server, region: unknown, msg: client last beat: 1666691529688
+
+2022-10-25 19:36:28,716 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:7000@DEFAULT@api-gateway, region: unknown, msg: client last beat: 1666691526907
+
+2022-10-25 19:36:28,719 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:20881@DEFAULT@providers:com.example.commonstpam.service.ProductService::, region: unknown, msg: client last beat: 1666691526625
+
+2022-10-25 19:36:28,722 INFO service: DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService:: {POS} {IP-ENABLED} valid: 192.168.137.1:20881@DEFAULT, region: unknown, msg: client beat ok
+
+2022-10-25 19:36:28,723 INFO service: DEFAULT_GROUP@@api-gateway {POS} {IP-ENABLED} valid: 192.168.137.1:7000@DEFAULT, region: unknown, msg: client beat ok
+
+2022-10-25 19:36:28,726 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:0@DEFAULT@consumers:com.example.commonstpam.service.ProductService::, region: unknown, msg: client last beat: 1666691527409
+
+2022-10-25 21:42:58,311 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:9000@default@seata-server, region: unknown, msg: client last beat: 1666703261524
+
+2022-10-25 21:42:58,311 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8989@DEFAULT@wpsDubbo-service, region: unknown, msg: client last beat: 1666703261169
+
+2022-10-25 21:42:58,313 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8081@DEFAULT@stpam-service, region: unknown, msg: client last beat: 1666703263584
+
+2022-10-25 21:42:58,314 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:7000@DEFAULT@api-gateway, region: unknown, msg: client last beat: 1666703262070
+
+2022-10-25 21:42:58,311 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8099@DEFAULT@service-test, region: unknown, msg: client last beat: 1666703261138
+
+2022-10-25 21:42:58,315 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8088@DEFAULT@wps-service, region: unknown, msg: client last beat: 1666703263051
+
+2022-10-25 21:42:58,316 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:20882@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:service-test, region: unknown, msg: client last beat: 1666703262832
+
+2022-10-25 21:42:58,311 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8911@DEFAULT@common-service, region: unknown, msg: client last beat: 1666703261184
+
+2022-10-25 21:43:00,935 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8188@DEFAULT@edit-service, region: unknown, msg: client last beat: 1666703259218
+
+2022-10-25 21:43:01,461 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:20881@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wpsDubbo-service, region: unknown, msg: client last beat: 1666703261928
+
+2022-10-25 21:43:01,583 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wpsDubbo-service, region: unknown, msg: client last beat: 1666703262832
+
+2022-10-25 21:43:01,601 INFO service: DEFAULT_GROUP@@edit-service {POS} {IP-ENABLED} valid: 192.168.137.1:8188@DEFAULT, region: unknown, msg: client beat ok
+
+2022-10-25 21:43:01,606 INFO service: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wpsDubbo-service {POS} {IP-ENABLED} valid: 192.168.137.1:20881@DEFAULT, region: unknown, msg: client beat ok
+
+2022-10-25 21:43:01,612 INFO service: DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wpsDubbo-service {POS} {IP-ENABLED} valid: 192.168.137.1:0@DEFAULT, region: unknown, msg: client beat ok
+

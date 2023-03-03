@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="61497933-390f-4f6a-9292-b07e0017e26a" name="实验室" url="http://http://47.92.157.59:8070/">
+        <fileTransfer rootFolder="/mnt/data/stpam" accessType="SFTP" host="172.27.74.212" port="22" sshConfigId="8ad7cfcc-19fb-4180-872d-b405dc0e7a9b" sshConfig="gisdev@172.27.74.212:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

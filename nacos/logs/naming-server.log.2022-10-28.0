@@ -1,0 +1,1046 @@
+2022-10-28 08:59:43,046 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=21}, ip: {"ip":"192.168.137.1","port":9000,"healthy":false,"cluster":"default","extendDatum":{"customInstanceId":"192.168.137.1#9000#default#SEATA_GROUP@@seata-server"},"lastHeartBeatTime":1666880264274,"metadataId":"192.168.137.1:9000:default"}
+
+2022-10-28 08:59:43,046 INFO Client remove for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=21}, 192.168.137.1:9000#true
+
+2022-10-28 08:59:46,310 INFO Client connection 192.168.137.1:51423#true disconnect, remove instances and subscribers
+
+2022-10-28 08:59:46,310 INFO Client connection 192.168.137.1:9989#true disconnect, remove instances and subscribers
+
+2022-10-28 08:59:46,310 INFO Client connection 192.168.137.1:9000#true disconnect, remove instances and subscribers
+
+2022-10-28 08:59:46,310 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-28 08:59:46,310 INFO Client connection 192.168.137.1:51424#true disconnect, remove instances and subscribers
+
+2022-10-28 08:59:46,310 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 08:59:46,318 WARN namespace : public, [DEFAULT_GROUP@@algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 08:59:46,319 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.ProductService::] services are automatically cleaned
+
+2022-10-28 08:59:46,360 INFO Client connection 192.168.137.1:9000#true connect
+
+2022-10-28 08:59:46,360 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=22}, 192.168.137.1:9000#true
+
+2022-10-28 08:59:59,587 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:01,590 ERROR local ip is not in serverlist, ip: 169.254.52.198:8848, serverlist: [Member{ip='169.254.52.198', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:03,598 ERROR local ip is not in serverlist, ip: 169.254.52.198:8848, serverlist: [Member{ip='169.254.52.198', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:05,599 ERROR local ip is not in serverlist, ip: 169.254.52.198:8848, serverlist: [Member{ip='169.254.52.198', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:07,605 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:09,611 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:23,667 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:25,677 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:27,679 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:29,689 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:31,694 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:33,705 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:35,709 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:37,715 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:39,724 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:41,725 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:43,735 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:45,744 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:47,756 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:00:49,764 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-28 09:44:28,580 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 09:44:28,580 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 09:44:28,601 INFO Client connection 192.168.137.1:51625#true connect
+
+2022-10-28 09:44:28,928 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 09:45:00,636 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 09:45:00,636 INFO Client connection 192.168.137.1:51625#true disconnect, remove instances and subscribers
+
+2022-10-28 09:45:46,688 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService::] services are automatically cleaned
+
+2022-10-28 09:53:35,488 INFO Client connection 192.168.137.1:55435#true connect
+
+2022-10-28 09:53:36,713 INFO Client connection 192.168.137.1:8911#true connect
+
+2022-10-28 09:53:36,713 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=0}, 192.168.137.1:8911#true
+
+2022-10-28 09:53:40,201 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=1}, 192.168.137.1:8911#true
+
+2022-10-28 09:54:00,488 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 09:54:00,488 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 09:54:00,508 INFO Client connection 192.168.137.1:50276#true connect
+
+2022-10-28 09:54:00,597 INFO Client connection 192.168.137.1:50275#true connect
+
+2022-10-28 09:54:02,620 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 09:54:02,902 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 09:54:35,555 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.15","dubbo":"2.0.2","pid":"24216","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","router":"-default,revisionRouter","protocol":"consumer","metadata-type":"remote","application":"algorithm-dubboService","sticky":"false","category":"consumers","group":"common-service","timestamp":"1666922040619"},"lastHeartBeatTime":1666922042620,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 09:54:35,555 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 09:54:36,588 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 09:54:36,588 INFO Client connection 192.168.137.1:50275#true disconnect, remove instances and subscribers
+
+2022-10-28 09:54:36,588 INFO Client connection 192.168.137.1:50276#true disconnect, remove instances and subscribers
+
+2022-10-28 09:55:46,782 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 09:55:46,782 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService::] services are automatically cleaned
+
+2022-10-28 10:00:00,100 INFO Client connection 192.168.137.1:20881#true connect
+
+2022-10-28 10:00:00,100 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 10:00:00,106 INFO Client connection 192.168.137.1:55108#true connect
+
+2022-10-28 10:00:00,146 INFO Client connection 192.168.137.1:62731#true connect
+
+2022-10-28 10:00:00,367 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:00:00,367 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:00:06,019 INFO Client connection 192.168.137.1:9989#true connect
+
+2022-10-28 10:00:06,019 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:9989#true
+
+2022-10-28 10:00:06,083 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 10:00:07,561 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:9989#true
+
+2022-10-28 10:02:31,929 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 10:02:31,936 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:02:31,937 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 10:02:36,859 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=2}, 192.168.137.1:9989#true
+
+2022-10-28 10:02:52,626 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=2}, 192.168.137.1:8911#true
+
+2022-10-28 10:03:02,421 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:03:02,421 INFO Client connection 192.168.137.1:20881#true disconnect, remove instances and subscribers
+
+2022-10-28 10:03:07,425 INFO Client connection 192.168.137.1:9989#true disconnect, remove instances and subscribers
+
+2022-10-28 10:03:09,099 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-28 10:03:09,099 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=2}, 192.168.137.1:20880#true
+
+2022-10-28 10:03:09,105 INFO Client connection 192.168.137.1:63198#true connect
+
+2022-10-28 10:03:09,132 INFO Client connection 192.168.137.1:63196#true connect
+
+2022-10-28 10:03:09,832 INFO Client connection 192.168.137.1:63197#true connect
+
+2022-10-28 10:03:11,063 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=3}, 192.168.137.1:8911#true
+
+2022-10-28 10:03:11,892 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=4}, 192.168.137.1:8911#true
+
+2022-10-28 10:03:12,428 INFO Client connection 192.168.137.1:62731#true disconnect, remove instances and subscribers
+
+2022-10-28 10:03:15,190 INFO Client connection 192.168.137.1:9989#true connect
+
+2022-10-28 10:03:15,190 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=3}, 192.168.137.1:9989#true
+
+2022-10-28 10:03:15,256 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=2}, 192.168.137.1:20880#true
+
+2022-10-28 10:03:16,568 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=4}, 192.168.137.1:9989#true
+
+2022-10-28 10:03:17,442 INFO Client connection 192.168.137.1:55108#true disconnect, remove instances and subscribers
+
+2022-10-28 10:03:27,463 INFO Client connection 192.168.137.1:55435#true disconnect, remove instances and subscribers
+
+2022-10-28 10:03:28,335 INFO Client connection 192.168.137.1:63199#true connect
+
+2022-10-28 10:03:29,461 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=5}, 192.168.137.1:8911#true
+
+2022-10-28 10:03:30,368 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=6}, 192.168.137.1:8911#true
+
+2022-10-28 10:03:46,850 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 10:03:47,490 INFO Client connection 192.168.137.1:63197#true disconnect, remove instances and subscribers
+
+2022-10-28 10:04:02,508 INFO Client connection 192.168.137.1:8911#true disconnect, remove instances and subscribers
+
+2022-10-28 10:04:07,509 INFO Client connection 192.168.137.1:63199#true disconnect, remove instances and subscribers
+
+2022-10-28 10:04:46,852 WARN namespace : public, [DEFAULT_GROUP@@common-service] services are automatically cleaned
+
+2022-10-28 10:05:34,632 INFO Client connection 192.168.137.1:57442#true connect
+
+2022-10-28 10:05:35,922 INFO Client connection 192.168.137.1:8911#true connect
+
+2022-10-28 10:05:35,922 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=0}, 192.168.137.1:8911#true
+
+2022-10-28 10:05:38,782 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=1}, 192.168.137.1:8911#true
+
+2022-10-28 10:06:07,701 INFO Client connection 192.168.137.1:57442#true disconnect, remove instances and subscribers
+
+2022-10-28 10:06:12,709 INFO Client connection 192.168.137.1:8911#true disconnect, remove instances and subscribers
+
+2022-10-28 10:06:46,865 WARN namespace : public, [DEFAULT_GROUP@@common-service] services are automatically cleaned
+
+2022-10-28 10:07:19,661 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=3}, 192.168.137.1:20880#true
+
+2022-10-28 10:07:19,674 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=3}, 192.168.137.1:20880#true
+
+2022-10-28 10:07:24,686 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=5}, 192.168.137.1:9989#true
+
+2022-10-28 10:07:34,562 INFO Client connection 192.168.137.1:58067#true connect
+
+2022-10-28 10:07:35,895 INFO Client connection 192.168.137.1:8911#true connect
+
+2022-10-28 10:07:35,895 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=0}, 192.168.137.1:8911#true
+
+2022-10-28 10:07:38,215 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-28 10:07:38,220 INFO Client connection 192.168.137.1:58068#true connect
+
+2022-10-28 10:07:39,623 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=1}, 192.168.137.1:8911#true
+
+2022-10-28 10:07:57,899 INFO Client connection 192.168.137.1:9989#true disconnect, remove instances and subscribers
+
+2022-10-28 10:08:02,906 INFO Client connection 192.168.137.1:63196#true disconnect, remove instances and subscribers
+
+2022-10-28 10:08:46,878 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 10:08:46,878 WARN namespace : public, [DEFAULT_GROUP@@algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 10:08:46,878 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService::] services are automatically cleaned
+
+2022-10-28 10:09:03,013 INFO Client connection 192.168.137.1:63198#true disconnect, remove instances and subscribers
+
+2022-10-28 10:09:16,382 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:09:16,382 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:09:16,401 INFO Client connection 192.168.137.1:54956#true connect
+
+2022-10-28 10:09:16,479 INFO Client connection 192.168.137.1:54955#true connect
+
+2022-10-28 10:09:18,439 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:09:18,702 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:09:48,072 INFO Client connection 192.168.137.1:54955#true disconnect, remove instances and subscribers
+
+2022-10-28 10:09:51,432 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.15","dubbo":"2.0.2","pid":"33300","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","router":"-default,revisionRouter","protocol":"consumer","metadata-type":"remote","application":"algorithm-dubboService","sticky":"false","category":"consumers","group":"common-service","timestamp":"1666922956502"},"lastHeartBeatTime":1666922958439,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:09:51,432 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:09:53,086 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:09:53,086 INFO Client connection 192.168.137.1:54956#true disconnect, remove instances and subscribers
+
+2022-10-28 10:10:46,902 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService::] services are automatically cleaned
+
+2022-10-28 10:11:46,912 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 10:13:53,992 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:13:53,992 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:13:54,009 INFO Client connection 192.168.137.1:57156#true connect
+
+2022-10-28 10:13:54,106 INFO Client connection 192.168.137.1:57155#true connect
+
+2022-10-28 10:13:56,403 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:13:56,653 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:14:27,387 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=2}, 192.168.137.1:0#true
+
+2022-10-28 10:14:27,420 INFO Client connection 192.168.137.1:59896#true connect
+
+2022-10-28 10:14:27,492 INFO Client connection 192.168.137.1:59895#true connect
+
+2022-10-28 10:14:28,496 INFO Client connection 192.168.137.1:57156#true disconnect, remove instances and subscribers
+
+2022-10-28 10:14:28,496 INFO Client connection 192.168.137.1:57155#true disconnect, remove instances and subscribers
+
+2022-10-28 10:14:29,047 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.15","dubbo":"2.0.2","pid":"22340","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","router":"-default,revisionRouter","protocol":"consumer","metadata-type":"remote","application":"algorithm-dubboService","sticky":"false","category":"consumers","group":"common-service","timestamp":"1666923234152"},"lastHeartBeatTime":1666923236403,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:14:29,047 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:14:29,430 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=2}, 192.168.137.1:0#true
+
+2022-10-28 10:14:29,620 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=3}, 192.168.137.1:0#true
+
+2022-10-28 10:14:58,532 INFO Client connection 192.168.137.1:59895#true disconnect, remove instances and subscribers
+
+2022-10-28 10:15:03,545 INFO Client connection 192.168.137.1:59896#true disconnect, remove instances and subscribers
+
+2022-10-28 10:15:04,107 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=3}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.15","dubbo":"2.0.2","pid":"31128","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","router":"-default,revisionRouter","protocol":"consumer","metadata-type":"remote","application":"algorithm-dubboService","sticky":"false","category":"consumers","group":"common-service","timestamp":"1666923267521"},"lastHeartBeatTime":1666923269430,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:15:04,107 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=3}, 192.168.137.1:0#true
+
+2022-10-28 10:15:08,553 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:15:46,933 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService::] services are automatically cleaned
+
+2022-10-28 10:16:46,940 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 10:16:56,692 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:16:56,692 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:16:56,708 INFO Client connection 192.168.137.1:60059#true connect
+
+2022-10-28 10:16:56,787 INFO Client connection 192.168.137.1:60058#true connect
+
+2022-10-28 10:16:58,743 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:17:06,176 INFO Client connection 192.168.137.1:9989#true connect
+
+2022-10-28 10:17:06,176 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:9989#true
+
+2022-10-28 10:17:06,245 INFO Client connection 192.168.137.1:20881#true connect
+
+2022-10-28 10:17:06,245 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 10:17:07,570 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 10:17:08,870 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:9989#true
+
+2022-10-28 10:18:01,809 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 10:18:01,816 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:18:01,818 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:18:01,820 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 10:18:06,866 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=2}, 192.168.137.1:9989#true
+
+2022-10-28 10:18:33,648 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=2}, 192.168.137.1:0#true
+
+2022-10-28 10:18:33,665 INFO Client connection 192.168.137.1:53164#true connect
+
+2022-10-28 10:18:33,769 INFO Client connection 192.168.137.1:55699#true connect
+
+2022-10-28 10:18:33,838 INFO Client connection 192.168.137.1:20881#true disconnect, remove instances and subscribers
+
+2022-10-28 10:18:35,738 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=2}, 192.168.137.1:0#true
+
+2022-10-28 10:18:35,923 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=3}, 192.168.137.1:0#true
+
+2022-10-28 10:18:38,842 INFO Client connection 192.168.137.1:9989#true disconnect, remove instances and subscribers
+
+2022-10-28 10:18:43,847 INFO Client connection 192.168.137.1:60058#true disconnect, remove instances and subscribers
+
+2022-10-28 10:18:48,861 INFO Client connection 192.168.137.1:60059#true disconnect, remove instances and subscribers
+
+2022-10-28 10:19:06,886 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=3}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.15","dubbo":"2.0.2","pid":"2052","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","router":"-default,revisionRouter","protocol":"consumer","metadata-type":"remote","application":"algorithm-dubboService","sticky":"false","category":"consumers","group":"common-service","timestamp":"1666923513803"},"lastHeartBeatTime":1666923515738,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:19:06,886 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=3}, 192.168.137.1:0#true
+
+2022-10-28 10:19:08,899 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:19:08,899 INFO Client connection 192.168.137.1:55699#true disconnect, remove instances and subscribers
+
+2022-10-28 10:19:08,899 INFO Client connection 192.168.137.1:53164#true disconnect, remove instances and subscribers
+
+2022-10-28 10:19:44,590 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:19:44,590 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=4}, 192.168.137.1:0#true
+
+2022-10-28 10:19:44,622 INFO Client connection 192.168.137.1:53174#true connect
+
+2022-10-28 10:19:44,691 INFO Client connection 192.168.137.1:53173#true connect
+
+2022-10-28 10:19:46,808 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=4}, 192.168.137.1:0#true
+
+2022-10-28 10:19:46,960 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 10:19:46,960 WARN namespace : public, [DEFAULT_GROUP@@algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 10:19:46,960 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:] services are automatically cleaned
+
+2022-10-28 10:19:46,996 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=5}, 192.168.137.1:0#true
+
+2022-10-28 10:20:19,017 INFO Client connection 192.168.137.1:53173#true disconnect, remove instances and subscribers
+
+2022-10-28 10:20:19,017 INFO Client connection 192.168.137.1:53174#true disconnect, remove instances and subscribers
+
+2022-10-28 10:20:19,645 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=5}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.15","dubbo":"2.0.2","pid":"2816","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","router":"-default,revisionRouter","protocol":"consumer","metadata-type":"remote","application":"algorithm-dubboService","sticky":"false","category":"consumers","group":"common-service","timestamp":"1666923584721"},"lastHeartBeatTime":1666923586808,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:20:19,645 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=5}, 192.168.137.1:0#true
+
+2022-10-28 10:20:24,018 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:21:46,974 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 10:21:46,974 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService::] services are automatically cleaned
+
+2022-10-28 10:21:49,748 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:21:49,748 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:21:49,768 INFO Client connection 192.168.137.1:52260#true connect
+
+2022-10-28 10:21:49,867 INFO Client connection 192.168.137.1:65426#true connect
+
+2022-10-28 10:21:52,012 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:21:52,202 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService::', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:22:24,248 INFO Client connection 192.168.137.1:65426#true disconnect, remove instances and subscribers
+
+2022-10-28 10:22:24,248 INFO Client connection 192.168.137.1:52260#true disconnect, remove instances and subscribers
+
+2022-10-28 10:22:24,812 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.15","dubbo":"2.0.2","pid":"27336","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","router":"-default,revisionRouter","protocol":"consumer","metadata-type":"remote","application":"algorithm-dubboService","sticky":"false","category":"consumers","group":"common-service","timestamp":"1666923709918"},"lastHeartBeatTime":1666923712012,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:22:24,812 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:22:29,262 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:23:13,474 INFO Client connection 192.168.137.1:20881#true connect
+
+2022-10-28 10:23:13,474 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 10:23:13,480 INFO Client connection 192.168.137.1:60774#true connect
+
+2022-10-28 10:23:13,521 INFO Client connection 192.168.137.1:63034#true connect
+
+2022-10-28 10:23:13,755 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:23:13,755 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=2}, 192.168.137.1:0#true
+
+2022-10-28 10:23:43,518 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, ip: {"ip":"192.168.137.1","port":20881,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","service.name":"ServiceBean:/com.example.commonstpam.service.IAlgorithmService:1.0.0","methods":"updateModel,getAllModel,insertModel,deleteModel","release":"2.7.15","deprecated":"false","dubbo":"2.0.2","pid":"9604","interface":"com.example.commonstpam.service.IAlgorithmService","customInstanceId":"192.168.137.1#20881#DEFAULT#DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:","version":"1.0.0","generic":"false","revision":"1.0.0","path":"com.example.commonstpam.service.IAlgorithmService","protocol":"dubbo","metadata-type":"remote","application":"algorithm-dubboService","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1666923791368"},"lastHeartBeatTime":1666923793474,"metadataId":"192.168.137.1:20881:DEFAULT"}
+
+2022-10-28 10:23:43,518 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 10:23:43,798 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=3}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.15","dubbo":"2.0.2","pid":"9604","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","router":"-default,revisionRouter","protocol":"consumer","metadata-type":"remote","application":"algorithm-dubboService","sticky":"false","category":"consumers","group":"common-service","timestamp":"1666923793539"},"lastHeartBeatTime":1666923793755,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:23:43,798 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=3}, 192.168.137.1:0#true
+
+2022-10-28 10:23:44,373 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:23:44,373 INFO Client connection 192.168.137.1:20881#true disconnect, remove instances and subscribers
+
+2022-10-28 10:23:46,990 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService::] services are automatically cleaned
+
+2022-10-28 10:23:49,377 INFO Client connection 192.168.137.1:60774#true disconnect, remove instances and subscribers
+
+2022-10-28 10:23:49,377 INFO Client connection 192.168.137.1:63034#true disconnect, remove instances and subscribers
+
+2022-10-28 10:24:46,996 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 10:24:46,996 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:] services are automatically cleaned
+
+2022-10-28 10:27:21,020 INFO Client connection 192.168.137.1:56048#true connect
+
+2022-10-28 10:27:22,183 INFO Client connection 192.168.137.1:9989#true connect
+
+2022-10-28 10:27:22,183 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:9989#true
+
+2022-10-28 10:27:24,162 INFO Client connection 192.168.137.1:20881#true connect
+
+2022-10-28 10:27:24,162 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 10:27:24,167 INFO Client connection 192.168.137.1:56049#true connect
+
+2022-10-28 10:27:24,424 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:27:24,424 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:27:26,205 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 10:27:27,819 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:9989#true
+
+2022-10-28 10:33:01,868 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-28 10:33:01,922 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 10:33:01,928 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:33:01,929 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 10:33:06,843 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=2}, 192.168.137.1:9989#true
+
+2022-10-28 10:33:11,022 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=2}, 192.168.137.1:8911#true
+
+2022-10-28 10:33:35,313 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:33:35,313 INFO Client connection 192.168.137.1:20881#true disconnect, remove instances and subscribers
+
+2022-10-28 10:33:35,313 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-28 10:33:40,322 INFO Client connection 192.168.137.1:9989#true disconnect, remove instances and subscribers
+
+2022-10-28 10:33:40,322 INFO Client connection 192.168.137.1:56048#true disconnect, remove instances and subscribers
+
+2022-10-28 10:33:45,336 INFO Client connection 192.168.137.1:58067#true disconnect, remove instances and subscribers
+
+2022-10-28 10:33:45,336 INFO Client connection 192.168.137.1:56049#true disconnect, remove instances and subscribers
+
+2022-10-28 10:33:45,336 INFO Client connection 192.168.137.1:8911#true disconnect, remove instances and subscribers
+
+2022-10-28 10:33:50,351 INFO Client connection 192.168.137.1:58068#true disconnect, remove instances and subscribers
+
+2022-10-28 10:34:36,984 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:34:36,984 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:34:37,001 INFO Client connection 192.168.137.1:59021#true connect
+
+2022-10-28 10:34:37,082 INFO Client connection 192.168.137.1:59020#true connect
+
+2022-10-28 10:34:37,293 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:34:47,094 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 10:34:47,094 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 10:34:47,094 WARN namespace : public, [DEFAULT_GROUP@@algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 10:34:47,095 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 10:34:47,095 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:] services are automatically cleaned
+
+2022-10-28 10:34:47,095 WARN namespace : public, [DEFAULT_GROUP@@common-service] services are automatically cleaned
+
+2022-10-28 10:35:10,449 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:35:10,449 INFO Client connection 192.168.137.1:59021#true disconnect, remove instances and subscribers
+
+2022-10-28 10:35:10,449 INFO Client connection 192.168.137.1:59020#true disconnect, remove instances and subscribers
+
+2022-10-28 10:35:34,011 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:35:34,011 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=2}, 192.168.137.1:0#true
+
+2022-10-28 10:35:34,026 INFO Client connection 192.168.137.1:51573#true connect
+
+2022-10-28 10:35:34,106 INFO Client connection 192.168.137.1:51572#true connect
+
+2022-10-28 10:35:34,310 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=3}, 192.168.137.1:0#true
+
+2022-10-28 10:36:01,016 INFO Client connection 192.168.137.1:57886#true connect
+
+2022-10-28 10:36:02,181 INFO Client connection 192.168.137.1:9989#true connect
+
+2022-10-28 10:36:02,181 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:9989#true
+
+2022-10-28 10:36:04,143 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-28 10:36:04,143 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-28 10:36:04,149 INFO Client connection 192.168.137.1:52480#true connect
+
+2022-10-28 10:36:05,401 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-28 10:36:05,543 INFO Client connection 192.168.137.1:51573#true disconnect, remove instances and subscribers
+
+2022-10-28 10:36:05,543 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:36:05,543 INFO Client connection 192.168.137.1:51572#true disconnect, remove instances and subscribers
+
+2022-10-28 10:36:06,729 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:9989#true
+
+2022-10-28 10:36:44,292 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:36:44,292 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=4}, 192.168.137.1:0#true
+
+2022-10-28 10:36:44,314 INFO Client connection 192.168.137.1:53816#true connect
+
+2022-10-28 10:36:46,323 INFO Client connection 192.168.137.1:58265#true connect
+
+2022-10-28 10:36:46,367 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:37:14,340 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=5}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"init":"false","side":"consumer","methods":"updateModel,getAllModel,insertModel,deleteModel","release":"2.7.15","dubbo":"2.0.2","pid":"20808","check":"false","interface":"com.example.commonstpam.service.IAlgorithmService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:","version":"1.0.0","qos.enable":"false","revision":"1.0.0","path":"com.example.commonstpam.service.IAlgorithmService","protocol":"consumer","metadata-type":"remote","application":"wps-service","sticky":"false","category":"consumers","timestamp":"1666924604052"},"lastHeartBeatTime":1666924604292,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:37:14,340 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=5}, 192.168.137.1:0#true
+
+2022-10-28 10:37:19,352 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.15","dubbo":"2.0.2","pid":"20808","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","router":"-default,revisionRouter","protocol":"consumer","metadata-type":"remote","application":"wps-service","sticky":"false","category":"consumers","group":"algorithm-dubboService","timestamp":"1666924606354"},"lastHeartBeatTime":1666924606367,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:37:19,352 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:37:20,677 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:37:20,677 INFO Client connection 192.168.137.1:53816#true disconnect, remove instances and subscribers
+
+2022-10-28 10:37:20,677 INFO Client connection 192.168.137.1:58265#true disconnect, remove instances and subscribers
+
+2022-10-28 10:38:12,965 INFO Client connection 192.168.137.1:57238#true connect
+
+2022-10-28 10:38:14,107 INFO Client connection 192.168.137.1:8911#true connect
+
+2022-10-28 10:38:14,107 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=0}, 192.168.137.1:8911#true
+
+2022-10-28 10:38:16,090 INFO Client connection 192.168.137.1:20881#true connect
+
+2022-10-28 10:38:16,090 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 10:38:16,094 INFO Client connection 192.168.137.1:57239#true connect
+
+2022-10-28 10:38:16,342 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:38:16,342 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=2}, 192.168.137.1:0#true
+
+2022-10-28 10:38:17,720 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=1}, 192.168.137.1:8911#true
+
+2022-10-28 10:38:37,779 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=6}, 192.168.137.1:0#true
+
+2022-10-28 10:38:37,796 INFO Client connection 192.168.137.1:57251#true connect
+
+2022-10-28 10:38:39,547 INFO Client connection 192.168.137.1:57250#true connect
+
+2022-10-28 10:38:39,603 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:38:39,929 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=3}, 192.168.137.1:0#true
+
+2022-10-28 10:39:10,849 INFO Client connection 192.168.137.1:57250#true disconnect, remove instances and subscribers
+
+2022-10-28 10:39:11,413 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.15","dubbo":"2.0.2","pid":"19872","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","router":"-default,revisionRouter","protocol":"consumer","metadata-type":"remote","application":"wps-service","sticky":"false","category":"consumers","group":"common-service","timestamp":"1666924719586"},"lastHeartBeatTime":1666924719603,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:39:11,413 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:39:11,414 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=7}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"init":"false","side":"consumer","methods":"updateModel,getAllModel,insertModel,deleteModel","release":"2.7.15","dubbo":"2.0.2","pid":"19872","check":"false","interface":"com.example.commonstpam.service.IAlgorithmService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:","version":"1.0.0","qos.enable":"false","revision":"1.0.0","path":"com.example.commonstpam.service.IAlgorithmService","protocol":"consumer","metadata-type":"remote","application":"wps-service","sticky":"false","category":"consumers","timestamp":"1666924717541"},"lastHeartBeatTime":1666924717779,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:39:11,414 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=7}, 192.168.137.1:0#true
+
+2022-10-28 10:39:15,863 INFO Client connection 192.168.137.1:57251#true disconnect, remove instances and subscribers
+
+2022-10-28 10:40:47,142 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 10:40:47,142 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:] services are automatically cleaned
+
+2022-10-28 10:41:28,235 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:41:28,251 INFO Client connection 192.168.137.1:51619#true connect
+
+2022-10-28 10:41:29,981 INFO Client connection 192.168.137.1:51618#true connect
+
+2022-10-28 10:41:30,030 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:41:30,333 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=4}, 192.168.137.1:0#true
+
+2022-10-28 10:41:37,259 INFO Client connection 192.168.137.1:8088#true connect
+
+2022-10-28 10:41:37,259 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=0}, 192.168.137.1:8088#true
+
+2022-10-28 10:41:37,346 INFO Client connection 192.168.137.1:20882#true connect
+
+2022-10-28 10:41:37,346 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service', ephemeral=true, revision=0}, 192.168.137.1:20882#true
+
+2022-10-28 10:41:39,089 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}, 192.168.137.1:8088#true
+
+2022-10-28 10:41:56,633 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 10:41:56,637 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=5}, 192.168.137.1:0#true
+
+2022-10-28 10:42:00,399 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=6}, 192.168.137.1:0#true
+
+2022-10-28 10:42:11,609 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=2}, 192.168.137.1:8911#true
+
+2022-10-28 10:42:21,756 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-28 10:42:21,764 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-28 10:42:31,192 INFO Client connection 192.168.137.1:20881#true disconnect, remove instances and subscribers
+
+2022-10-28 10:42:36,810 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=2}, 192.168.137.1:9989#true
+
+2022-10-28 10:42:38,891 INFO Client connection 192.168.137.1:50081#true connect
+
+2022-10-28 10:42:40,025 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=3}, 192.168.137.1:8911#true
+
+2022-10-28 10:42:42,041 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=2}, 192.168.137.1:20880#true
+
+2022-10-28 10:42:42,047 INFO Client connection 192.168.137.1:50082#true connect
+
+2022-10-28 10:42:42,296 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:42:43,780 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=4}, 192.168.137.1:8911#true
+
+2022-10-28 10:42:46,213 INFO Client connection 192.168.137.1:57238#true disconnect, remove instances and subscribers
+
+2022-10-28 10:42:51,227 INFO Client connection 192.168.137.1:57239#true disconnect, remove instances and subscribers
+
+2022-10-28 10:42:54,376 INFO Client connection 192.168.137.1:51499#true connect
+
+2022-10-28 10:42:55,680 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=3}, 192.168.137.1:9989#true
+
+2022-10-28 10:42:56,560 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=4}, 192.168.137.1:9989#true
+
+2022-10-28 10:43:01,886 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:43:01,891 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=7}, 192.168.137.1:0#true
+
+2022-10-28 10:43:01,893 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service', ephemeral=true, revision=1}, 192.168.137.1:20882#true
+
+2022-10-28 10:43:01,895 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:43:11,258 INFO Client connection 192.168.137.1:57886#true disconnect, remove instances and subscribers
+
+2022-10-28 10:43:15,335 INFO Client connection 192.168.137.1:64824#true connect
+
+2022-10-28 10:43:16,571 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=5}, 192.168.137.1:9989#true
+
+2022-10-28 10:43:16,984 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}, 192.168.137.1:8088#true
+
+2022-10-28 10:43:17,450 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=6}, 192.168.137.1:9989#true
+
+2022-10-28 10:43:36,308 INFO Client connection 192.168.137.1:20882#true disconnect, remove instances and subscribers
+
+2022-10-28 10:43:36,308 INFO Client connection 192.168.137.1:51499#true disconnect, remove instances and subscribers
+
+2022-10-28 10:43:43,500 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=2}, 192.168.137.1:0#true
+
+2022-10-28 10:43:43,518 INFO Client connection 192.168.137.1:57390#true connect
+
+2022-10-28 10:43:43,605 INFO Client connection 192.168.137.1:57389#true connect
+
+2022-10-28 10:43:45,509 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=2}, 192.168.137.1:0#true
+
+2022-10-28 10:43:45,717 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=3}, 192.168.137.1:0#true
+
+2022-10-28 10:43:47,174 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 10:43:47,174 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:] services are automatically cleaned
+
+2022-10-28 10:43:51,342 INFO Client connection 192.168.137.1:9989#true disconnect, remove instances and subscribers
+
+2022-10-28 10:43:51,342 INFO Client connection 192.168.137.1:51618#true disconnect, remove instances and subscribers
+
+2022-10-28 10:43:51,342 INFO Client connection 192.168.137.1:8088#true disconnect, remove instances and subscribers
+
+2022-10-28 10:43:56,351 INFO Client connection 192.168.137.1:51619#true disconnect, remove instances and subscribers
+
+2022-10-28 10:43:56,351 INFO Client connection 192.168.137.1:64824#true disconnect, remove instances and subscribers
+
+2022-10-28 10:44:01,365 INFO Client connection 192.168.137.1:52480#true disconnect, remove instances and subscribers
+
+2022-10-28 10:44:07,280 INFO Client connection 192.168.137.1:52480#true connect
+
+2022-10-28 10:44:16,861 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=3}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.15","dubbo":"2.0.2","pid":"30052","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","router":"-default,revisionRouter","protocol":"consumer","metadata-type":"remote","application":"wps-service","sticky":"false","category":"consumers","group":"common-service","timestamp":"1666925023641"},"lastHeartBeatTime":1666925025509,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:44:16,861 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=3}, 192.168.137.1:0#true
+
+2022-10-28 10:44:21,401 INFO Client connection 192.168.137.1:57390#true disconnect, remove instances and subscribers
+
+2022-10-28 10:44:21,401 INFO Client connection 192.168.137.1:57389#true disconnect, remove instances and subscribers
+
+2022-10-28 10:44:47,182 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 10:44:47,182 WARN namespace : public, [DEFAULT_GROUP@@algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 10:44:47,182 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service] services are automatically cleaned
+
+2022-10-28 10:44:47,182 WARN namespace : public, [DEFAULT_GROUP@@wps-service] services are automatically cleaned
+
+2022-10-28 10:44:47,182 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:] services are automatically cleaned
+
+2022-10-28 10:44:54,505 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=3}, 192.168.137.1:20880#true
+
+2022-10-28 10:44:54,524 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:44:59,443 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=5}, 192.168.137.1:8911#true
+
+2022-10-28 10:45:01,456 INFO Client connection 192.168.137.1:52480#true disconnect, remove instances and subscribers
+
+2022-10-28 10:45:26,492 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:45:26,492 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-28 10:45:31,497 INFO Client connection 192.168.137.1:8911#true disconnect, remove instances and subscribers
+
+2022-10-28 10:45:36,504 INFO Client connection 192.168.137.1:50082#true disconnect, remove instances and subscribers
+
+2022-10-28 10:45:36,504 INFO Client connection 192.168.137.1:50081#true disconnect, remove instances and subscribers
+
+2022-10-28 10:45:47,191 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 10:46:47,206 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service] services are automatically cleaned
+
+2022-10-28 10:46:47,206 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 10:46:47,206 WARN namespace : public, [DEFAULT_GROUP@@common-service] services are automatically cleaned
+
+2022-10-28 10:51:51,200 INFO Client connection 192.168.137.1:55590#true connect
+
+2022-10-28 10:51:52,367 INFO Client connection 192.168.137.1:8911#true connect
+
+2022-10-28 10:51:52,368 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=0}, 192.168.137.1:8911#true
+
+2022-10-28 10:51:54,388 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-28 10:51:54,388 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-28 10:51:54,392 INFO Client connection 192.168.137.1:55591#true connect
+
+2022-10-28 10:51:55,718 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=1}, 192.168.137.1:8911#true
+
+2022-10-28 10:52:24,383 INFO Client connection 192.168.137.1:51891#true connect
+
+2022-10-28 10:52:25,647 INFO Client connection 192.168.137.1:9989#true connect
+
+2022-10-28 10:52:25,647 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:9989#true
+
+2022-10-28 10:52:27,622 INFO Client connection 192.168.137.1:20881#true connect
+
+2022-10-28 10:52:27,622 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 10:52:27,627 INFO Client connection 192.168.137.1:58318#true connect
+
+2022-10-28 10:52:27,883 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 10:52:27,883 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:52:29,417 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 10:52:30,699 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:9989#true
+
+2022-10-28 10:53:01,813 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:53:01,828 INFO Client connection 192.168.137.1:58328#true connect
+
+2022-10-28 10:53:03,556 INFO Client connection 192.168.137.1:58327#true connect
+
+2022-10-28 10:53:03,607 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:53:03,913 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:53:10,358 INFO Client connection 192.168.137.1:8088#true connect
+
+2022-10-28 10:53:10,358 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=0}, 192.168.137.1:8088#true
+
+2022-10-28 10:53:10,434 INFO Client connection 192.168.137.1:20882#true connect
+
+2022-10-28 10:53:10,434 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service', ephemeral=true, revision=0}, 192.168.137.1:20882#true
+
+2022-10-28 10:53:11,727 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}, 192.168.137.1:8088#true
+
+2022-10-28 10:55:33,963 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service', ephemeral=true, revision=1}, 192.168.137.1:20882#true
+
+2022-10-28 10:55:33,965 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=2}, 192.168.137.1:0#true
+
+2022-10-28 10:55:33,966 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:55:33,967 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:55:38,225 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=3}, 192.168.137.1:0#true
+
+2022-10-28 10:55:38,890 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}, 192.168.137.1:8088#true
+
+2022-10-28 10:55:53,038 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 10:55:53,046 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 10:55:53,047 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=4}, 192.168.137.1:0#true
+
+2022-10-28 10:55:58,141 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=2}, 192.168.137.1:9989#true
+
+2022-10-28 10:56:07,416 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 10:56:07,435 INFO Client connection 192.168.137.1:57192#true connect
+
+2022-10-28 10:56:07,465 INFO Client connection 192.168.137.1:20882#true disconnect, remove instances and subscribers
+
+2022-10-28 10:56:07,515 INFO Client connection 192.168.137.1:57191#true connect
+
+2022-10-28 10:56:09,643 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=5}, 192.168.137.1:0#true
+
+2022-10-28 10:56:09,819 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 10:56:12,477 INFO Client connection 192.168.137.1:8088#true disconnect, remove instances and subscribers
+
+2022-10-28 10:56:17,490 INFO Client connection 192.168.137.1:58327#true disconnect, remove instances and subscribers
+
+2022-10-28 10:56:22,499 INFO Client connection 192.168.137.1:58328#true disconnect, remove instances and subscribers
+
+2022-10-28 10:56:27,504 INFO Client connection 192.168.137.1:20881#true disconnect, remove instances and subscribers
+
+2022-10-28 10:56:32,509 INFO Client connection 192.168.137.1:9989#true disconnect, remove instances and subscribers
+
+2022-10-28 10:56:32,509 INFO Client connection 192.168.137.1:51891#true disconnect, remove instances and subscribers
+
+2022-10-28 10:56:42,520 INFO Client connection 192.168.137.1:57192#true disconnect, remove instances and subscribers
+
+2022-10-28 10:56:42,520 INFO Client connection 192.168.137.1:57191#true disconnect, remove instances and subscribers
+
+2022-10-28 10:56:43,260 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=6}, ip: {"ip":"192.168.137.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.15","dubbo":"2.0.2","pid":"11388","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.137.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","router":"-default,revisionRouter","protocol":"consumer","metadata-type":"remote","application":"wps-service","sticky":"false","category":"consumers","group":"common-service","timestamp":"1666925767557"},"lastHeartBeatTime":1666925769643,"metadataId":"192.168.137.1:0:DEFAULT"}
+
+2022-10-28 10:56:43,260 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=6}, 192.168.137.1:0#true
+
+2022-10-28 10:56:47,304 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 10:56:47,304 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service] services are automatically cleaned
+
+2022-10-28 10:56:47,305 WARN namespace : public, [DEFAULT_GROUP@@wps-service] services are automatically cleaned
+
+2022-10-28 10:56:47,305 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService:1.0.0:] services are automatically cleaned
+
+2022-10-28 10:56:47,525 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 10:57:47,317 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 10:57:47,317 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService:2.0.0:] services are automatically cleaned
+
+2022-10-28 10:57:47,317 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 10:57:47,317 WARN namespace : public, [DEFAULT_GROUP@@algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 10:57:47,317 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:] services are automatically cleaned
+
+2022-10-28 11:02:25,966 INFO Client connection 192.168.137.1:61544#true connect
+
+2022-10-28 11:02:27,089 INFO Client connection 192.168.137.1:9989#true connect
+
+2022-10-28 11:02:27,089 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:9989#true
+
+2022-10-28 11:02:29,019 INFO Client connection 192.168.137.1:20881#true connect
+
+2022-10-28 11:02:29,019 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 11:02:29,024 INFO Client connection 192.168.137.1:61546#true connect
+
+2022-10-28 11:02:29,280 INFO Client connection 192.168.137.1:0#true connect
+
+2022-10-28 11:02:29,280 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 11:02:30,758 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 11:02:32,078 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:20881#true
+
+2022-10-28 11:02:33,106 INFO Client connection 192.168.137.1:58318#true disconnect, remove instances and subscribers
+
+2022-10-28 11:02:33,364 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:9989#true
+
+2022-10-28 11:03:06,467 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 11:03:06,483 INFO Client connection 192.168.137.1:59273#true connect
+
+2022-10-28 11:03:08,205 INFO Client connection 192.168.137.1:51291#true connect
+
+2022-10-28 11:03:08,256 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 11:03:08,561 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:0#true
+
+2022-10-28 11:03:14,961 INFO Client connection 192.168.137.1:8088#true connect
+
+2022-10-28 11:03:14,961 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=0}, 192.168.137.1:8088#true
+
+2022-10-28 11:03:15,039 INFO Client connection 192.168.137.1:20882#true connect
+
+2022-10-28 11:03:15,039 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service', ephemeral=true, revision=0}, 192.168.137.1:20882#true
+
+2022-10-28 11:03:16,300 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}, 192.168.137.1:8088#true
+
+2022-10-28 11:09:24,424 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-28 11:09:24,481 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 11:09:24,486 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 11:09:24,494 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:20881#true
+
+2022-10-28 11:09:24,495 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=2}, 192.168.137.1:0#true
+
+2022-10-28 11:09:24,533 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 11:09:24,534 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service', ephemeral=true, revision=1}, 192.168.137.1:20882#true
+
+2022-10-28 11:09:24,535 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service', ephemeral=true, revision=3}, 192.168.137.1:0#true
+
+2022-10-28 11:09:24,537 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:0#true
+
+2022-10-28 11:09:29,542 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}, 192.168.137.1:8088#true
+
+2022-10-28 11:09:33,656 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=2}, 192.168.137.1:9989#true
+
+2022-10-28 11:09:37,798 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=2}, 192.168.137.1:8911#true
+
+2022-10-28 11:09:58,780 INFO Client connection 192.168.137.1:0#true disconnect, remove instances and subscribers
+
+2022-10-28 11:09:58,780 INFO Client connection 192.168.137.1:20881#true disconnect, remove instances and subscribers
+
+2022-10-28 11:09:58,780 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-28 11:09:58,780 INFO Client connection 192.168.137.1:20882#true disconnect, remove instances and subscribers
+
+2022-10-28 11:10:03,783 INFO Client connection 192.168.137.1:9989#true disconnect, remove instances and subscribers
+
+2022-10-28 11:10:03,783 INFO Client connection 192.168.137.1:51291#true disconnect, remove instances and subscribers
+
+2022-10-28 11:10:03,783 INFO Client connection 192.168.137.1:8088#true disconnect, remove instances and subscribers
+
+2022-10-28 11:10:08,788 INFO Client connection 192.168.137.1:61544#true disconnect, remove instances and subscribers
+
+2022-10-28 11:10:08,788 INFO Client connection 192.168.137.1:59273#true disconnect, remove instances and subscribers
+
+2022-10-28 11:10:08,788 INFO Client connection 192.168.137.1:8911#true disconnect, remove instances and subscribers
+
+2022-10-28 11:10:13,800 INFO Client connection 192.168.137.1:61546#true disconnect, remove instances and subscribers
+
+2022-10-28 11:10:13,800 INFO Client connection 192.168.137.1:55591#true disconnect, remove instances and subscribers
+
+2022-10-28 11:10:13,800 INFO Client connection 192.168.137.1:55590#true disconnect, remove instances and subscribers
+
+2022-10-28 11:10:47,428 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 11:10:47,428 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.example.commonstpam.service.IAlgorithmService:2.0.0:] services are automatically cleaned
+
+2022-10-28 11:10:47,428 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 11:10:47,428 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 11:10:47,428 WARN namespace : public, [DEFAULT_GROUP@@algorithm-dubboService] services are automatically cleaned
+
+2022-10-28 11:10:47,428 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service] services are automatically cleaned
+
+2022-10-28 11:10:47,428 WARN namespace : public, [DEFAULT_GROUP@@wps-service] services are automatically cleaned
+
+2022-10-28 11:10:47,428 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:] services are automatically cleaned
+
+2022-10-28 11:10:47,428 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service] services are automatically cleaned
+
+2022-10-28 11:10:47,428 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:] services are automatically cleaned
+
+2022-10-28 11:10:47,428 WARN namespace : public, [DEFAULT_GROUP@@common-service] services are automatically cleaned
+
+2022-10-28 14:40:02,774 INFO Client connection 192.168.137.1:9000#true disconnect, remove instances and subscribers
+
+2022-10-28 14:40:03,008 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=24}, ip: {"ip":"192.168.137.1","port":9000,"healthy":false,"cluster":"default","extendDatum":{"customInstanceId":"192.168.137.1#9000#default#SEATA_GROUP@@seata-server"},"lastHeartBeatTime":1666928069530,"metadataId":"192.168.137.1:9000:default"}
+
+2022-10-28 14:40:03,008 INFO Client remove for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=24}, 192.168.137.1:9000#true
+
+2022-10-28 14:40:05,530 INFO Client connection 192.168.137.1:9000#true connect
+
+2022-10-28 14:40:05,542 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=25}, 192.168.137.1:9000#true
+
+2022-10-28 17:53:50,231 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=26}, ip: {"ip":"192.168.137.1","port":9000,"healthy":false,"cluster":"default","extendDatum":{"customInstanceId":"192.168.137.1#9000#default#SEATA_GROUP@@seata-server"},"lastHeartBeatTime":1666948508672,"metadataId":"192.168.137.1:9000:default"}
+
+2022-10-28 17:53:50,231 INFO Client remove for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=26}, 192.168.137.1:9000#true
+
+2022-10-28 17:53:52,071 INFO Client connection 192.168.137.1:9000#true disconnect, remove instances and subscribers
+
+2022-10-28 17:53:53,344 INFO Client connection 192.168.137.1:9000#true connect
+
+2022-10-28 17:53:53,346 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=27}, 192.168.137.1:9000#true
+

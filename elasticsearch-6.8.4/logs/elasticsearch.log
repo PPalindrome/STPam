@@ -1,0 +1,11 @@
+[2022-10-31T08:37:40,867][INFO ][o.e.x.m.MlDailyMaintenanceService] [ZugYGct] triggering scheduled [ML] maintenance tasks
+[2022-10-31T08:37:41,080][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [ZugYGct] Deleting expired data
+[2022-10-31T08:37:42,381][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [ZugYGct] Completed deletion of expired ML data
+[2022-10-31T08:37:43,546][INFO ][o.e.x.m.MlDailyMaintenanceService] [ZugYGct] Successfully completed [ML] maintenance tasks
+[2022-10-31T16:05:06,822][INFO ][o.e.x.m.p.NativeController] [ZugYGct] Native controller process has stopped - no new native processes can be started
+[2022-10-31T16:05:06,978][INFO ][o.e.b.Bootstrap          ] [ZugYGct] running graceful exit on windows
+[2022-10-31T16:05:06,985][INFO ][o.e.n.Node               ] [ZugYGct] stopping ...
+[2022-10-31T16:05:07,096][INFO ][o.e.x.w.WatcherService   ] [ZugYGct] stopping watch service, reason [shutdown initiated]
+[2022-10-31T16:05:07,831][INFO ][o.e.n.Node               ] [ZugYGct] stopped
+[2022-10-31T16:05:07,831][INFO ][o.e.n.Node               ] [ZugYGct] closing ...
+[2022-10-31T16:05:07,894][INFO ][o.e.n.Node               ] [ZugYGct] closed

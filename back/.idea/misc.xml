@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/generator/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="602" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/server/src/main/java/com/example/server/controller/admin/EncryptController.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="887" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/stpam后端开发文档.md" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1362" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/server/src/main/java/com/example/server/controller/admin/LoginController.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="729" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/server/src/main/java/com/example/server/controller/dataset/DataOperateController.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="885" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/server/src/main/java/com/example/server/controller/dataset/DatasetController.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="213" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/server/src/main/java/com/example/server/mapper/DatasetMapper.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="667" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/server/src/main/resources/mapper/DatasetMapper.xml" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="281" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/server/src/main/java/com/example/server/service/IDatasetService.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="460" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/server/src/main/java/com/example/server/service/impl/DatasetServiceImpl.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="611" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/server/src/main/java/com/example/server/pojo/Dataset.java" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>

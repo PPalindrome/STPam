@@ -1,0 +1,32 @@
+
+## 数据库用户名密码
+server:
+  port: 8099
+spring:
+  main:
+    allow-circular-references: true
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+    loadbalancer:
+      enabled: true # 默认开启loadbalancer
+      nacos:
+        enabled: true # 手动开启nacos负载均衡
+
+  application:
+    name: service-test
+
+dubbo:
+  registry:
+    address: nacos://localhost:8848 # 注册中心
+  cloud:
+    subscribed-services: wpsDubbo-service # 订阅的提供者名称
+
+  scan:
+    base-packages: com.example.wpsdubboservice.service.impl   # 开启包扫描
+  protocols:
+    dubbo:
+      name: dubbo # 服务协议
+      port: -1 # 服务端口

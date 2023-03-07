@@ -4,15 +4,14 @@
 
 
 
-## 介绍
+## What is this repository for?
 
-这是一个基于多源大数据的时空过程智能分析挖掘软件
+STPam is an efficient software for intelligent analyzing and mining spatiotemporal processes based on multi-source big data
 
-An efficient software for intelligent analyzing and mining spatiotemporal processes based on multi-source big data
+Front-end：Vue，Axios，ElementPlus
 
-前端：Vue，Axios，ElementPlus
+Back-end：SpringCloud, SpringBoot, SpringSecurity
 
-后台：SpringCloud, SpringBoot, SpringSecurity
 
 ## Quick Start
 
@@ -72,13 +71,28 @@ npm run dev
 
 ![image](https://user-images.githubusercontent.com/90181056/222649894-e7bead7b-222a-43fb-bc6f-4bebb163e94d.png)
 
-## 下载源码使用
 
-1.准备3个及以上的GPU工作节点
+## Installation
 
-2.配置HDFS
+### Compatibility
 
-3.环境配置（JDK必须为1.8，其他环境可以选择更高版本）
+STPam can run on browsers below. If you really need to support outdated browsers, please add [Babel](https://babeljs.io/) and Polyfill yourself.
+
+Since Vue 3 no longer supports IE11, Element Plus does not support IE either.
+
+Edge≥79；Chrome≥64；Firefox≥78
+
+### Version
+
+1.0.0
+
+### Usage
+
+(1) Prepare 3 or more GPU working nodes
+
+(2) Configure HDFS
+
+(3) Environment configuration (JDK must be 1.8, other environments can choose a higher version)
 
 | Function                 | Name                  |    Version    |
 | ------------------------ | --------------------- | :-----------: |
@@ -89,34 +103,37 @@ npm run dev
 | Virtual  Environment     | Anaconda              |       3       |
 | GPU  Parallel Computing  | Cuda                  |     11.3      |
 
-4.将源码部署到服务器上
+(4) Deploy the source code to the server
 
-5.下载并启动nacos、sentinel、zipkin、seata（“启动命令”）
+(5) Download and start nacos, sentinel, zipkin, seata ("Start Command")
 
-6.依照服务器地址访问：http://服务器地址:8070/
+(6) Follow the server ip to visit: http://YourServerIP:8070/
 
-7.首先进入游客页面，以管理员身份登录后可使用全部功能
+(7) First enter the visitor page, log in as an user or administrator and then you can use all of the functions.
 
-## 功能清单
 
-- 登录注册
-- 基于jwt+SpringSecurity的安全认证和授权
-- 多源大数据上传、查看、分析、下载
-- 动态配置和切换数据库和HDFS
-- 深度学习模型上传
-- 模型在线编辑
-- 深度学习模型发布为Web服务
-- 使用深度学习模型服务
-- 分布式计算框架集成与管理
-- 基于Ring All-Reduce的GPU通信方式
-- GPU监控
-- 时空过程分布式分析挖掘
-- 时空过程产品展示
-- 时空过程产品分析
-- 用户管理
+## Function List
 
-## 软件功能仍在不断修改完善中
+- Login & Registration
+- User Management
+- Secure authentication and authorization based on JWT & SpringSecurity
+- Multisource big data upload, view, analysis and download
+- Dynamic configuration and switching of database and HDFS
+- Deep learning models uploading
+- Online edit
+- Deep learning model publishing as a web service
+- Apply deep learning model services
+- Distributed computing framework integration and management
+- Ring All-Reduce Based GPU Communication Approach
+- GPU Monitoring
+- Spatiotemporal Process Distributed Analysis Mining
+- Spatiotemporal Process Product Showcase
+- Spatiotemporal Process Product Analysis
 
-## 联系我们
+
+## Software functions are still being revised and improved
+
+
+## Contact us
 
 E-mail: phw1220@cug.edu.cn

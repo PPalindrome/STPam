@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="61497933-390f-4f6a-9292-b07e0017e26a" name="实验室" url="http://http://47.92.157.59:8070/">
+        <fileTransfer rootFolder="/mnt/data/stpam" accessType="SFTP" host="172.27.74.212" port="22" sshConfigId="11d222f3-0ca3-4ff4-b853-9edb569a8bef" sshConfig="gisking@172.27.74.212:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

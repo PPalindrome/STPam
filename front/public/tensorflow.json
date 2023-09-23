@@ -1,0 +1,70 @@
+#####TensorFlow示例
+#####更多分布式要求参考https://tensorflow.google.cn/guide/distributed_training?hl=zh-cn
+
+import tensorflow as tf
+import numpy as np
+
+"""1、加载数据及定义超参数"""
+"""使用模拟数据"""
+# np.linspace用于生成等差数列，上述代码表示在[-1,1]之间生成300个数据，形成等差数列关系。
+x_data = np.linspace(-1,1,300)
+# 将x_data转换为二维数组，newaxis表示在当前位置增加一个维度，在这里也就是增加列
+x_data = x_data[:, np.newaxis]
+# 加入一些噪声点
+noise = np.random.normal(0, 0.05, x_data.shape)
+# 根据公式模拟y值
+y_true = np.square(x_data)-0.5 + noise
+
+def add_layer(input, in_size, out_size, activation_function=None):
+"""
+参数1:输入数据
+参数2:输入数据维度
+参数3:输出数据维度
+参数4:激活函数
+"""
+# 构建权重
+w = tf.Variable(tf.random.normal([in_size, out_size]))
+# 构建偏置
+b = tf.Variable(tf.random.normal([1, out_size]) + 0.1)
+# 矩阵相乘
+y_predict = tf.matmul(input, w) + b
+
+if activation_function is None:
+outputs = y_predict
+else:
+outputs = activation_function(y_predict)
+return outputs
+
+
+def main():
+# 定义训练数据的占位符
+xs = tf.placeholder(tf.float32, [None, 1])
+ys = tf.placeholder(tf.float32, [None, 1])
+
+"""2、构建网络"""
+# 构建神经网络，输入层、1个隐层、输出层
+# 假设输入层有1个神经元、隐层有20个神经元、输出层有1个神经元
+h1 = add_layer(xs, 1, 20, activation_function=tf.nn.relu)  # 隐层
+prediction = add_layer(h1, 20, 1, activation_function=None)  # 输出层
+
+# 损失函数
+# reduction_indices[1]：按行求和, reduction_indices[0]：按列求和
+var = tf.reduce_sum(tf.square(ys - prediction), reduction_indices=[1])
+loss = tf.reduce_mean(var)
+
+# 梯度下降
+train_step = tf.train.GradientDescentOptimizer(0.1).minimize(loss)
+
+"""3、训练模型"""
+init = tf.global_variables_initializer()  # 初始化所有变量
+sess = tf.Session()
+sess.run(init)
+
+for i in range(1000):
+sess.run(train_step, feed_dict={xs: x_data, ys: y_true})
+if i % 50 == 0:
+"""4、评估模型和进行预测"""
+print("loss:", sess.run(loss, feed_dict={xs: x_data, ys: y_true}))
+
+if __name__ == '__main__':
+main()

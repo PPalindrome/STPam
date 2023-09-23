@@ -1,0 +1,41 @@
+----------- Configuration Arguments -----------
+backend: auto
+cluster_ topo_ path: None
+elastic_ pre_ hook: None
+elastic_ server: None
+enable_ _auto_ mapping: False
+force: False
+gpus: 0,1
+heter_ devices:
+heter_ worker_ num: None
+heter_ workers:
+host: None
+http_ port: None
+ips: 127.0.0.1
+job_ id: None
+log_ dir: log
+np: None
+nproc_ per_ node: None
+rank_ mapping_ path: None
+run_ mode: None
+scale: 0
+server_ num: None
+servers:
+training_ script:DA-RNN
+/mnt/data/stpam/back/server/src/main/resources/files/models/DA-RNN-master/s
+rc/main.py
+raph.py
+training_ script. _args: 0]
+worker_ num: None
+workers:
+--------------------------------------------------
+
+2002-08-12 16:50:13
+MemoryInfo：987.8M/48685.4M，使用率:2.0%
+Temperature：62摄氏度
+Performance：2
+PowerState：2
+PowerUsage：2
+FanSpeed：
+PersistenceMode：
+UtilizationRates：

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.server.mapper.ModelMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.example.server.pojo.Model">
+        <id column="mid" property="mid" />
+        <result column="filename" property="filename" />
+        <result column="mname" property="mname" />
+        <result column="version" property="version" />
+        <result column="author" property="author" />
+        <result column="date" property="date" />
+        <result column="command" property="command" />
+        <result column="outpath" property="outpath" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        mid,filename, mname, version,author,date,command,outpath
+    </sql>
+
+</mapper>

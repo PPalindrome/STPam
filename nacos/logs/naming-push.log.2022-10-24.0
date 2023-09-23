@@ -1,0 +1,182 @@
+2022-10-24 17:34:22,733 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-24 17:34:22,733 INFO DEFAULT_GROUP@@common-service is changed, add it to push queue.
+
+2022-10-24 17:34:22,752 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service changed, schedule push for: 192.168.137.1:63783, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,63783,290928348522500
+
+2022-10-24 17:34:22,752 INFO serviceName: DEFAULT_GROUP@@common-service@@DEFAULT changed, schedule push for: 192.168.137.1:63783, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,63783,290928349460800
+
+2022-10-24 17:34:22,753 INFO send udp packet: 192.168.137.1,63783,290928348522500
+
+2022-10-24 17:34:22,755 INFO send udp packet: 192.168.137.1,63783,290928349460800
+
+2022-10-24 17:34:22,760 INFO [PUSH-SUCC] 28ms, all delay time 588ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-24 17:34:22,773 INFO [PUSH-SUCC] 41ms, all delay time 649ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-24 17:34:23,829 INFO DEFAULT_GROUP@@common-service is changed, add it to push queue.
+
+2022-10-24 17:34:23,831 INFO serviceName: DEFAULT_GROUP@@common-service@@DEFAULT changed, schedule push for: 192.168.137.1:63783, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,63783,290929442326000
+
+2022-10-24 17:34:23,831 INFO send udp packet: 192.168.137.1,63783,290929442326000
+
+2022-10-24 17:34:23,848 INFO [PUSH-SUCC] 19ms, all delay time 555ms, SLA 555ms, Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-24 17:34:33,119 INFO DEFAULT_GROUP@@common-service is changed, add it to push queue.
+
+2022-10-24 17:34:33,119 INFO serviceName: DEFAULT_GROUP@@common-service@@DEFAULT changed, schedule push for: 192.168.137.1:63783, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,63783,290938732014900
+
+2022-10-24 17:34:33,119 INFO send udp packet: 192.168.137.1,63783,290938732014900
+
+2022-10-24 17:34:33,122 INFO [PUSH-SUCC] 3ms, all delay time 584ms, SLA 584ms, Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=2}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2022-10-24 17:40:12,727 INFO DEFAULT_GROUP@@common-service is changed, add it to push queue.
+
+2022-10-24 17:40:12,727 INFO serviceName: DEFAULT_GROUP@@common-service@@DEFAULT changed, schedule push for: 192.168.137.1:57714, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,57714,291278339967500
+
+2022-10-24 17:40:12,727 INFO send udp packet: 192.168.137.1,57714,291278339967500
+
+2022-10-24 17:40:12,731 INFO [PUSH-SUCC] 4ms, all delay time 613ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-24 17:40:13,829 INFO DEFAULT_GROUP@@common-service is changed, add it to push queue.
+
+2022-10-24 17:40:13,831 INFO serviceName: DEFAULT_GROUP@@common-service@@DEFAULT changed, schedule push for: 192.168.137.1:57714, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,57714,291279442155600
+
+2022-10-24 17:40:13,831 INFO send udp packet: 192.168.137.1,57714,291279442155600
+
+2022-10-24 17:40:13,843 INFO [PUSH-SUCC] 14ms, all delay time 578ms, SLA 578ms, Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-24 17:40:19,755 INFO DEFAULT_GROUP@@common-service is changed, add it to push queue.
+
+2022-10-24 17:40:19,757 INFO serviceName: DEFAULT_GROUP@@common-service@@DEFAULT changed, schedule push for: 192.168.137.1:57714, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,57714,291285368219800
+
+2022-10-24 17:40:19,757 INFO send udp packet: 192.168.137.1,57714,291285368219800
+
+2022-10-24 17:40:19,764 INFO [PUSH-SUCC] 9ms, all delay time 609ms, SLA 609ms, Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=2}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-24 17:41:11,332 INFO DEFAULT_GROUP@@common-service is changed, add it to push queue.
+
+2022-10-24 17:41:11,332 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-24 17:41:11,332 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service@@DEFAULT changed, schedule push for: 192.168.137.1:59162, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,59162,291336945688800
+
+2022-10-24 17:41:11,332 INFO send udp packet: 192.168.137.1,59162,291336945688800
+
+2022-10-24 17:41:11,333 INFO serviceName: DEFAULT_GROUP@@common-service changed, schedule push for: 192.168.137.1:59162, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,59162,291336945664400
+
+2022-10-24 17:41:11,334 INFO send udp packet: 192.168.137.1,59162,291336945664400
+
+2022-10-24 17:41:11,337 INFO [PUSH-SUCC] 5ms, all delay time 587ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2022-10-24 17:41:11,340 INFO [PUSH-SUCC] 8ms, all delay time 575ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=2}, originalSize=1, DataSize=1
+
+2022-10-24 17:41:12,155 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=1}
+
+2022-10-24 17:41:12,434 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-24 17:41:12,434 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service changed, schedule push for: 192.168.137.1:57714, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,57714,291338047387800
+
+2022-10-24 17:41:12,434 INFO send udp packet: 192.168.137.1,57714,291338047387800
+
+2022-10-24 17:41:12,434 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-24 17:41:12,436 INFO [PUSH-SUCC] 2ms, all delay time 511ms, SLA 511ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-24 17:41:12,437 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service@@DEFAULT changed, schedule push for: 192.168.137.1:59162, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,59162,291338048404200
+
+2022-10-24 17:41:12,437 INFO send udp packet: 192.168.137.1,59162,291338048404200
+
+2022-10-24 17:41:12,441 INFO [PUSH-SUCC] 7ms, all delay time 516ms, SLA 516ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-24 17:41:19,663 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-24 17:41:19,664 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service changed, schedule push for: 192.168.137.1:57714, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,57714,291345276696000
+
+2022-10-24 17:41:19,664 INFO send udp packet: 192.168.137.1,57714,291345276696000
+
+2022-10-24 17:41:19,664 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-24 17:41:19,665 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service@@DEFAULT changed, schedule push for: 192.168.137.1:59162, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,59162,291345278019700
+
+2022-10-24 17:41:19,665 INFO send udp packet: 192.168.137.1,59162,291345278019700
+
+2022-10-24 17:41:19,667 INFO [PUSH-SUCC] 4ms, all delay time 524ms, SLA 524ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=2}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2022-10-24 17:41:19,668 INFO [PUSH-SUCC] 4ms, all delay time 525ms, SLA 525ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=2}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2022-10-24 18:34:31,645 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-24 18:34:31,791 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service changed, schedule push for: 192.168.137.1:57714, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,57714,294542244535000
+
+2022-10-24 18:34:31,645 INFO DEFAULT_GROUP@@common-service is changed, add it to push queue.
+
+2022-10-24 18:34:31,791 INFO send udp packet: 192.168.137.1,57714,294542244535000
+
+2022-10-24 18:34:31,794 INFO serviceName: DEFAULT_GROUP@@common-service@@DEFAULT changed, schedule push for: 192.168.137.1:57714, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,57714,294542245304100
+
+2022-10-24 18:34:31,794 ERROR [PUSH-FAIL] 149ms, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=0}, reason=Network is unreachable: Datagram send failed, target=192.168.137.1
+
+2022-10-24 18:34:31,794 ERROR Reason detail: 
+
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:132)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.doSend(UdpConnector.java:104)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.access$300(UdpConnector.java:45)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector$UdpAsyncSender.run(UdpConnector.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2022-10-24 18:34:31,796 INFO send udp packet: 192.168.137.1,57714,294542245304100
+
+2022-10-24 18:34:31,806 ERROR [PUSH-FAIL] 161ms, Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=2}, reason=Network is unreachable: Datagram send failed, target=192.168.137.1
+
+2022-10-24 18:34:31,806 ERROR Reason detail: 
+
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:132)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.doSend(UdpConnector.java:104)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector.access$300(UdpConnector.java:45)
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector$UdpAsyncSender.run(UdpConnector.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2022-10-24 18:34:31,904 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=3}
+
+2022-10-24 18:34:32,007 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=4}
+
+2022-10-24 18:34:32,414 INFO DEFAULT_GROUP@@common-service is changed, add it to push queue.
+
+2022-10-24 18:34:32,415 INFO serviceName: DEFAULT_GROUP@@common-service@@DEFAULT changed, schedule push for: 192.168.137.1:57714, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,57714,294542868971700
+
+2022-10-24 18:34:32,416 INFO send udp packet: 192.168.137.1,57714,294542868971700
+
+2022-10-24 18:34:32,810 INFO DEFAULT_GROUP@@wpsDubbo-service is changed, add it to push queue.
+
+2022-10-24 18:34:32,814 INFO serviceName: DEFAULT_GROUP@@wpsDubbo-service changed, schedule push for: 192.168.137.1:57714, agent: Nacos-Java-Client:v1.4.2, key: 192.168.137.1,57714,294543266187500
+
+2022-10-24 18:34:32,814 INFO send udp packet: 192.168.137.1,57714,294543266187500
+
+2022-10-24 18:34:47,403 INFO retry to push data, key: 192.168.137.1,57714,294542868971700
+
+2022-10-24 18:34:47,404 INFO retry to push data, key: 192.168.137.1,57714,294543266187500
+
+2022-10-24 18:34:47,405 WARN ack takes too long from /192.168.137.1:57714 ack json: {"type": "push-ack", "lastRefTime":"294542868971700", "data":""}
+
+2022-10-24 18:34:47,405 INFO [PUSH-SUCC] 14991ms, all delay time 15599ms, SLA 15401ms, Service{namespace='public', group='DEFAULT_GROUP', name='common-service', ephemeral=true, revision=4}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2022-10-24 18:34:47,406 WARN ack takes too long from /192.168.137.1:57714 ack json: {"type": "push-ack", "lastRefTime":"294543266187500", "data":""}
+
+2022-10-24 18:34:47,406 INFO [PUSH-SUCC] 14596ms, all delay time 15612ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='wpsDubbo-service', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+

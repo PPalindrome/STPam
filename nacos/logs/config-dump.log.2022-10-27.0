@@ -1,0 +1,38 @@
+2022-10-27 16:40:21,010 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 16:41:39,869 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 16:43:28,669 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 16:44:51,502 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 16:48:38,310 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 16:49:10,415 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 16:51:26,638 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 16:59:38,090 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 17:10:57,038 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 17:16:47,495 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 17:20:56,538 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 17:22:33,716 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 17:23:55,050 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 17:26:02,128 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 17:26:40,685 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 22:12:02,845 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 22:12:04,147 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 22:16:22,150 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.ProductService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-27 22:16:23,470 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo++false+null
+

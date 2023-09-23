@@ -1,0 +1,142 @@
+2022-10-28 09:44:28,903 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 09:54:02,646 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 09:54:02,901 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:00:00,414 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:00:01,749 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:00:01,755 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:00:07,559 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:03:10,537 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:03:10,551 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:03:16,567 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:07:39,630 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:provider:common-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:provider:common-service+dubbo++false+null
+
+2022-10-28 10:09:18,462 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:09:18,701 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:13:56,425 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:13:56,652 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:14:29,454 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:14:29,618 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:16:58,767 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:16:58,934 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:17:07,544 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:17:08,871 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:18:35,761 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:18:35,922 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:19:46,830 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:19:46,995 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:21:52,035 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:21:52,199 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:23:13,809 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:23:15,136 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:23:15,143 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:27:24,468 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:27:26,145 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:27:27,817 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:34:37,300 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:35:34,315 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:36:05,358 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:36:06,726 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:36:46,585 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:consumer:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:36:46,998 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:38:16,394 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:consumer:common-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:consumer:common-service+dubbo++false+null
+
+2022-10-28 10:38:17,724 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:provider:common-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:provider:common-service+dubbo++false+null
+
+2022-10-28 10:38:39,816 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:38:40,117 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:consumer:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:38:40,196 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:41:30,245 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:41:30,543 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:consumer:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:41:30,636 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:41:39,096 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service:provider:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service:provider:wps-service+dubbo++false+null
+
+2022-10-28 10:42:42,350 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service:consumer:common-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service:consumer:common-service+dubbo++false+null
+
+2022-10-28 10:42:43,784 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:provider:common-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:provider:common-service+dubbo++false+null
+
+2022-10-28 10:43:45,533 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:43:45,716 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:51:55,729 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:provider:common-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:provider:common-service+dubbo++false+null
+
+2022-10-28 10:52:27,918 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:52:29,384 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:52:30,697 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 10:53:03,827 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:53:04,115 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:consumer:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:53:04,199 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:53:11,732 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service:provider:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service:provider:wps-service+dubbo++false+null
+
+2022-10-28 10:56:09,668 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:56:09,817 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:2.0.0::consumer:wps-service+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:2.0.0::consumer:wps-service+dubbo++false+null
+
+2022-10-28 10:56:12,985 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:2.0.0::consumer:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:2.0.0::consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 11:02:29,320 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 11:02:30,742 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:1.0.0::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 11:02:32,056 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:2.0.0::provider:algorithm-dubboService+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:2.0.0::provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 11:02:33,363 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:provider:algorithm-dubboService+dubbo++false+null
+
+2022-10-28 11:03:08,476 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:common-service:consumer:wps-service+dubbo++false+null
+
+2022-10-28 11:03:08,766 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:consumer:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService:consumer:wps-service+dubbo++false+null
+
+2022-10-28 11:03:08,848 INFO [dump-task] add task. groupKey=com.example.commonstpam.service.IAlgorithmService:2.0.0::consumer:wps-service+dubbo, taskKey=com.example.commonstpam.service.IAlgorithmService:2.0.0::consumer:wps-service+dubbo++false+null
+
+2022-10-28 11:03:16,305 INFO [dump-task] add task. groupKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service:provider:wps-service+dubbo, taskKey=com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:wps-service:provider:wps-service+dubbo++false+null
+

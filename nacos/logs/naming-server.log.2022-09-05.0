@@ -1,0 +1,400 @@
+2022-09-05 03:01:19,408 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:21,417 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:23,427 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:25,437 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:27,449 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:29,459 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:31,469 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:33,479 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:35,489 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:37,499 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:39,509 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:41,519 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:43,530 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:45,541 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 03:01:47,551 ERROR local ip is not in serverlist, ip: 172.27.187.122:8848, serverlist: [Member{ip='172.27.187.122', port=8848, state=UP, extendInfo={lastRefreshTime=1662259861794, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@60a35632, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-09-05 20:02:55,520 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2022-09-05 20:02:55,520 WARN Using naming.distro config to replace core.distro config
+
+2022-09-05 20:02:55,620 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-09-05 20:02:55,620 INFO listen for service meta change
+
+2022-09-05 20:02:55,627 INFO upgrade.state file is not exist
+
+2022-09-05 20:02:58,843 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2022-09-05 20:02:58,843 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2022-09-05 20:02:58,844 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2022-09-05 20:02:58,844 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2022-09-05 20:03:00,041 INFO Load instance extension handler []
+
+2022-09-05 20:05:44,941 INFO Client connection 172.27.187.122:57657#true connect
+
+2022-09-05 20:05:45,110 INFO Client connection 172.27.29.94:8081#true connect
+
+2022-09-05 20:05:45,111 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=0}, 172.27.29.94:8081#true
+
+2022-09-05 20:05:51,228 INFO Client connection 172.27.187.122:65020#true connect
+
+2022-09-05 20:05:51,375 INFO Client connection 172.27.29.94:8082#true connect
+
+2022-09-05 20:05:51,375 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}, 172.27.29.94:8082#true
+
+2022-09-05 20:05:54,588 INFO Client connection 172.27.187.122:60319#true connect
+
+2022-09-05 20:05:54,652 INFO Client connection 172.27.29.94:8089#true connect
+
+2022-09-05 20:05:54,652 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=0}, 172.27.29.94:8089#true
+
+2022-09-05 20:05:55,639 INFO Client connection 172.27.187.122:60320#true connect
+
+2022-09-05 20:05:55,715 INFO Client connection 172.27.29.94:8088#true connect
+
+2022-09-05 20:05:55,715 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}, 172.27.29.94:8088#true
+
+2022-09-05 20:06:41,055 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}, 172.27.29.94:8089#true
+
+2022-09-05 20:06:41,079 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=3}, 172.27.29.94:8088#true
+
+2022-09-05 20:06:56,962 INFO Client connection 172.27.187.122:63570#true connect
+
+2022-09-05 20:06:57,011 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=4}, 172.27.29.94:8089#true
+
+2022-09-05 20:06:58,065 INFO Client connection 172.27.187.122:63571#true connect
+
+2022-09-05 20:06:58,117 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=5}, 172.27.29.94:8088#true
+
+2022-09-05 20:07:17,771 INFO Client connection 172.27.187.122:60319#true disconnect, remove instances and subscribers
+
+2022-09-05 20:07:17,771 INFO Client connection 172.27.187.122:60320#true disconnect, remove instances and subscribers
+
+2022-09-05 20:12:26,981 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=6}, 172.27.29.94:8089#true
+
+2022-09-05 20:12:27,005 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=7}, 172.27.29.94:8088#true
+
+2022-09-05 20:12:41,952 INFO Client connection 172.27.187.122:63587#true connect
+
+2022-09-05 20:12:42,017 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=8}, 172.27.29.94:8089#true
+
+2022-09-05 20:12:45,014 INFO Client connection 172.27.187.122:52926#true connect
+
+2022-09-05 20:12:45,066 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=9}, 172.27.29.94:8088#true
+
+2022-09-05 20:13:03,306 INFO Client connection 172.27.187.122:63571#true disconnect, remove instances and subscribers
+
+2022-09-05 20:13:03,306 INFO Client connection 172.27.187.122:63570#true disconnect, remove instances and subscribers
+
+2022-09-05 20:14:45,365 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, 172.27.29.94:8089#true
+
+2022-09-05 20:14:45,415 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=11}, 172.27.29.94:8088#true
+
+2022-09-05 20:15:02,607 INFO Client connection 172.27.187.122:62793#true connect
+
+2022-09-05 20:15:02,657 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=12}, 172.27.29.94:8089#true
+
+2022-09-05 20:15:03,485 INFO Client connection 172.27.187.122:62794#true connect
+
+2022-09-05 20:15:03,556 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=13}, 172.27.29.94:8088#true
+
+2022-09-05 20:15:13,530 INFO Client connection 172.27.187.122:63587#true disconnect, remove instances and subscribers
+
+2022-09-05 20:15:18,542 INFO Client connection 172.27.187.122:52926#true disconnect, remove instances and subscribers
+
+2022-09-05 20:15:35,438 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, 172.27.29.94:8089#true
+
+2022-09-05 20:15:35,474 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=15}, 172.27.29.94:8088#true
+
+2022-09-05 20:15:53,802 INFO Client connection 172.27.187.122:61302#true connect
+
+2022-09-05 20:15:53,853 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=16}, 172.27.29.94:8089#true
+
+2022-09-05 20:15:54,682 INFO Client connection 172.27.187.122:61303#true connect
+
+2022-09-05 20:15:54,750 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=17}, 172.27.29.94:8088#true
+
+2022-09-05 20:16:08,625 INFO Client connection 172.27.187.122:62793#true disconnect, remove instances and subscribers
+
+2022-09-05 20:16:08,625 INFO Client connection 172.27.187.122:62794#true disconnect, remove instances and subscribers
+
+2022-09-05 20:32:02,119 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, 172.27.29.94:8089#true
+
+2022-09-05 20:32:02,156 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=19}, 172.27.29.94:8088#true
+
+2022-09-05 20:32:18,934 INFO Client connection 172.27.187.122:62574#true connect
+
+2022-09-05 20:32:18,997 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=20}, 172.27.29.94:8089#true
+
+2022-09-05 20:32:22,318 INFO Client connection 172.27.187.122:62575#true connect
+
+2022-09-05 20:32:22,369 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=21}, 172.27.29.94:8088#true
+
+2022-09-05 20:32:40,175 INFO Client connection 172.27.187.122:61303#true disconnect, remove instances and subscribers
+
+2022-09-05 20:32:40,175 INFO Client connection 172.27.187.122:61302#true disconnect, remove instances and subscribers
+
+2022-09-05 20:37:57,147 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, 172.27.29.94:8088#true
+
+2022-09-05 20:38:12,501 INFO Client connection 172.27.187.122:64598#true connect
+
+2022-09-05 20:38:12,914 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=23}, 172.27.29.94:8088#true
+
+2022-09-05 20:38:25,682 INFO Client connection 172.27.187.122:62575#true disconnect, remove instances and subscribers
+
+2022-09-05 20:54:58,195 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=2}, 172.27.29.94:8081#true
+
+2022-09-05 20:54:58,249 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}, 172.27.29.94:8082#true
+
+2022-09-05 20:54:58,268 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=24}, 172.27.29.94:8089#true
+
+2022-09-05 20:54:58,330 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=25}, 172.27.29.94:8088#true
+
+2022-09-05 20:55:27,299 INFO Client connection 172.27.187.122:65020#true disconnect, remove instances and subscribers
+
+2022-09-05 20:55:32,306 INFO Client connection 172.27.29.94:8082#true disconnect, remove instances and subscribers
+
+2022-09-05 20:55:32,306 INFO Client connection 172.27.187.122:64598#true disconnect, remove instances and subscribers
+
+2022-09-05 20:55:32,306 INFO Client connection 172.27.29.94:8088#true disconnect, remove instances and subscribers
+
+2022-09-05 20:55:32,306 INFO Client connection 172.27.29.94:8081#true disconnect, remove instances and subscribers
+
+2022-09-05 20:55:32,306 INFO Client connection 172.27.187.122:57657#true disconnect, remove instances and subscribers
+
+2022-09-05 20:55:32,306 INFO Client connection 172.27.29.94:8089#true disconnect, remove instances and subscribers
+
+2022-09-05 20:55:32,306 INFO Client connection 172.27.187.122:62574#true disconnect, remove instances and subscribers
+
+2022-09-05 20:56:30,176 WARN namespace : public, [DEFAULT_GROUP@@wps-service] services are automatically cleaned
+
+2022-09-05 20:56:30,176 WARN namespace : public, [DEFAULT_GROUP@@stpam-service] services are automatically cleaned
+
+2022-09-05 20:59:03,047 INFO Client connection 172.27.187.122:61480#true connect
+
+2022-09-05 20:59:03,489 INFO Client connection 172.27.29.94:8089#true connect
+
+2022-09-05 20:59:03,489 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=0}, 172.27.29.94:8089#true
+
+2022-09-05 20:59:05,716 INFO Client connection 172.27.187.122:61481#true connect
+
+2022-09-05 20:59:06,132 INFO Client connection 172.27.29.94:8088#true connect
+
+2022-09-05 20:59:06,132 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=1}, 172.27.29.94:8088#true
+
+2022-09-05 21:25:34,069 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=2}, 172.27.29.94:8089#true
+
+2022-09-05 21:25:34,082 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=3}, 172.27.29.94:8088#true
+
+2022-09-05 21:26:00,154 INFO Client connection 172.27.187.122:61481#true disconnect, remove instances and subscribers
+
+2022-09-05 21:26:05,161 INFO Client connection 172.27.29.94:8088#true disconnect, remove instances and subscribers
+
+2022-09-05 21:26:05,161 INFO Client connection 172.27.29.94:8089#true disconnect, remove instances and subscribers
+
+2022-09-05 21:26:10,162 INFO Client connection 172.27.187.122:61480#true disconnect, remove instances and subscribers
+
+2022-09-05 21:26:59,879 INFO Client connection 172.27.187.122:53109#true connect
+
+2022-09-05 21:27:00,766 INFO Client connection 172.27.29.94:8089#true connect
+
+2022-09-05 21:27:00,767 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=4}, 172.27.29.94:8089#true
+
+2022-09-05 21:27:01,436 INFO Client connection 172.27.187.122:53110#true connect
+
+2022-09-05 21:27:02,055 INFO Client connection 172.27.29.94:8088#true connect
+
+2022-09-05 21:27:02,055 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=5}, 172.27.29.94:8088#true
+
+2022-09-05 21:38:49,429 INFO Client connection 127.0.1.1:36651#true connect
+
+2022-09-05 21:38:49,580 INFO Client connection 172.27.241.181:8081#true connect
+
+2022-09-05 21:38:49,580 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=0}, 172.27.241.181:8081#true
+
+2022-09-05 21:39:43,539 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}, 172.27.241.181:8081#true
+
+2022-09-05 21:39:58,067 INFO Client connection 127.0.1.1:53572#true connect
+
+2022-09-05 21:39:58,238 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=2}, 172.27.241.181:8081#true
+
+2022-09-05 21:40:11,495 INFO Client connection 127.0.1.1:36651#true disconnect, remove instances and subscribers
+
+2022-09-05 21:41:52,076 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=6}, 172.27.29.94:8089#true
+
+2022-09-05 21:41:52,097 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=7}, 172.27.29.94:8088#true
+
+2022-09-05 21:42:06,292 INFO Client connection 172.27.187.122:62237#true connect
+
+2022-09-05 21:42:06,830 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=8}, 172.27.29.94:8089#true
+
+2022-09-05 21:42:07,236 INFO Client connection 172.27.187.122:62238#true connect
+
+2022-09-05 21:42:07,781 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=9}, 172.27.29.94:8088#true
+
+2022-09-05 21:42:26,704 INFO Client connection 172.27.187.122:53109#true disconnect, remove instances and subscribers
+
+2022-09-05 21:42:26,704 INFO Client connection 172.27.187.122:53110#true disconnect, remove instances and subscribers
+
+2022-09-05 21:42:57,340 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=10}, 172.27.29.94:8089#true
+
+2022-09-05 21:42:57,357 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=11}, 172.27.29.94:8088#true
+
+2022-09-05 21:43:13,126 INFO Client connection 172.27.187.122:56567#true connect
+
+2022-09-05 21:43:13,676 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=12}, 172.27.29.94:8088#true
+
+2022-09-05 21:43:13,946 INFO Client connection 172.27.187.122:56568#true connect
+
+2022-09-05 21:43:14,527 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=13}, 172.27.29.94:8089#true
+
+2022-09-05 21:43:31,796 INFO Client connection 172.27.187.122:62237#true disconnect, remove instances and subscribers
+
+2022-09-05 21:43:31,796 INFO Client connection 172.27.187.122:62238#true disconnect, remove instances and subscribers
+
+2022-09-05 21:47:19,880 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=14}, 172.27.29.94:8089#true
+
+2022-09-05 21:47:19,909 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=15}, 172.27.29.94:8088#true
+
+2022-09-05 21:47:35,959 INFO Client connection 172.27.187.122:60043#true connect
+
+2022-09-05 21:47:36,498 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=16}, 172.27.29.94:8089#true
+
+2022-09-05 21:47:36,997 INFO Client connection 172.27.187.122:60044#true connect
+
+2022-09-05 21:47:37,471 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=17}, 172.27.29.94:8088#true
+
+2022-09-05 21:47:47,246 INFO Client connection 172.27.187.122:56568#true disconnect, remove instances and subscribers
+
+2022-09-05 21:47:57,260 INFO Client connection 172.27.187.122:56567#true disconnect, remove instances and subscribers
+
+2022-09-05 21:48:19,110 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=18}, 172.27.29.94:8089#true
+
+2022-09-05 21:48:19,129 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=19}, 172.27.29.94:8088#true
+
+2022-09-05 21:48:37,159 INFO Client connection 172.27.187.122:63824#true connect
+
+2022-09-05 21:48:37,706 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=20}, 172.27.29.94:8089#true
+
+2022-09-05 21:48:38,025 INFO Client connection 172.27.187.122:63825#true connect
+
+2022-09-05 21:48:38,490 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=21}, 172.27.29.94:8088#true
+
+2022-09-05 21:48:47,340 INFO Client connection 172.27.187.122:60043#true disconnect, remove instances and subscribers
+
+2022-09-05 21:48:52,347 INFO Client connection 172.27.187.122:60044#true disconnect, remove instances and subscribers
+
+2022-09-05 21:49:08,990 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=22}, 172.27.29.94:8089#true
+
+2022-09-05 21:49:09,020 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=23}, 172.27.29.94:8088#true
+
+2022-09-05 21:49:24,425 INFO Client connection 172.27.187.122:55045#true connect
+
+2022-09-05 21:49:24,966 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=24}, 172.27.29.94:8089#true
+
+2022-09-05 21:49:25,443 INFO Client connection 172.27.187.122:55046#true connect
+
+2022-09-05 21:49:25,893 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=25}, 172.27.29.94:8088#true
+
+2022-09-05 21:49:42,452 INFO Client connection 172.27.187.122:63825#true disconnect, remove instances and subscribers
+
+2022-09-05 21:49:42,452 INFO Client connection 172.27.187.122:63824#true disconnect, remove instances and subscribers
+
+2022-09-05 21:52:28,579 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=26}, 172.27.29.94:8089#true
+
+2022-09-05 21:52:28,604 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=27}, 172.27.29.94:8088#true
+
+2022-09-05 21:52:46,517 INFO Client connection 172.27.187.122:62523#true connect
+
+2022-09-05 21:52:47,071 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=28}, 172.27.29.94:8089#true
+
+2022-09-05 21:52:47,400 INFO Client connection 172.27.187.122:62524#true connect
+
+2022-09-05 21:52:47,902 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=29}, 172.27.29.94:8088#true
+
+2022-09-05 21:52:57,781 INFO Client connection 172.27.187.122:55046#true disconnect, remove instances and subscribers
+
+2022-09-05 21:52:57,781 INFO Client connection 172.27.187.122:55045#true disconnect, remove instances and subscribers
+
+2022-09-05 22:03:53,458 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=30}, 172.27.29.94:8089#true
+
+2022-09-05 22:03:53,484 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=31}, 172.27.29.94:8088#true
+
+2022-09-05 22:04:09,909 INFO Client connection 172.27.187.122:53805#true connect
+
+2022-09-05 22:04:10,462 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=32}, 172.27.29.94:8088#true
+
+2022-09-05 22:04:10,768 INFO Client connection 172.27.187.122:53806#true connect
+
+2022-09-05 22:04:11,230 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=33}, 172.27.29.94:8089#true
+
+2022-09-05 22:04:23,857 INFO Client connection 172.27.187.122:62524#true disconnect, remove instances and subscribers
+
+2022-09-05 22:04:23,857 INFO Client connection 172.27.187.122:62523#true disconnect, remove instances and subscribers
+
+2022-09-05 22:06:22,675 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=34}, 172.27.29.94:8089#true
+
+2022-09-05 22:06:22,704 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=35}, 172.27.29.94:8088#true
+
+2022-09-05 22:06:41,861 INFO Client connection 172.27.187.122:51069#true connect
+
+2022-09-05 22:06:42,528 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=36}, 172.27.29.94:8089#true
+
+2022-09-05 22:06:42,913 INFO Client connection 172.27.187.122:51070#true connect
+
+2022-09-05 22:06:43,412 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=37}, 172.27.29.94:8088#true
+
+2022-09-05 22:06:54,097 INFO Client connection 172.27.187.122:53806#true disconnect, remove instances and subscribers
+
+2022-09-05 22:06:59,099 INFO Client connection 172.27.187.122:53805#true disconnect, remove instances and subscribers
+
+2022-09-05 22:13:09,767 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=38}, 172.27.29.94:8089#true
+
+2022-09-05 22:13:09,796 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=39}, 172.27.29.94:8088#true
+
+2022-09-05 22:13:23,886 INFO Client connection 172.27.187.122:60348#true connect
+
+2022-09-05 22:13:24,329 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=40}, 172.27.29.94:8089#true
+
+2022-09-05 22:13:27,802 INFO Client connection 172.27.187.122:60349#true connect
+
+2022-09-05 22:13:28,223 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=41}, 172.27.29.94:8088#true
+
+2022-09-05 22:13:44,769 INFO Client connection 172.27.187.122:51070#true disconnect, remove instances and subscribers
+
+2022-09-05 22:13:49,771 INFO Client connection 172.27.187.122:51069#true disconnect, remove instances and subscribers
+
+2022-09-05 22:16:25,532 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=42}, 172.27.29.94:8089#true
+
+2022-09-05 22:16:25,562 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=43}, 172.27.29.94:8088#true
+
+2022-09-05 22:16:45,077 INFO Client connection 172.27.187.122:54635#true connect
+
+2022-09-05 22:16:45,636 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=44}, 172.27.29.94:8088#true
+
+2022-09-05 22:16:45,990 INFO Client connection 172.27.187.122:54636#true connect
+
+2022-09-05 22:16:46,418 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=45}, 172.27.29.94:8089#true
+
+2022-09-05 22:17:00,062 INFO Client connection 172.27.187.122:60348#true disconnect, remove instances and subscribers
+
+2022-09-05 22:17:00,062 INFO Client connection 172.27.187.122:60349#true disconnect, remove instances and subscribers
+

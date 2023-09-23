@@ -1,0 +1,66 @@
+2022-09-04 10:50:53,485 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2022-09-04 10:50:53,486 WARN Using naming.distro config to replace core.distro config
+
+2022-09-04 10:50:53,664 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-09-04 10:50:53,665 INFO listen for service meta change
+
+2022-09-04 10:50:53,675 INFO upgrade.state file is not exist
+
+2022-09-04 10:51:01,166 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2022-09-04 10:51:01,166 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2022-09-04 10:51:01,167 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2022-09-04 10:51:01,167 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2022-09-04 10:51:01,934 INFO Load instance extension handler []
+
+2022-09-04 11:06:36,173 INFO Client connection 172.27.187.122:61864#true connect
+
+2022-09-04 11:06:36,319 INFO Client connection 172.27.29.94:8081#true connect
+
+2022-09-04 11:06:36,320 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=0}, 172.27.29.94:8081#true
+
+2022-09-04 11:24:04,761 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=1}, 172.27.29.94:8081#true
+
+2022-09-04 11:24:23,424 INFO Client connection 172.27.187.122:55651#true connect
+
+2022-09-04 11:24:23,553 INFO Client connection 172.27.29.94:8088#true connect
+
+2022-09-04 11:24:23,554 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='wps-service', ephemeral=true, revision=0}, 172.27.29.94:8088#true
+
+2022-09-04 11:24:28,353 INFO Client connection 172.27.187.122:55652#true connect
+
+2022-09-04 11:24:28,433 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=2}, 172.27.29.94:8081#true
+
+2022-09-04 11:24:41,492 INFO Client connection 172.27.187.122:61864#true disconnect, remove instances and subscribers
+
+2022-09-04 16:11:30,921 INFO Client connection 172.27.187.122:61834#true connect
+
+2022-09-04 16:11:30,981 INFO Client connection 172.27.29.94:8082#true connect
+
+2022-09-04 16:11:30,981 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=3}, 172.27.29.94:8082#true
+
+2022-09-04 17:10:50,222 INFO Client connection 127.0.1.1:57056#true connect
+
+2022-09-04 17:10:50,439 INFO Client connection 172.27.241.181:8081#true connect
+
+2022-09-04 17:10:50,440 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=4}, 172.27.241.181:8081#true
+
+2022-09-04 21:36:10,652 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=5}, 172.27.241.181:8081#true
+
+2022-09-04 21:36:23,449 INFO Client connection 127.0.1.1:33837#true connect
+
+2022-09-04 21:36:23,619 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=6}, 172.27.241.181:8081#true
+
+2022-09-04 21:36:40,636 INFO Client connection 127.0.1.1:57056#true disconnect, remove instances and subscribers
+
+2022-09-04 21:36:48,369 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=7}, 172.27.241.181:8081#true
+
+2022-09-04 21:37:15,705 INFO Client connection 127.0.1.1:33837#true disconnect, remove instances and subscribers
+
+2022-09-04 21:37:20,715 INFO Client connection 172.27.241.181:8081#true disconnect, remove instances and subscribers
+

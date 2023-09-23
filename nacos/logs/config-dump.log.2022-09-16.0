@@ -1,0 +1,616 @@
+2022-09-16 09:08:39,930 INFO [dump-all-ok] stpam-service+DEFAULT_GROUP, 1662639216863, length=246, md5=cc643b6b5753698ec679a33398ab8b23
+
+2022-09-16 09:08:39,932 INFO [dump-all-ok] transport.type+SEATA_GROUP, 1663247494606, length=3, md5=b136ef5f6a01d816991fe3cf7a6ac763
+
+2022-09-16 09:08:39,932 INFO [dump-all-ok] transport.server+SEATA_GROUP, 1663247494610, length=3, md5=b6d9dfc0fb54277321cebc0fff55df2f
+
+2022-09-16 09:08:39,933 INFO [dump-all-ok] transport.heartbeat+SEATA_GROUP, 1663247494612, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,933 INFO [dump-all-ok] transport.enableTmClientBatchSendRequest+SEATA_GROUP, 1663247494618, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,934 INFO [dump-all-ok] transport.enableRmClientBatchSendRequest+SEATA_GROUP, 1663247494619, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,935 INFO [dump-all-ok] transport.enableTcServerBatchSendResponse+SEATA_GROUP, 1663247494621, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,935 INFO [dump-all-ok] transport.rpcRmRequestTimeout+SEATA_GROUP, 1663247494623, length=5, md5=5ecc613150de01b7e6824594426f24f4
+
+2022-09-16 09:08:39,935 INFO [dump-all-ok] transport.rpcTmRequestTimeout+SEATA_GROUP, 1663247494624, length=5, md5=5ecc613150de01b7e6824594426f24f4
+
+2022-09-16 09:08:39,936 INFO [dump-all-ok] transport.rpcTcRequestTimeout+SEATA_GROUP, 1663247494626, length=5, md5=5ecc613150de01b7e6824594426f24f4
+
+2022-09-16 09:08:39,936 INFO [dump-all-ok] transport.threadFactory.bossThreadPrefix+SEATA_GROUP, 1663247494628, length=9, md5=0f8db59a3b7f2823f38a70c308361836
+
+2022-09-16 09:08:39,937 INFO [dump-all-ok] transport.threadFactory.workerThreadPrefix+SEATA_GROUP, 1663247494629, length=20, md5=a78ec7ef5d1631754c4e72ae8a3e9205
+
+2022-09-16 09:08:39,937 INFO [dump-all-ok] transport.threadFactory.serverExecutorThreadPrefix+SEATA_GROUP, 1663247494631, length=21, md5=11a36309f3d9df84fa8b59cf071fa2da
+
+2022-09-16 09:08:39,937 INFO [dump-all-ok] transport.threadFactory.shareBossWorker+SEATA_GROUP, 1663247494634, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,938 INFO [dump-all-ok] transport.threadFactory.clientSelectorThreadPrefix+SEATA_GROUP, 1663247494636, length=19, md5=cd7ec5a06541e75f5a7913752322c3af
+
+2022-09-16 09:08:39,938 INFO [dump-all-ok] transport.threadFactory.clientSelectorThreadSize+SEATA_GROUP, 1663247494638, length=1, md5=c4ca4238a0b923820dcc509a6f75849b
+
+2022-09-16 09:08:39,938 INFO [dump-all-ok] transport.threadFactory.clientWorkerThreadPrefix+SEATA_GROUP, 1663247494640, length=23, md5=61cf4e69a56354cf72f46dc86414a57e
+
+2022-09-16 09:08:39,939 INFO [dump-all-ok] transport.threadFactory.bossThreadSize+SEATA_GROUP, 1663247494641, length=1, md5=c4ca4238a0b923820dcc509a6f75849b
+
+2022-09-16 09:08:39,939 INFO [dump-all-ok] transport.threadFactory.workerThreadSize+SEATA_GROUP, 1663247494643, length=7, md5=c21f969b5f03d33d43e04f8f136e7682
+
+2022-09-16 09:08:39,939 INFO [dump-all-ok] transport.shutdown.wait+SEATA_GROUP, 1663247494645, length=1, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3
+
+2022-09-16 09:08:39,939 INFO [dump-all-ok] transport.serialization+SEATA_GROUP, 1663247494648, length=5, md5=b943081c423b9a5416a706524ee05d40
+
+2022-09-16 09:08:39,940 INFO [dump-all-ok] transport.compressor+SEATA_GROUP, 1663247494649, length=4, md5=334c4a4c42fdb79d7ebc3e73b517e6f8
+
+2022-09-16 09:08:39,940 INFO [dump-all-ok] service.vgroupMapping.default_tx_group+SEATA_GROUP, 1663210537615, length=7, md5=c21f969b5f03d33d43e04f8f136e7682
+
+2022-09-16 09:08:39,940 INFO [dump-all-ok] service.default.grouplist+SEATA_GROUP, 1663247494652, length=14, md5=c32ce0d3e264525dcdada751f98143a3
+
+2022-09-16 09:08:39,940 INFO [dump-all-ok] service.enableDegrade+SEATA_GROUP, 1663247494654, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,941 INFO [dump-all-ok] service.disableGlobalTransaction+SEATA_GROUP, 1663247494656, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,941 INFO [dump-all-ok] client.rm.asyncCommitBufferLimit+SEATA_GROUP, 1663247494657, length=5, md5=b7a782741f667201b54880c925faec4b
+
+2022-09-16 09:08:39,941 INFO [dump-all-ok] client.rm.lock.retryInterval+SEATA_GROUP, 1663247494659, length=2, md5=d3d9446802a44259755d38e6d163e820
+
+2022-09-16 09:08:39,941 INFO [dump-all-ok] client.rm.lock.retryTimes+SEATA_GROUP, 1663247494660, length=2, md5=34173cb38f07f89ddbebc2ac9128303f
+
+2022-09-16 09:08:39,941 INFO [dump-all-ok] client.rm.lock.retryPolicyBranchRollbackOnConflict+SEATA_GROUP, 1663247494661, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,942 INFO [dump-all-ok] client.rm.reportRetryCount+SEATA_GROUP, 1663247494663, length=1, md5=e4da3b7fbbce2345d7772b0674a318d5
+
+2022-09-16 09:08:39,942 INFO [dump-all-ok] client.rm.tableMetaCheckEnable+SEATA_GROUP, 1663247494664, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,942 INFO [dump-all-ok] client.rm.tableMetaCheckerInterval+SEATA_GROUP, 1663247494667, length=5, md5=2b4226dd7ed6eb2d419b881f3ae9c97c
+
+2022-09-16 09:08:39,943 INFO [dump-all-ok] client.rm.sqlParserType+SEATA_GROUP, 1663247494670, length=5, md5=3d650fb8a5df01600281d48c47c9fa60
+
+2022-09-16 09:08:39,943 INFO [dump-all-ok] client.rm.reportSuccessEnable+SEATA_GROUP, 1663247494672, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,944 INFO [dump-all-ok] client.rm.sagaBranchRegisterEnable+SEATA_GROUP, 1663247494673, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,944 INFO [dump-all-ok] client.rm.sagaJsonParser+SEATA_GROUP, 1663247494675, length=8, md5=d00d3dbc0834f08411c7b6c4c39e9f00
+
+2022-09-16 09:08:39,944 INFO [dump-all-ok] client.rm.tccActionInterceptorOrder+SEATA_GROUP, 1663247494677, length=11, md5=f056d9efa5dae3872f9da035c83bcde8
+
+2022-09-16 09:08:39,944 INFO [dump-all-ok] client.tm.commitRetryCount+SEATA_GROUP, 1663247494679, length=1, md5=e4da3b7fbbce2345d7772b0674a318d5
+
+2022-09-16 09:08:39,944 INFO [dump-all-ok] client.tm.rollbackRetryCount+SEATA_GROUP, 1663247494680, length=1, md5=e4da3b7fbbce2345d7772b0674a318d5
+
+2022-09-16 09:08:39,944 INFO [dump-all-ok] client.tm.defaultGlobalTransactionTimeout+SEATA_GROUP, 1663247494683, length=5, md5=2b4226dd7ed6eb2d419b881f3ae9c97c
+
+2022-09-16 09:08:39,945 INFO [dump-all-ok] client.tm.degradeCheck+SEATA_GROUP, 1663247494685, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,945 INFO [dump-all-ok] client.tm.degradeCheckAllowTimes+SEATA_GROUP, 1663247494686, length=2, md5=d3d9446802a44259755d38e6d163e820
+
+2022-09-16 09:08:39,945 INFO [dump-all-ok] client.tm.degradeCheckPeriod+SEATA_GROUP, 1663247494688, length=4, md5=08f90c1a417155361a5c4b8d297e0d78
+
+2022-09-16 09:08:39,945 INFO [dump-all-ok] client.tm.interceptorOrder+SEATA_GROUP, 1663247494689, length=11, md5=f056d9efa5dae3872f9da035c83bcde8
+
+2022-09-16 09:08:39,945 INFO [dump-all-ok] client.undo.dataValidation+SEATA_GROUP, 1663247494691, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,945 INFO [dump-all-ok] client.undo.logSerialization+SEATA_GROUP, 1663247494692, length=7, md5=b41779690b83f182acc67d6388c7bac9
+
+2022-09-16 09:08:39,946 INFO [dump-all-ok] client.undo.onlyCareUpdateColumns+SEATA_GROUP, 1663247494693, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,946 INFO [dump-all-ok] server.undo.logSaveDays+SEATA_GROUP, 1663247494695, length=1, md5=8f14e45fceea167a5a36dedd4bea2543
+
+2022-09-16 09:08:39,946 INFO [dump-all-ok] server.undo.logDeletePeriod+SEATA_GROUP, 1663247494696, length=8, md5=f4c122804fe9076cb2710f55c3c6e346
+
+2022-09-16 09:08:39,947 INFO [dump-all-ok] client.undo.logTable+SEATA_GROUP, 1663247494699, length=8, md5=2842d229c24afe9e61437135e8306614
+
+2022-09-16 09:08:39,947 INFO [dump-all-ok] client.undo.compress.enable+SEATA_GROUP, 1663247494701, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,947 INFO [dump-all-ok] client.undo.compress.type+SEATA_GROUP, 1663247494703, length=3, md5=adcdbd79a8d84175c229b192aadc02f2
+
+2022-09-16 09:08:39,947 INFO [dump-all-ok] client.undo.compress.threshold+SEATA_GROUP, 1663247494705, length=3, md5=bd44a6458bdbff0b5cac721ba361f035
+
+2022-09-16 09:08:39,947 INFO [dump-all-ok] tcc.fence.logTableName+SEATA_GROUP, 1663247494707, length=13, md5=db229b665c7cfd5abc03971d4ed284c6
+
+2022-09-16 09:08:39,948 INFO [dump-all-ok] tcc.fence.cleanPeriod+SEATA_GROUP, 1663247494709, length=2, md5=7c68645d71b803bf0ba2f22519f73e08
+
+2022-09-16 09:08:39,948 INFO [dump-all-ok] log.exceptionRate+SEATA_GROUP, 1663247494711, length=3, md5=f899139df5e1059396431415e770c6dd
+
+2022-09-16 09:08:39,948 INFO [dump-all-ok] store.mode+SEATA_GROUP, 1663247494714, length=4, md5=8c7dd922ad47494fc02c388e12c00eac
+
+2022-09-16 09:08:39,948 INFO [dump-all-ok] store.lock.mode+SEATA_GROUP, 1663247494716, length=4, md5=8c7dd922ad47494fc02c388e12c00eac
+
+2022-09-16 09:08:39,948 INFO [dump-all-ok] store.session.mode+SEATA_GROUP, 1663247494718, length=4, md5=8c7dd922ad47494fc02c388e12c00eac
+
+2022-09-16 09:08:39,949 INFO [dump-all-ok] store.file.dir+SEATA_GROUP, 1663247494720, length=15, md5=6a8dec07c44c33a8a9247cba5710bbb2
+
+2022-09-16 09:08:39,951 INFO [dump-all-ok] store.file.maxBranchSessionSize+SEATA_GROUP, 1663247494722, length=5, md5=c76fe1d8e08462434d800487585be217
+
+2022-09-16 09:08:39,953 INFO [dump-all-ok] store.file.maxGlobalSessionSize+SEATA_GROUP, 1663247494724, length=3, md5=10a7cdd970fe135cf4f7bb55c0e3b59f
+
+2022-09-16 09:08:39,953 INFO [dump-all-ok] store.file.fileWriteBufferCacheSize+SEATA_GROUP, 1663247494726, length=5, md5=c76fe1d8e08462434d800487585be217
+
+2022-09-16 09:08:39,954 INFO [dump-all-ok] store.file.flushDiskMode+SEATA_GROUP, 1663247494729, length=5, md5=0df93e34273b367bb63bad28c94c78d5
+
+2022-09-16 09:08:39,954 INFO [dump-all-ok] store.file.sessionReloadReadSize+SEATA_GROUP, 1663247494731, length=3, md5=f899139df5e1059396431415e770c6dd
+
+2022-09-16 09:08:39,954 INFO [dump-all-ok] store.db.datasource+SEATA_GROUP, 1663247494732, length=5, md5=3d650fb8a5df01600281d48c47c9fa60
+
+2022-09-16 09:08:39,954 INFO [dump-all-ok] store.db.dbType+SEATA_GROUP, 1663247494734, length=5, md5=81c3b080dad537de7e10e0987a4bf52e
+
+2022-09-16 09:08:39,954 INFO [dump-all-ok] store.db.driverClassName+SEATA_GROUP, 1663247494735, length=21, md5=683cf0c3a5a56cec94dfac94ca16d760
+
+2022-09-16 09:08:39,955 INFO [dump-all-ok] store.db.url+SEATA_GROUP, 1663247494737, length=79, md5=030ea5ff5c2ef043adf9826c70570b0b
+
+2022-09-16 09:08:39,955 INFO [dump-all-ok] store.db.user+SEATA_GROUP, 1663247494738, length=8, md5=14c4b06b824ec593239362517f538b29
+
+2022-09-16 09:08:39,955 INFO [dump-all-ok] store.db.password+SEATA_GROUP, 1663247494739, length=8, md5=5f4dcc3b5aa765d61d8327deb882cf99
+
+2022-09-16 09:08:39,955 INFO [dump-all-ok] store.db.minConn+SEATA_GROUP, 1663247494741, length=1, md5=e4da3b7fbbce2345d7772b0674a318d5
+
+2022-09-16 09:08:39,955 INFO [dump-all-ok] store.db.maxConn+SEATA_GROUP, 1663247494742, length=2, md5=34173cb38f07f89ddbebc2ac9128303f
+
+2022-09-16 09:08:39,956 INFO [dump-all-ok] store.db.globalTable+SEATA_GROUP, 1663247494746, length=12, md5=8b28fb6bb4c4f984df2709381f8eba2b
+
+2022-09-16 09:08:39,956 INFO [dump-all-ok] store.db.branchTable+SEATA_GROUP, 1663247494749, length=12, md5=54bcdac38cf62e103fe115bcf46a660c
+
+2022-09-16 09:08:39,956 INFO [dump-all-ok] store.db.distributedLockTable+SEATA_GROUP, 1663247494751, length=16, md5=26146b7a3a4907101617cb0f19bf613f
+
+2022-09-16 09:08:39,956 INFO [dump-all-ok] store.db.queryLimit+SEATA_GROUP, 1663247494753, length=3, md5=f899139df5e1059396431415e770c6dd
+
+2022-09-16 09:08:39,956 INFO [dump-all-ok] store.db.lockTable+SEATA_GROUP, 1663247494754, length=10, md5=55e0cae3b6dc6696b768db90098b8f2f
+
+2022-09-16 09:08:39,957 INFO [dump-all-ok] store.db.maxWait+SEATA_GROUP, 1663247494756, length=4, md5=a35fe7f7fe8217b4369a0af4244d1fca
+
+2022-09-16 09:08:39,957 INFO [dump-all-ok] store.redis.mode+SEATA_GROUP, 1663247494759, length=6, md5=dd5c07036f2975ff4bce568b6511d3bc
+
+2022-09-16 09:08:39,957 INFO [dump-all-ok] store.redis.single.host+SEATA_GROUP, 1663247494763, length=9, md5=f528764d624db129b32c21fbca0cb8d6
+
+2022-09-16 09:08:39,957 INFO [dump-all-ok] store.redis.single.port+SEATA_GROUP, 1663247494766, length=4, md5=92c3b916311a5517d9290576e3ea37ad
+
+2022-09-16 09:08:39,957 INFO [dump-all-ok] store.redis.maxConn+SEATA_GROUP, 1663247494769, length=2, md5=d3d9446802a44259755d38e6d163e820
+
+2022-09-16 09:08:39,958 INFO [dump-all-ok] store.redis.minConn+SEATA_GROUP, 1663247494770, length=1, md5=c4ca4238a0b923820dcc509a6f75849b
+
+2022-09-16 09:08:39,958 INFO [dump-all-ok] store.redis.maxTotal+SEATA_GROUP, 1663247494772, length=3, md5=f899139df5e1059396431415e770c6dd
+
+2022-09-16 09:08:39,958 INFO [dump-all-ok] store.redis.database+SEATA_GROUP, 1663247494775, length=1, md5=cfcd208495d565ef66e7dff9f98764da
+
+2022-09-16 09:08:39,958 INFO [dump-all-ok] store.redis.queryLimit+SEATA_GROUP, 1663247494778, length=3, md5=f899139df5e1059396431415e770c6dd
+
+2022-09-16 09:08:39,958 INFO [dump-all-ok] server.recovery.committingRetryPeriod+SEATA_GROUP, 1663247494780, length=4, md5=a9b7ba70783b617e9998dc4dd82eb3c5
+
+2022-09-16 09:08:39,958 INFO [dump-all-ok] server.recovery.asynCommittingRetryPeriod+SEATA_GROUP, 1663247494782, length=4, md5=a9b7ba70783b617e9998dc4dd82eb3c5
+
+2022-09-16 09:08:39,959 INFO [dump-all-ok] server.recovery.rollbackingRetryPeriod+SEATA_GROUP, 1663247494784, length=4, md5=a9b7ba70783b617e9998dc4dd82eb3c5
+
+2022-09-16 09:08:39,960 INFO [dump-all-ok] server.recovery.timeoutRetryPeriod+SEATA_GROUP, 1663247494786, length=4, md5=a9b7ba70783b617e9998dc4dd82eb3c5
+
+2022-09-16 09:08:39,960 INFO [dump-all-ok] server.maxCommitRetryTimeout+SEATA_GROUP, 1663247494788, length=2, md5=6bb61e3b7bce0931da574d19d1d82c88
+
+2022-09-16 09:08:39,960 INFO [dump-all-ok] server.maxRollbackRetryTimeout+SEATA_GROUP, 1663247494791, length=2, md5=6bb61e3b7bce0931da574d19d1d82c88
+
+2022-09-16 09:08:39,960 INFO [dump-all-ok] server.rollbackRetryTimeoutUnlockEnable+SEATA_GROUP, 1663247494793, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,961 INFO [dump-all-ok] server.distributedLockExpireTime+SEATA_GROUP, 1663247494795, length=5, md5=b7a782741f667201b54880c925faec4b
+
+2022-09-16 09:08:39,961 INFO [dump-all-ok] server.xaerNotaRetryTimeout+SEATA_GROUP, 1663247494797, length=5, md5=2b4226dd7ed6eb2d419b881f3ae9c97c
+
+2022-09-16 09:08:39,961 INFO [dump-all-ok] server.session.branchAsyncQueueSize+SEATA_GROUP, 1663247494799, length=4, md5=a35fe7f7fe8217b4369a0af4244d1fca
+
+2022-09-16 09:08:39,961 INFO [dump-all-ok] server.session.enableBranchAsyncRemove+SEATA_GROUP, 1663247494801, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,961 INFO [dump-all-ok] server.enableParallelRequestHandle+SEATA_GROUP, 1663247494804, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,962 INFO [dump-all-ok] metrics.enabled+SEATA_GROUP, 1663247494807, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,963 INFO [dump-all-ok] metrics.registryType+SEATA_GROUP, 1663247494810, length=7, md5=7cf74ca49c304df8150205fc915cd465
+
+2022-09-16 09:08:39,963 INFO [dump-all-ok] metrics.exporterList+SEATA_GROUP, 1663247494812, length=10, md5=e4f00638b8a10e6994e67af2f832d51c
+
+2022-09-16 09:08:39,963 INFO [dump-all-ok] metrics.exporterPrometheusPort+SEATA_GROUP, 1663247494814, length=4, md5=7b9dc501afe4ee11c56a4831e20cee71
+
+2022-09-16 09:08:39,963 INFO [dump-all-ok] transport.type+SEATA_GROUP, 1663247075000, length=3, md5=b136ef5f6a01d816991fe3cf7a6ac763
+
+2022-09-16 09:08:39,963 INFO [dump-all-ok] transport.server+SEATA_GROUP, 1663247075003, length=3, md5=b6d9dfc0fb54277321cebc0fff55df2f
+
+2022-09-16 09:08:39,963 INFO [dump-all-ok] transport.heartbeat+SEATA_GROUP, 1663247075004, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,963 INFO [dump-all-ok] transport.enableTmClientBatchSendRequest+SEATA_GROUP, 1663247075006, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,963 INFO [dump-all-ok] transport.enableRmClientBatchSendRequest+SEATA_GROUP, 1663247075008, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,964 INFO [dump-all-ok] transport.enableTcServerBatchSendResponse+SEATA_GROUP, 1663247075010, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,965 INFO [dump-all-ok] transport.rpcRmRequestTimeout+SEATA_GROUP, 1663247075012, length=5, md5=5ecc613150de01b7e6824594426f24f4
+
+2022-09-16 09:08:39,966 INFO [dump-all-ok] transport.rpcTmRequestTimeout+SEATA_GROUP, 1663247075014, length=5, md5=5ecc613150de01b7e6824594426f24f4
+
+2022-09-16 09:08:39,967 INFO [dump-all-ok] transport.rpcTcRequestTimeout+SEATA_GROUP, 1663247075016, length=5, md5=5ecc613150de01b7e6824594426f24f4
+
+2022-09-16 09:08:39,967 INFO [dump-all-ok] transport.threadFactory.bossThreadPrefix+SEATA_GROUP, 1663247075018, length=9, md5=0f8db59a3b7f2823f38a70c308361836
+
+2022-09-16 09:08:39,967 INFO [dump-all-ok] transport.threadFactory.workerThreadPrefix+SEATA_GROUP, 1663247075020, length=20, md5=a78ec7ef5d1631754c4e72ae8a3e9205
+
+2022-09-16 09:08:39,967 INFO [dump-all-ok] transport.threadFactory.serverExecutorThreadPrefix+SEATA_GROUP, 1663247075021, length=21, md5=11a36309f3d9df84fa8b59cf071fa2da
+
+2022-09-16 09:08:39,967 INFO [dump-all-ok] transport.threadFactory.shareBossWorker+SEATA_GROUP, 1663247075023, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,967 INFO [dump-all-ok] transport.threadFactory.clientSelectorThreadPrefix+SEATA_GROUP, 1663247075025, length=19, md5=cd7ec5a06541e75f5a7913752322c3af
+
+2022-09-16 09:08:39,968 INFO [dump-all-ok] transport.threadFactory.clientSelectorThreadSize+SEATA_GROUP, 1663247075027, length=1, md5=c4ca4238a0b923820dcc509a6f75849b
+
+2022-09-16 09:08:39,968 INFO [dump-all-ok] transport.threadFactory.clientWorkerThreadPrefix+SEATA_GROUP, 1663247075030, length=23, md5=61cf4e69a56354cf72f46dc86414a57e
+
+2022-09-16 09:08:39,968 INFO [dump-all-ok] transport.threadFactory.bossThreadSize+SEATA_GROUP, 1663247075032, length=1, md5=c4ca4238a0b923820dcc509a6f75849b
+
+2022-09-16 09:08:39,968 INFO [dump-all-ok] transport.threadFactory.workerThreadSize+SEATA_GROUP, 1663247075033, length=7, md5=c21f969b5f03d33d43e04f8f136e7682
+
+2022-09-16 09:08:39,968 INFO [dump-all-ok] transport.shutdown.wait+SEATA_GROUP, 1663247075035, length=1, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3
+
+2022-09-16 09:08:39,968 INFO [dump-all-ok] transport.serialization+SEATA_GROUP, 1663247075037, length=5, md5=b943081c423b9a5416a706524ee05d40
+
+2022-09-16 09:08:39,968 INFO [dump-all-ok] transport.compressor+SEATA_GROUP, 1663247075038, length=4, md5=334c4a4c42fdb79d7ebc3e73b517e6f8
+
+2022-09-16 09:08:39,969 INFO [dump-all-ok] service.default.grouplist+SEATA_GROUP, 1663247075040, length=14, md5=c32ce0d3e264525dcdada751f98143a3
+
+2022-09-16 09:08:39,969 INFO [dump-all-ok] service.enableDegrade+SEATA_GROUP, 1663247075041, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,969 INFO [dump-all-ok] service.disableGlobalTransaction+SEATA_GROUP, 1663247075043, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,969 INFO [dump-all-ok] client.rm.asyncCommitBufferLimit+SEATA_GROUP, 1663247075045, length=5, md5=b7a782741f667201b54880c925faec4b
+
+2022-09-16 09:08:39,969 INFO [dump-all-ok] client.rm.lock.retryInterval+SEATA_GROUP, 1663247075047, length=2, md5=d3d9446802a44259755d38e6d163e820
+
+2022-09-16 09:08:39,970 INFO [dump-all-ok] client.rm.lock.retryTimes+SEATA_GROUP, 1663247075049, length=2, md5=34173cb38f07f89ddbebc2ac9128303f
+
+2022-09-16 09:08:39,970 INFO [dump-all-ok] client.rm.lock.retryPolicyBranchRollbackOnConflict+SEATA_GROUP, 1663247075050, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,970 INFO [dump-all-ok] client.rm.reportRetryCount+SEATA_GROUP, 1663247075052, length=1, md5=e4da3b7fbbce2345d7772b0674a318d5
+
+2022-09-16 09:08:39,970 INFO [dump-all-ok] client.rm.tableMetaCheckEnable+SEATA_GROUP, 1663247075054, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,970 INFO [dump-all-ok] client.rm.tableMetaCheckerInterval+SEATA_GROUP, 1663247075055, length=5, md5=2b4226dd7ed6eb2d419b881f3ae9c97c
+
+2022-09-16 09:08:39,970 INFO [dump-all-ok] client.rm.sqlParserType+SEATA_GROUP, 1663247075057, length=5, md5=3d650fb8a5df01600281d48c47c9fa60
+
+2022-09-16 09:08:39,970 INFO [dump-all-ok] client.rm.reportSuccessEnable+SEATA_GROUP, 1663247075060, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,970 INFO [dump-all-ok] client.rm.sagaBranchRegisterEnable+SEATA_GROUP, 1663247075062, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,970 INFO [dump-all-ok] client.rm.sagaJsonParser+SEATA_GROUP, 1663247075064, length=8, md5=d00d3dbc0834f08411c7b6c4c39e9f00
+
+2022-09-16 09:08:39,971 INFO [dump-all-ok] client.rm.tccActionInterceptorOrder+SEATA_GROUP, 1663247075066, length=11, md5=f056d9efa5dae3872f9da035c83bcde8
+
+2022-09-16 09:08:39,971 INFO [dump-all-ok] client.tm.commitRetryCount+SEATA_GROUP, 1663247075068, length=1, md5=e4da3b7fbbce2345d7772b0674a318d5
+
+2022-09-16 09:08:39,971 INFO [dump-all-ok] client.tm.rollbackRetryCount+SEATA_GROUP, 1663247075070, length=1, md5=e4da3b7fbbce2345d7772b0674a318d5
+
+2022-09-16 09:08:39,971 INFO [dump-all-ok] client.tm.defaultGlobalTransactionTimeout+SEATA_GROUP, 1663247075072, length=5, md5=2b4226dd7ed6eb2d419b881f3ae9c97c
+
+2022-09-16 09:08:39,971 INFO [dump-all-ok] client.tm.degradeCheck+SEATA_GROUP, 1663247075075, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,971 INFO [dump-all-ok] client.tm.degradeCheckAllowTimes+SEATA_GROUP, 1663247075078, length=2, md5=d3d9446802a44259755d38e6d163e820
+
+2022-09-16 09:08:39,971 INFO [dump-all-ok] client.tm.degradeCheckPeriod+SEATA_GROUP, 1663247075080, length=4, md5=08f90c1a417155361a5c4b8d297e0d78
+
+2022-09-16 09:08:39,971 INFO [dump-all-ok] client.tm.interceptorOrder+SEATA_GROUP, 1663247075082, length=11, md5=f056d9efa5dae3872f9da035c83bcde8
+
+2022-09-16 09:08:39,971 INFO [dump-all-ok] client.undo.dataValidation+SEATA_GROUP, 1663247075085, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,972 INFO [dump-all-ok] client.undo.logSerialization+SEATA_GROUP, 1663247075087, length=7, md5=b41779690b83f182acc67d6388c7bac9
+
+2022-09-16 09:08:39,972 INFO [dump-all-ok] client.undo.onlyCareUpdateColumns+SEATA_GROUP, 1663247075091, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,972 INFO [dump-all-ok] server.undo.logSaveDays+SEATA_GROUP, 1663247075094, length=1, md5=8f14e45fceea167a5a36dedd4bea2543
+
+2022-09-16 09:08:39,972 INFO [dump-all-ok] server.undo.logDeletePeriod+SEATA_GROUP, 1663247075097, length=8, md5=f4c122804fe9076cb2710f55c3c6e346
+
+2022-09-16 09:08:39,972 INFO [dump-all-ok] client.undo.logTable+SEATA_GROUP, 1663247075100, length=8, md5=2842d229c24afe9e61437135e8306614
+
+2022-09-16 09:08:39,972 INFO [dump-all-ok] client.undo.compress.enable+SEATA_GROUP, 1663247075102, length=4, md5=b326b5062b2f0e69046810717534cb09
+
+2022-09-16 09:08:39,973 INFO [dump-all-ok] client.undo.compress.type+SEATA_GROUP, 1663247075107, length=3, md5=adcdbd79a8d84175c229b192aadc02f2
+
+2022-09-16 09:08:39,973 INFO [dump-all-ok] client.undo.compress.threshold+SEATA_GROUP, 1663247075110, length=3, md5=bd44a6458bdbff0b5cac721ba361f035
+
+2022-09-16 09:08:39,973 INFO [dump-all-ok] tcc.fence.logTableName+SEATA_GROUP, 1663247075113, length=13, md5=db229b665c7cfd5abc03971d4ed284c6
+
+2022-09-16 09:08:39,973 INFO [dump-all-ok] tcc.fence.cleanPeriod+SEATA_GROUP, 1663247075116, length=2, md5=7c68645d71b803bf0ba2f22519f73e08
+
+2022-09-16 09:08:39,973 INFO [dump-all-ok] log.exceptionRate+SEATA_GROUP, 1663247075118, length=3, md5=f899139df5e1059396431415e770c6dd
+
+2022-09-16 09:08:39,973 INFO [dump-all-ok] store.mode+SEATA_GROUP, 1663247075121, length=4, md5=8c7dd922ad47494fc02c388e12c00eac
+
+2022-09-16 09:08:39,973 INFO [dump-all-ok] store.lock.mode+SEATA_GROUP, 1663247075123, length=4, md5=8c7dd922ad47494fc02c388e12c00eac
+
+2022-09-16 09:08:39,973 INFO [dump-all-ok] store.session.mode+SEATA_GROUP, 1663247075126, length=4, md5=8c7dd922ad47494fc02c388e12c00eac
+
+2022-09-16 09:08:39,974 INFO [dump-all-ok] store.file.dir+SEATA_GROUP, 1663247075128, length=15, md5=6a8dec07c44c33a8a9247cba5710bbb2
+
+2022-09-16 09:08:39,974 INFO [dump-all-ok] store.file.maxBranchSessionSize+SEATA_GROUP, 1663247075130, length=5, md5=c76fe1d8e08462434d800487585be217
+
+2022-09-16 09:08:39,974 INFO [dump-all-ok] store.file.maxGlobalSessionSize+SEATA_GROUP, 1663247075132, length=3, md5=10a7cdd970fe135cf4f7bb55c0e3b59f
+
+2022-09-16 09:08:39,974 INFO [dump-all-ok] store.file.fileWriteBufferCacheSize+SEATA_GROUP, 1663247075134, length=5, md5=c76fe1d8e08462434d800487585be217
+
+2022-09-16 09:08:39,974 INFO [dump-all-ok] store.file.flushDiskMode+SEATA_GROUP, 1663247075136, length=5, md5=0df93e34273b367bb63bad28c94c78d5
+
+2022-09-16 09:08:39,974 INFO [dump-all-ok] store.file.sessionReloadReadSize+SEATA_GROUP, 1663247075139, length=3, md5=f899139df5e1059396431415e770c6dd
+
+2022-09-16 09:08:39,974 INFO [dump-all-ok] store.db.datasource+SEATA_GROUP, 1663247075141, length=5, md5=3d650fb8a5df01600281d48c47c9fa60
+
+2022-09-16 09:08:39,975 INFO [dump-all-ok] store.db.dbType+SEATA_GROUP, 1663247075143, length=5, md5=81c3b080dad537de7e10e0987a4bf52e
+
+2022-09-16 09:08:39,975 INFO [dump-all-ok] store.db.driverClassName+SEATA_GROUP, 1663247075145, length=21, md5=683cf0c3a5a56cec94dfac94ca16d760
+
+2022-09-16 09:08:39,975 INFO [dump-all-ok] store.db.url+SEATA_GROUP, 1663247075146, length=79, md5=030ea5ff5c2ef043adf9826c70570b0b
+
+2022-09-16 09:08:39,975 INFO [dump-all-ok] store.db.user+SEATA_GROUP, 1663247075149, length=8, md5=14c4b06b824ec593239362517f538b29
+
+2022-09-16 09:08:39,975 INFO [dump-all-ok] store.db.password+SEATA_GROUP, 1663247075151, length=8, md5=5f4dcc3b5aa765d61d8327deb882cf99
+
+2022-09-16 09:08:39,975 INFO [dump-all-ok] store.db.minConn+SEATA_GROUP, 1663247075153, length=1, md5=e4da3b7fbbce2345d7772b0674a318d5
+
+2022-09-16 09:08:39,975 INFO [dump-all-ok] store.db.maxConn+SEATA_GROUP, 1663247075156, length=2, md5=34173cb38f07f89ddbebc2ac9128303f
+
+2022-09-16 09:08:39,975 INFO [dump-all-ok] store.db.globalTable+SEATA_GROUP, 1663247075158, length=12, md5=8b28fb6bb4c4f984df2709381f8eba2b
+
+2022-09-16 09:08:39,975 INFO [dump-all-ok] store.db.branchTable+SEATA_GROUP, 1663247075160, length=12, md5=54bcdac38cf62e103fe115bcf46a660c
+
+2022-09-16 09:08:39,975 INFO [dump-all-ok] store.db.distributedLockTable+SEATA_GROUP, 1663247075161, length=16, md5=26146b7a3a4907101617cb0f19bf613f
+
+2022-09-16 09:08:39,976 INFO [dump-all-ok] store.db.queryLimit+SEATA_GROUP, 1663247075163, length=3, md5=f899139df5e1059396431415e770c6dd
+
+2022-09-16 09:08:39,976 INFO [dump-all-ok] store.db.lockTable+SEATA_GROUP, 1663247075164, length=10, md5=55e0cae3b6dc6696b768db90098b8f2f
+
+2022-09-16 09:08:39,976 INFO [dump-all-ok] store.db.maxWait+SEATA_GROUP, 1663247075165, length=4, md5=a35fe7f7fe8217b4369a0af4244d1fca
+
+2022-09-16 09:08:39,976 INFO [dump-all-ok] store.redis.mode+SEATA_GROUP, 1663247075168, length=6, md5=dd5c07036f2975ff4bce568b6511d3bc
+
+2022-09-16 09:08:39,977 INFO [dump-all-ok] store.redis.single.host+SEATA_GROUP, 1663247075170, length=9, md5=f528764d624db129b32c21fbca0cb8d6
+
+2022-09-16 09:08:39,977 INFO [dump-all-ok] store.redis.single.port+SEATA_GROUP, 1663247075172, length=4, md5=92c3b916311a5517d9290576e3ea37ad
+
+2022-09-16 09:08:39,977 INFO [dump-all-ok] store.redis.maxConn+SEATA_GROUP, 1663247075174, length=2, md5=d3d9446802a44259755d38e6d163e820
+
+2022-09-16 09:08:39,977 INFO [dump-all-ok] store.redis.minConn+SEATA_GROUP, 1663247075176, length=1, md5=c4ca4238a0b923820dcc509a6f75849b
+
+2022-09-16 09:08:39,977 INFO [dump-all-ok] store.redis.maxTotal+SEATA_GROUP, 1663247075178, length=3, md5=f899139df5e1059396431415e770c6dd
+
+2022-09-16 09:08:39,977 INFO [dump-all-ok] store.redis.database+SEATA_GROUP, 1663247075180, length=1, md5=cfcd208495d565ef66e7dff9f98764da
+
+2022-09-16 09:08:39,977 INFO [dump-all-ok] store.redis.queryLimit+SEATA_GROUP, 1663247075183, length=3, md5=f899139df5e1059396431415e770c6dd
+
+2022-09-16 09:08:39,977 INFO [dump-all-ok] server.recovery.committingRetryPeriod+SEATA_GROUP, 1663247075186, length=4, md5=a9b7ba70783b617e9998dc4dd82eb3c5
+
+2022-09-16 09:08:39,978 INFO [dump-all-ok] server.recovery.asynCommittingRetryPeriod+SEATA_GROUP, 1663247075188, length=4, md5=a9b7ba70783b617e9998dc4dd82eb3c5
+
+2022-09-16 09:08:39,978 INFO [dump-all-ok] server.recovery.rollbackingRetryPeriod+SEATA_GROUP, 1663247075189, length=4, md5=a9b7ba70783b617e9998dc4dd82eb3c5
+
+2022-09-16 09:08:39,978 INFO [dump-all-ok] server.recovery.timeoutRetryPeriod+SEATA_GROUP, 1663247075191, length=4, md5=a9b7ba70783b617e9998dc4dd82eb3c5
+
+2022-09-16 09:08:39,978 INFO [dump-all-ok] server.maxCommitRetryTimeout+SEATA_GROUP, 1663247075193, length=2, md5=6bb61e3b7bce0931da574d19d1d82c88
+
+2022-09-16 09:08:39,980 INFO [dump-all-ok] server.maxRollbackRetryTimeout+SEATA_GROUP, 1663247075194, length=2, md5=6bb61e3b7bce0931da574d19d1d82c88
+
+2022-09-16 09:08:39,981 INFO [dump-all-ok] server.rollbackRetryTimeoutUnlockEnable+SEATA_GROUP, 1663247075196, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,982 INFO [dump-all-ok] server.distributedLockExpireTime+SEATA_GROUP, 1663247075198, length=5, md5=b7a782741f667201b54880c925faec4b
+
+2022-09-16 09:08:39,982 INFO [dump-all-ok] server.xaerNotaRetryTimeout+SEATA_GROUP, 1663247075201, length=5, md5=2b4226dd7ed6eb2d419b881f3ae9c97c
+
+2022-09-16 09:08:39,983 INFO [dump-all-ok] server.session.branchAsyncQueueSize+SEATA_GROUP, 1663247075203, length=4, md5=a35fe7f7fe8217b4369a0af4244d1fca
+
+2022-09-16 09:08:39,983 INFO [dump-all-ok] server.session.enableBranchAsyncRemove+SEATA_GROUP, 1663247075205, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,983 INFO [dump-all-ok] server.enableParallelRequestHandle+SEATA_GROUP, 1663247075206, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,983 INFO [dump-all-ok] metrics.enabled+SEATA_GROUP, 1663247075208, length=5, md5=68934a3e9455fa72420237eb05902327
+
+2022-09-16 09:08:39,983 INFO [dump-all-ok] metrics.registryType+SEATA_GROUP, 1663247075209, length=7, md5=7cf74ca49c304df8150205fc915cd465
+
+2022-09-16 09:08:39,983 INFO [dump-all-ok] metrics.exporterList+SEATA_GROUP, 1663247075211, length=10, md5=e4f00638b8a10e6994e67af2f832d51c
+
+2022-09-16 09:08:39,983 INFO [dump-all-ok] metrics.exporterPrometheusPort+SEATA_GROUP, 1663247075212, length=4, md5=7b9dc501afe4ee11c56a4831e20cee71
+
+2022-09-16 09:10:50,164 INFO [dump-task] add task. groupKey=transport.type+SEATA_GROUP, taskKey=transport.type+SEATA_GROUP++false+null
+
+2022-09-16 09:10:50,299 INFO [dump-task] add task. groupKey=metrics.exporterList+SEATA_GROUP, taskKey=metrics.exporterList+SEATA_GROUP++false+null
+
+2022-09-16 09:10:50,299 INFO [dump-task] add task. groupKey=metrics.exporterPrometheusPort+SEATA_GROUP, taskKey=metrics.exporterPrometheusPort+SEATA_GROUP++false+null
+
+2022-09-16 09:10:51,271 INFO [dump-task] add task. groupKey=transport.server+SEATA_GROUP, taskKey=transport.server+SEATA_GROUP++false+null
+
+2022-09-16 09:10:52,107 INFO [dump-task] add task. groupKey=transport.enableTmClientBatchSendRequest+SEATA_GROUP, taskKey=transport.enableTmClientBatchSendRequest+SEATA_GROUP++false+null
+
+2022-09-16 09:10:52,216 INFO [dump-task] add task. groupKey=transport.threadFactory.workerThreadSize+SEATA_GROUP, taskKey=transport.threadFactory.workerThreadSize+SEATA_GROUP++false+null
+
+2022-09-16 09:10:52,383 INFO [dump-task] add task. groupKey=transport.enableTcServerBatchSendResponse+SEATA_GROUP, taskKey=transport.enableTcServerBatchSendResponse+SEATA_GROUP++false+null
+
+2022-09-16 09:10:52,501 INFO [dump-task] add task. groupKey=transport.enableRmClientBatchSendRequest+SEATA_GROUP, taskKey=transport.enableRmClientBatchSendRequest+SEATA_GROUP++false+null
+
+2022-09-16 09:10:52,673 INFO [dump-task] add task. groupKey=transport.heartbeat+SEATA_GROUP, taskKey=transport.heartbeat+SEATA_GROUP++false+null
+
+2022-09-16 09:10:52,901 INFO [dump-task] add task. groupKey=transport.rpcTcRequestTimeout+SEATA_GROUP, taskKey=transport.rpcTcRequestTimeout+SEATA_GROUP++false+null
+
+2022-09-16 09:10:53,058 INFO [dump-task] add task. groupKey=transport.threadFactory.bossThreadSize+SEATA_GROUP, taskKey=transport.threadFactory.bossThreadSize+SEATA_GROUP++false+null
+
+2022-09-16 09:10:53,402 INFO [dump-task] add task. groupKey=service.enableDegrade+SEATA_GROUP, taskKey=service.enableDegrade+SEATA_GROUP++false+null
+
+2022-09-16 09:10:53,423 INFO [dump-task] add task. groupKey=transport.threadFactory.workerThreadPrefix+SEATA_GROUP, taskKey=transport.threadFactory.workerThreadPrefix+SEATA_GROUP++false+null
+
+2022-09-16 09:10:53,590 INFO [dump-task] add task. groupKey=transport.compressor+SEATA_GROUP, taskKey=transport.compressor+SEATA_GROUP++false+null
+
+2022-09-16 09:10:53,651 INFO [dump-task] add task. groupKey=transport.threadFactory.clientWorkerThreadPrefix+SEATA_GROUP, taskKey=transport.threadFactory.clientWorkerThreadPrefix+SEATA_GROUP++false+null
+
+2022-09-16 09:10:53,695 INFO [dump-task] add task. groupKey=client.rm.sagaBranchRegisterEnable+SEATA_GROUP, taskKey=client.rm.sagaBranchRegisterEnable+SEATA_GROUP++false+null
+
+2022-09-16 09:10:53,862 INFO [dump-task] add task. groupKey=service.disableGlobalTransaction+SEATA_GROUP, taskKey=service.disableGlobalTransaction+SEATA_GROUP++false+null
+
+2022-09-16 09:10:53,910 INFO [dump-task] add task. groupKey=client.rm.sqlParserType+SEATA_GROUP, taskKey=client.rm.sqlParserType+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,004 INFO [dump-task] add task. groupKey=client.rm.lock.retryInterval+SEATA_GROUP, taskKey=client.rm.lock.retryInterval+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,141 INFO [dump-task] add task. groupKey=client.rm.reportSuccessEnable+SEATA_GROUP, taskKey=client.rm.reportSuccessEnable+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,151 INFO [dump-task] add task. groupKey=client.rm.tableMetaCheckEnable+SEATA_GROUP, taskKey=client.rm.tableMetaCheckEnable+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,169 INFO [dump-task] add task. groupKey=transport.threadFactory.shareBossWorker+SEATA_GROUP, taskKey=transport.threadFactory.shareBossWorker+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,176 INFO [dump-task] add task. groupKey=transport.rpcTmRequestTimeout+SEATA_GROUP, taskKey=transport.rpcTmRequestTimeout+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,285 INFO [dump-task] add task. groupKey=transport.threadFactory.clientSelectorThreadSize+SEATA_GROUP, taskKey=transport.threadFactory.clientSelectorThreadSize+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,317 INFO [dump-task] add task. groupKey=client.tm.degradeCheckPeriod+SEATA_GROUP, taskKey=client.tm.degradeCheckPeriod+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,337 INFO [dump-task] add task. groupKey=client.rm.lock.retryPolicyBranchRollbackOnConflict+SEATA_GROUP, taskKey=client.rm.lock.retryPolicyBranchRollbackOnConflict+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,387 INFO [dump-task] add task. groupKey=client.tm.commitRetryCount+SEATA_GROUP, taskKey=client.tm.commitRetryCount+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,497 INFO [dump-task] add task. groupKey=client.rm.sagaJsonParser+SEATA_GROUP, taskKey=client.rm.sagaJsonParser+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,544 INFO [dump-task] add task. groupKey=transport.threadFactory.clientSelectorThreadPrefix+SEATA_GROUP, taskKey=transport.threadFactory.clientSelectorThreadPrefix+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,707 INFO [dump-task] add task. groupKey=transport.threadFactory.bossThreadPrefix+SEATA_GROUP, taskKey=transport.threadFactory.bossThreadPrefix+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,873 INFO [dump-task] add task. groupKey=client.rm.lock.retryTimes+SEATA_GROUP, taskKey=client.rm.lock.retryTimes+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,929 INFO [dump-task] add task. groupKey=client.undo.logTable+SEATA_GROUP, taskKey=client.undo.logTable+SEATA_GROUP++false+null
+
+2022-09-16 09:10:54,951 INFO [dump-task] add task. groupKey=client.tm.defaultGlobalTransactionTimeout+SEATA_GROUP, taskKey=client.tm.defaultGlobalTransactionTimeout+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,050 INFO [dump-task] add task. groupKey=store.lock.mode+SEATA_GROUP, taskKey=store.lock.mode+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,079 INFO [dump-task] add task. groupKey=server.undo.logDeletePeriod+SEATA_GROUP, taskKey=server.undo.logDeletePeriod+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,101 INFO [dump-task] add task. groupKey=client.rm.tccActionInterceptorOrder+SEATA_GROUP, taskKey=client.rm.tccActionInterceptorOrder+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,103 INFO [dump-task] add task. groupKey=client.rm.tableMetaCheckerInterval+SEATA_GROUP, taskKey=client.rm.tableMetaCheckerInterval+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,320 INFO [dump-task] add task. groupKey=tcc.fence.logTableName+SEATA_GROUP, taskKey=tcc.fence.logTableName+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,343 INFO [dump-task] add task. groupKey=server.session.branchAsyncQueueSize+SEATA_GROUP, taskKey=server.session.branchAsyncQueueSize+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,356 INFO [dump-task] add task. groupKey=client.tm.interceptorOrder+SEATA_GROUP, taskKey=client.tm.interceptorOrder+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,401 INFO [dump-task] add task. groupKey=client.undo.onlyCareUpdateColumns+SEATA_GROUP, taskKey=client.undo.onlyCareUpdateColumns+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,403 INFO [dump-task] add task. groupKey=client.tm.degradeCheckAllowTimes+SEATA_GROUP, taskKey=client.tm.degradeCheckAllowTimes+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,403 INFO [dump-task] add task. groupKey=store.db.dbType+SEATA_GROUP, taskKey=store.db.dbType+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,427 INFO [dump-task] add task. groupKey=service.default.grouplist+SEATA_GROUP, taskKey=service.default.grouplist+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,443 INFO [dump-task] add task. groupKey=store.db.user+SEATA_GROUP, taskKey=store.db.user+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,448 INFO [dump-task] add task. groupKey=store.redis.single.host+SEATA_GROUP, taskKey=store.redis.single.host+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,474 INFO [dump-task] add task. groupKey=client.tm.rollbackRetryCount+SEATA_GROUP, taskKey=client.tm.rollbackRetryCount+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,482 INFO [dump-task] add task. groupKey=client.undo.dataValidation+SEATA_GROUP, taskKey=client.undo.dataValidation+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,491 INFO [dump-task] add task. groupKey=server.recovery.timeoutRetryPeriod+SEATA_GROUP, taskKey=server.recovery.timeoutRetryPeriod+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,501 INFO [dump-task] add task. groupKey=server.recovery.committingRetryPeriod+SEATA_GROUP, taskKey=server.recovery.committingRetryPeriod+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,544 INFO [dump-task] add task. groupKey=server.undo.logSaveDays+SEATA_GROUP, taskKey=server.undo.logSaveDays+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,566 INFO [dump-task] add task. groupKey=client.undo.logSerialization+SEATA_GROUP, taskKey=client.undo.logSerialization+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,577 INFO [dump-task] add task. groupKey=store.file.maxBranchSessionSize+SEATA_GROUP, taskKey=store.file.maxBranchSessionSize+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,579 INFO [dump-task] add task. groupKey=store.mode+SEATA_GROUP, taskKey=store.mode+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,593 INFO [dump-task] add task. groupKey=client.undo.compress.enable+SEATA_GROUP, taskKey=client.undo.compress.enable+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,610 INFO [dump-task] add task. groupKey=store.db.maxWait+SEATA_GROUP, taskKey=store.db.maxWait+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,678 INFO [dump-task] add task. groupKey=store.redis.queryLimit+SEATA_GROUP, taskKey=store.redis.queryLimit+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,712 INFO [dump-task] add task. groupKey=store.db.datasource+SEATA_GROUP, taskKey=store.db.datasource+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,712 INFO [dump-task] add task. groupKey=store.db.minConn+SEATA_GROUP, taskKey=store.db.minConn+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,733 INFO [dump-task] add task. groupKey=store.redis.mode+SEATA_GROUP, taskKey=store.redis.mode+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,758 INFO [dump-task] add task. groupKey=store.db.lockTable+SEATA_GROUP, taskKey=store.db.lockTable+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,766 INFO [dump-task] add task. groupKey=server.maxCommitRetryTimeout+SEATA_GROUP, taskKey=server.maxCommitRetryTimeout+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,766 INFO [dump-task] add task. groupKey=store.file.dir+SEATA_GROUP, taskKey=store.file.dir+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,770 INFO [dump-task] add task. groupKey=server.enableParallelRequestHandle+SEATA_GROUP, taskKey=server.enableParallelRequestHandle+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,777 INFO [dump-task] add task. groupKey=server.distributedLockExpireTime+SEATA_GROUP, taskKey=server.distributedLockExpireTime+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,795 INFO [dump-task] add task. groupKey=server.recovery.rollbackingRetryPeriod+SEATA_GROUP, taskKey=server.recovery.rollbackingRetryPeriod+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,809 INFO [dump-task] add task. groupKey=store.db.driverClassName+SEATA_GROUP, taskKey=store.db.driverClassName+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,830 INFO [dump-task] add task. groupKey=store.file.fileWriteBufferCacheSize+SEATA_GROUP, taskKey=store.file.fileWriteBufferCacheSize+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,916 INFO [dump-task] add task. groupKey=store.file.sessionReloadReadSize+SEATA_GROUP, taskKey=store.file.sessionReloadReadSize+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,962 INFO [dump-task] add task. groupKey=store.db.queryLimit+SEATA_GROUP, taskKey=store.db.queryLimit+SEATA_GROUP++false+null
+
+2022-09-16 09:10:55,975 INFO [dump-task] add task. groupKey=server.recovery.asynCommittingRetryPeriod+SEATA_GROUP, taskKey=server.recovery.asynCommittingRetryPeriod+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,015 INFO [dump-task] add task. groupKey=store.file.maxGlobalSessionSize+SEATA_GROUP, taskKey=store.file.maxGlobalSessionSize+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,016 INFO [dump-task] add task. groupKey=store.redis.database+SEATA_GROUP, taskKey=store.redis.database+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,029 INFO [dump-task] add task. groupKey=client.undo.compress.type+SEATA_GROUP, taskKey=client.undo.compress.type+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,036 INFO [dump-task] add task. groupKey=client.undo.compress.threshold+SEATA_GROUP, taskKey=client.undo.compress.threshold+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,132 INFO [dump-task] add task. groupKey=server.session.enableBranchAsyncRemove+SEATA_GROUP, taskKey=server.session.enableBranchAsyncRemove+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,140 INFO [dump-task] add task. groupKey=server.rollbackRetryTimeoutUnlockEnable+SEATA_GROUP, taskKey=server.rollbackRetryTimeoutUnlockEnable+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,183 INFO [dump-task] add task. groupKey=store.redis.single.port+SEATA_GROUP, taskKey=store.redis.single.port+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,293 INFO [dump-task] add task. groupKey=store.db.url+SEATA_GROUP, taskKey=store.db.url+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,347 INFO [dump-task] add task. groupKey=store.db.maxConn+SEATA_GROUP, taskKey=store.db.maxConn+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,424 INFO [dump-task] add task. groupKey=store.db.password+SEATA_GROUP, taskKey=store.db.password+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,440 INFO [dump-task] add task. groupKey=store.db.distributedLockTable+SEATA_GROUP, taskKey=store.db.distributedLockTable+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,445 INFO [dump-task] add task. groupKey=client.rm.asyncCommitBufferLimit+SEATA_GROUP, taskKey=client.rm.asyncCommitBufferLimit+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,504 INFO [dump-task] add task. groupKey=transport.rpcRmRequestTimeout+SEATA_GROUP, taskKey=transport.rpcRmRequestTimeout+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,554 INFO [dump-task] add task. groupKey=transport.threadFactory.serverExecutorThreadPrefix+SEATA_GROUP, taskKey=transport.threadFactory.serverExecutorThreadPrefix+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,624 INFO [dump-task] add task. groupKey=metrics.enabled+SEATA_GROUP, taskKey=metrics.enabled+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,659 INFO [dump-task] add task. groupKey=transport.shutdown.wait+SEATA_GROUP, taskKey=transport.shutdown.wait+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,669 INFO [dump-task] add task. groupKey=transport.serialization+SEATA_GROUP, taskKey=transport.serialization+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,676 INFO [dump-task] add task. groupKey=store.session.mode+SEATA_GROUP, taskKey=store.session.mode+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,698 INFO [dump-task] add task. groupKey=client.rm.reportRetryCount+SEATA_GROUP, taskKey=client.rm.reportRetryCount+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,795 INFO [dump-task] add task. groupKey=store.db.globalTable+SEATA_GROUP, taskKey=store.db.globalTable+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,825 INFO [dump-task] add task. groupKey=store.redis.maxConn+SEATA_GROUP, taskKey=store.redis.maxConn+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,832 INFO [dump-task] add task. groupKey=store.db.branchTable+SEATA_GROUP, taskKey=store.db.branchTable+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,832 INFO [dump-task] add task. groupKey=log.exceptionRate+SEATA_GROUP, taskKey=log.exceptionRate+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,834 INFO [dump-task] add task. groupKey=client.tm.degradeCheck+SEATA_GROUP, taskKey=client.tm.degradeCheck+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,838 INFO [dump-task] add task. groupKey=tcc.fence.cleanPeriod+SEATA_GROUP, taskKey=tcc.fence.cleanPeriod+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,865 INFO [dump-task] add task. groupKey=store.file.flushDiskMode+SEATA_GROUP, taskKey=store.file.flushDiskMode+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,867 INFO [dump-task] add task. groupKey=server.xaerNotaRetryTimeout+SEATA_GROUP, taskKey=server.xaerNotaRetryTimeout+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,911 INFO [dump-task] add task. groupKey=store.redis.minConn+SEATA_GROUP, taskKey=store.redis.minConn+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,920 INFO [dump-task] add task. groupKey=server.maxRollbackRetryTimeout+SEATA_GROUP, taskKey=server.maxRollbackRetryTimeout+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,920 INFO [dump-task] add task. groupKey=store.redis.maxTotal+SEATA_GROUP, taskKey=store.redis.maxTotal+SEATA_GROUP++false+null
+
+2022-09-16 09:10:56,932 INFO [dump-task] add task. groupKey=metrics.registryType+SEATA_GROUP, taskKey=metrics.registryType+SEATA_GROUP++false+null
+

@@ -1,0 +1,166 @@
+2022-10-29 16:59:35,854 INFO Client connection 192.168.137.1:9000#true disconnect, remove instances and subscribers
+
+2022-10-29 16:59:36,200 INFO Client connection 192.168.137.1:9000#true connect
+
+2022-10-29 16:59:36,203 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=29}, 192.168.137.1:9000#true
+
+2022-10-29 18:09:22,778 INFO Client connection 192.168.137.1:9000#true disconnect, remove instances and subscribers
+
+2022-10-29 18:09:26,092 INFO Client connection 192.168.137.1:9000#true connect
+
+2022-10-29 18:09:26,092 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=31}, 192.168.137.1:9000#true
+
+2022-10-29 22:20:47,401 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:20:49,424 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:20:51,438 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:20:53,444 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:20:55,456 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:20:57,467 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:20:59,478 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:01,479 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:03,488 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:05,498 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:07,506 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:09,510 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:11,522 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:13,530 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:15,537 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:17,547 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:19,559 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:21,573 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:23,586 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:25,591 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:27,602 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:29,613 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:31,623 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:33,635 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:35,646 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:37,655 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:39,662 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:41,665 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:43,678 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:45,678 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:47,684 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:49,695 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:51,704 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:53,718 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:55,731 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:57,742 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:21:59,752 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:01,766 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:03,782 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:05,795 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:07,800 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:09,813 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:11,828 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:13,829 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:15,833 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:17,840 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:19,841 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:21,848 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:23,860 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:25,860 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:27,863 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:29,877 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:31,885 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:33,899 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:35,912 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:37,915 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:39,924 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:41,931 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:43,932 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:45,944 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:47,953 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:49,963 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:51,975 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:53,984 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:55,994 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:22:58,007 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:23:00,017 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:23:02,029 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:23:04,037 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:23:06,053 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:23:08,067 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:23:10,084 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:23:12,091 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:23:14,103 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:23:16,110 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:23:18,114 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-29 22:23:20,122 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1666659498578, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@55ff4aab, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+

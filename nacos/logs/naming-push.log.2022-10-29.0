@@ -1,0 +1,2 @@
+2022-10-29 16:59:36,239 INFO [PUSH] Task merge for Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=30}
+

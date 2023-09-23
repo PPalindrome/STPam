@@ -1,0 +1,148 @@
+2022-10-30 09:24:16,841 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2022-10-30 09:24:16,841 WARN Using naming.distro config to replace core.distro config
+
+2022-10-30 09:24:16,941 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-10-30 09:24:16,942 INFO listen for service meta change
+
+2022-10-30 09:24:21,406 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2022-10-30 09:24:21,406 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2022-10-30 09:24:21,407 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2022-10-30 09:24:21,407 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2022-10-30 09:24:22,305 INFO Load instance extension handler []
+
+2022-10-30 09:25:45,131 INFO Client connection 192.168.137.1:58613#true connect
+
+2022-10-30 09:25:46,321 INFO Client connection 192.168.137.1:9989#true connect
+
+2022-10-30 09:25:46,322 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:9989#true
+
+2022-10-30 09:25:48,424 INFO Client connection 192.168.137.1:20880#true connect
+
+2022-10-30 09:25:48,425 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-30 09:25:48,433 INFO Client connection 192.168.137.1:54803#true connect
+
+2022-10-30 09:25:49,757 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-30 09:25:51,244 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=0}, 192.168.137.1:20880#true
+
+2022-10-30 09:25:52,621 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:9989#true
+
+2022-10-30 09:28:42,561 INFO Client connection 192.168.137.1:52318#true connect
+
+2022-10-30 09:28:43,836 INFO Client connection 192.168.137.1:8081#true connect
+
+2022-10-30 09:28:43,836 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=0}, 192.168.137.1:8081#true
+
+2022-10-30 10:49:37,765 INFO Client connection 192.168.137.1:54803#true disconnect, remove instances and subscribers
+
+2022-10-30 10:49:37,765 INFO Client connection 192.168.137.1:9989#true disconnect, remove instances and subscribers
+
+2022-10-30 10:49:37,765 INFO Client connection 192.168.137.1:52318#true disconnect, remove instances and subscribers
+
+2022-10-30 10:49:37,765 INFO Client connection 192.168.137.1:8081#true disconnect, remove instances and subscribers
+
+2022-10-30 10:49:38,702 INFO Client connection 192.168.137.1:54803#true connect
+
+2022-10-30 10:49:39,146 INFO Client connection 192.168.137.1:9989#true connect
+
+2022-10-30 10:49:39,146 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=3}, 192.168.137.1:9989#true
+
+2022-10-30 10:49:39,531 INFO Client connection 192.168.137.1:8081#true connect
+
+2022-10-30 10:49:39,531 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=2}, 192.168.137.1:8081#true
+
+2022-10-30 10:49:42,166 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 10:49:44,180 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 10:49:44,582 INFO Client connection 192.168.137.1:52318#true connect
+
+2022-10-30 10:49:46,194 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 10:49:48,207 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 10:49:50,212 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 10:49:52,225 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 10:49:54,234 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 14:42:54,532 INFO Client connection 192.168.137.1:58613#true disconnect, remove instances and subscribers
+
+2022-10-30 14:42:54,532 INFO Client connection 192.168.137.1:54803#true disconnect, remove instances and subscribers
+
+2022-10-30 14:42:54,532 INFO Client connection 192.168.137.1:9989#true disconnect, remove instances and subscribers
+
+2022-10-30 14:42:54,532 INFO Client connection 192.168.137.1:52318#true disconnect, remove instances and subscribers
+
+2022-10-30 14:42:54,532 INFO Client connection 192.168.137.1:8081#true disconnect, remove instances and subscribers
+
+2022-10-30 14:42:55,564 ERROR local ip is not in serverlist, ip: 127.0.0.1:8848, serverlist: [Member{ip='127.0.0.1', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 14:42:56,209 INFO Client connection 192.168.137.1:9989#true connect
+
+2022-10-30 14:42:56,209 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=5}, 192.168.137.1:9989#true
+
+2022-10-30 14:42:56,664 INFO Client connection 192.168.137.1:8081#true connect
+
+2022-10-30 14:42:56,665 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=4}, 192.168.137.1:8081#true
+
+2022-10-30 14:42:57,566 ERROR local ip is not in serverlist, ip: 127.0.0.1:8848, serverlist: [Member{ip='127.0.0.1', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 14:42:59,576 ERROR local ip is not in serverlist, ip: 127.0.0.1:8848, serverlist: [Member{ip='127.0.0.1', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 14:43:00,082 INFO Client connection 192.168.137.1:52318#true connect
+
+2022-10-30 14:43:01,583 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 14:43:02,887 INFO Client connection 192.168.137.1:58613#true connect
+
+2022-10-30 14:43:03,585 ERROR local ip is not in serverlist, ip: 192.168.10.1:8848, serverlist: [Member{ip='192.168.10.1', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 14:43:04,299 INFO Client connection 192.168.137.1:54803#true connect
+
+2022-10-30 14:43:05,596 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 14:43:07,597 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 14:43:09,609 ERROR local ip is not in serverlist, ip: 172.27.70.121:8848, serverlist: [Member{ip='172.27.70.121', port=8848, state=UP, extendInfo={lastRefreshTime=1667093062160, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@166d8522, raftPort=7848, readyToUpgrade=true, version=2.1.1}}]
+
+2022-10-30 15:05:15,383 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-30 15:05:15,387 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-30 15:05:15,394 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService', ephemeral=true, revision=1}, 192.168.137.1:20880#true
+
+2022-10-30 15:05:16,221 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='stpam-service', ephemeral=true, revision=5}, 192.168.137.1:8081#true
+
+2022-10-30 15:05:20,379 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='algorithm-dubboService', ephemeral=true, revision=6}, 192.168.137.1:9989#true
+
+2022-10-30 15:05:46,711 INFO Client connection 192.168.137.1:20880#true disconnect, remove instances and subscribers
+
+2022-10-30 15:05:46,711 INFO Client connection 192.168.137.1:8081#true disconnect, remove instances and subscribers
+
+2022-10-30 15:05:51,715 INFO Client connection 192.168.137.1:9989#true disconnect, remove instances and subscribers
+
+2022-10-30 15:05:51,715 INFO Client connection 192.168.137.1:52318#true disconnect, remove instances and subscribers
+
+2022-10-30 15:05:56,726 INFO Client connection 192.168.137.1:58613#true disconnect, remove instances and subscribers
+
+2022-10-30 15:05:56,726 INFO Client connection 192.168.137.1:54803#true disconnect, remove instances and subscribers
+
+2022-10-30 15:06:54,732 WARN namespace : public, [DEFAULT_GROUP@@stpam-service] services are automatically cleaned
+
+2022-10-30 15:06:54,732 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:2.0.0:] services are automatically cleaned
+
+2022-10-30 15:06:54,732 WARN namespace : public, [DEFAULT_GROUP@@providers:com.example.commonstpam.service.IAlgorithmService:1.0.0:] services are automatically cleaned
+
+2022-10-30 15:06:54,732 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:algorithm-dubboService] services are automatically cleaned
+
+2022-10-30 15:06:54,732 WARN namespace : public, [DEFAULT_GROUP@@algorithm-dubboService] services are automatically cleaned
+

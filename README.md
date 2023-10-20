@@ -32,6 +32,7 @@ Back-end：SpringCloud, SpringBoot, SpringSecurity
 
 ##### or：http://47.92.157.59:8070
 
+##### When the web page cannot open, you can try refreshing it multiple times or wait for the element dependency to finish loading.
 
 
 ## **Install**

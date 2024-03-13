@@ -6,7 +6,7 @@
 
 STPam is developed under the leadership of Professor Zeqiang Chen from the National Geoinformation System Engineering Technology Research Center at China University of Geosciences (Wuhan). It is supported by the National Key Research and Development Program(2021YFF0704400). STPam focuses on the impact of spatiotemporal process analysis and mining in areas such as natural disaster evolution, environmental pollution, and human behavior prediction.
 
-Considering the diverse sources of spatio-temporal process data, the dynamic nature of spatio-temporal objects, and the complexity of model structures, STPam features dynamic adaptation of data sources, plug-and-play deep learning models, and distributed framework with collaborative data processing. It is compatible with mainstream deep learning frameworks and provides user-friendly online modeling services.
+Considering the diverse sources of spatio-temporal process data, the dynamic nature of spatio-temporal objects, and the complexity of model structures, STPam features dynamic adaptation of data sources, plug-and-play deep learning models, and distributed framework with collaborative data processing. It is compatible with mainstream deep learning frameworks and provides user-friendly online modeling services. 
 
 
 
@@ -16,7 +16,7 @@ The architecture of the STPam system is shown in the following diagram,
 It mainly consists of four modules:
 
 1. Front-end interaction layer: Provides visualization training for spatio-temporal processes and demonstrates the application of flood disaster in the middle reaches of the Yangtze River (under research).
-2. Microservice business layer: Microservices for managing multi-source big data, plug-and-play deep learning models, distributed analysis and mining, spatio-temporal product display, secure access and authorization, service registration and discovery, load balancing, and other non-business logic.
+2. Microservice business layer: Microservices for managing multi-source big data, plug-and-play deep learning models, distributed analysis and mining, spatio-temporal product display, secure access and authorization, service registration and discovery, load balancing, and other non-business logic. 
 3. Distributed computing layer: Incorporates incremental learning (under research), multi-framework hybrid programming, and parallel distributed optimization computing for time-series data segmentation.
 4. Multi-source data I/O layer: Provides methods for adapting, loading, and transforming multi-source spatio-temporal data.
 
@@ -24,24 +24,13 @@ Front-end：Vue，Axios，ElementPlus
 
 Back-end：SpringCloud, SpringBoot, SpringSecurity
 
-
-
-## **Quick Start**
-
-##### Website: http://stpam.chenzeqiang.top:8070
-
-##### or：http://47.92.157.59:8070
-
-##### The webpage takes 4-5 seconds to load on Microsoft Edge and 10 seconds on Chrome (First time). It is possible that Google Chrome may require refreshing the page twice.
-
-
 ## **Install**
 
 ### 1. Install STPam using Docker image
 
 *<u>**Python and distributed environment have been encapsulated, no additional configuration is required**</u>*
 
-##### search Docker image of STPam
+##### search Docker image of STPam 
 
 ```shell
 docker search STPam

@@ -6,7 +6,7 @@
 
 STPam is developed under the leadership of Professor Zeqiang Chen from the National Geoinformation System Engineering Technology Research Center at China University of Geosciences (Wuhan). It is supported by the National Key Research and Development Program(2021YFF0704400). STPam focuses on the impact of spatiotemporal process analysis and mining in areas such as natural disaster evolution, environmental pollution, and human behavior prediction.
 
-Considering the diverse sources of spatio-temporal process data, the dynamic nature of spatio-temporal objects, and the complexity of model structures, STPam features dynamic adaptation of data sources, plug-and-play deep learning models, and distributed framework with collaborative data processing. It is compatible with mainstream deep learning frameworks and provides user-friendly online modeling services. 
+Considering the diverse sources of spatio-temporal process data, the dynamic nature of spatio-temporal objects, and the complexity of model structures, STPam features dynamic adaptation of data sources, plug-and-play deep learning models, and distributed framework with collaborative data processing. It is compatible with mainstream deep learning frameworks and provides user-friendly online modeling services.  
 
 
 
@@ -17,7 +17,7 @@ It mainly consists of four modules:
 
 1. Front-end interaction layer: Provides visualization training for spatio-temporal processes and demonstrates the application of flood disaster in the middle reaches of the Yangtze River (under research).
 2. Microservice business layer: Microservices for managing multi-source big data, plug-and-play deep learning models, distributed analysis and mining, spatio-temporal product display, secure access and authorization, service registration and discovery, load balancing, and other non-business logic. 
-3. Distributed computing layer: Incorporates incremental learning (under research), multi-framework hybrid programming, and parallel distributed optimization computing for time-series data segmentation.
+3. Distributed computing layer: Incorporates incremental learning (under research), multi-framework hybrid programming, and parallel distributed optimization computing for time-series data segmentation. 
 4. Multi-source data I/O layer: Provides methods for adapting, loading, and transforming multi-source spatio-temporal data.
 
 Front-end：Vue，Axios，ElementPlus
@@ -108,9 +108,6 @@ The following table lists the system environment and third-party dependencies re
 | ubuntu       | 20.04.1     | Linux operation system                                |
 | gcc          | 7.5 ~ 9.4.0 | GNU Compiler Collection                               |
 
-##### download source code
-
-url：http://47.92.157.59:8090/panhuiwen/stpam
 
 ##### start
 
@@ -185,7 +182,7 @@ Deep learning model file structure analysis, real-time update
 
 1. Distributed computing
 
-Select the deep learning framework suitable for the model, call the distributed API to complete the distributed analysis mining task of the spatio-temporal process, and display the model training process and GPU status
+Select the deep learning framework suitable for the model, call the distributed API to complete the distributed analysis mining task of the spatio-temporal process, and display the model training process and GPU status 
 
 2. Incremental Learning (in progress)
 
@@ -206,5 +203,5 @@ Real-time data combined with historical data learning features to accelerate spa
 
 ## **Contact us**
 
-E-mail: chenzeqiang@cug.edu.cn，phw1220@cug.edu.cn
+E-mail: chenzeqiang@cug.edu.cn 
 
